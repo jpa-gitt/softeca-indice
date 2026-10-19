@@ -1,1 +1,36 @@
-{"baseline":"2026-09-26","updated":"2026-10-12T12:15:07Z","scan":"12 de outubro de 2026","versions":{"4k-software-4k-downloader":"6.5.23","linqpad-premium":"9.11.10","leawo-prof-media":"13.0.1.6","kls-backup":"15.0.0.1","irix-hdr-pro":"3.0.0","hetman-uneraser":"7.5","hetman-raid-recovery":"3.2","hetman-photo-recovery":"7.3","hetman-partition-recovery":"5.5","hetman-office-recovery":"5.3","hetman-internet-spy":"4.4"},"add":[],"bumps":[["linqpad-premium","9.10.19","9.11.10"],["leawo-prof-media","13.0.1.3","13.0.1.6"],["kls-backup","14.0.5.1","15.0.0.1"],["irix-hdr-pro","2.3.58","3.0.0"],["hetman-uneraser","7.4","7.5"],["hetman-raid-recovery","3.1","3.2"],["hetman-photo-recovery","7.2","7.3"],["hetman-partition-recovery","5.4","5.5"],["hetman-office-recovery","5.2","5.3"],["hetman-internet-spy","4.3","4.4"]],"added":[]}
+{
+  "baseline": "2026-09-26",
+  "updated": "2026-10-19T12:16:10Z",
+  "scan": "19 de outubro de 2026",
+  "versions": {
+    "4k-software-4k-downloader": "6.5.23",
+    "linqpad-premium": "9.11.10",
+    "leawo-prof-media": "13.0.1.6",
+    "kls-backup": "15.0.0.1",
+    "irix-hdr-pro": "3.0.0",
+    "hetman-uneraser": "7.5",
+    "hetman-raid-recovery": "3.2",
+    "hetman-photo-recovery": "7.3",
+    "hetman-partition-recovery": "5.5",
+    "hetman-office-recovery": "5.3",
+    "hetman-internet-spy": "4.4",
+    "mindgems-fast-duplicate-file-finder": "7.3.0.2",
+    "ezee-graphic-designer": "2.1.4.0",
+    "em-client": "11.0.1201",
+    "earthview": "7.19.1",
+    "earthtime": "6.36.1",
+    "diffchecker": "7.2.9",
+    "fast-video-cataloger": "10.4.0.0"
+  },
+  "add": [],
+  "bumps": [
+    ["mindgems-fast-duplicate-file-finder", "7.3.0.1", "7.3.0.2"],
+    ["ezee-graphic-designer", "2.1.2.0", "2.1.4.0"],
+    ["em-client", "10.4.5674", "11.0.1201"],
+    ["earthview", "7.18.1", "7.19.1"],
+    ["earthtime", "6.35.1", "6.36.1"],
+    ["diffchecker", "7.2.5", "7.2.9"],
+    ["fast-video-cataloger", "10.3.1.0", "10.4.0.0"]
+  ],
+  "added": []
+}
