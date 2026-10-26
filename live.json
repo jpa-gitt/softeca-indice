@@ -1,7 +1,7 @@
 {
   "baseline": "2026-09-26",
-  "updated": "2026-10-19T12:16:10Z",
-  "scan": "19 de outubro de 2026",
+  "updated": "2026-10-26T12:18:38Z",
+  "scan": "26 de outubro de 2026",
   "versions": {
     "4k-software-4k-downloader": "6.5.23",
     "linqpad-premium": "9.11.10",
@@ -20,17 +20,93 @@
     "earthview": "7.19.1",
     "earthtime": "6.36.1",
     "diffchecker": "7.2.9",
-    "fast-video-cataloger": "10.4.0.0"
+    "fast-video-cataloger": "10.4.0.0",
+    "tikz-editor": "1.0.0",
+    "hoard": "1.3.0",
+    "cline-bot": "4.1.26",
+    "ascomp-easy-slideshow-professional": "2.201",
+    "akk-cinelibrary": "4.8.0",
+    "ajay-bura-cinny": "4.12.8",
+    "atomic-chat": "2.2.26",
+    "anarlog": "1.4.32",
+    "reqable": "3.3.5"
   },
-  "add": [],
-  "bumps": [
-    ["mindgems-fast-duplicate-file-finder", "7.3.0.1", "7.3.0.2"],
-    ["ezee-graphic-designer", "2.1.2.0", "2.1.4.0"],
-    ["em-client", "10.4.5674", "11.0.1201"],
-    ["earthview", "7.18.1", "7.19.1"],
-    ["earthtime", "6.35.1", "6.36.1"],
-    ["diffchecker", "7.2.5", "7.2.9"],
-    ["fast-video-cataloger", "10.3.1.0", "10.4.0.0"]
+  "add": [
+    [
+      "asoftis-pdf-editor",
+      "Asoftis PDF Editor",
+      "1.3.8",
+      "Asoftis PDF Editor 1.3.8",
+      "escritorio",
+      0
+    ],
+    [
+      "soundcraft",
+      "Soundcraft",
+      "0.13.1",
+      "Soundcraft 0.13.1",
+      "audio",
+      0
+    ],
+    [
+      "arturia-minifreak",
+      "Arturia MiniFreak",
+      "5.1.1",
+      "Arturia MiniFreak 5.1.1",
+      "audio",
+      0
+    ]
   ],
-  "added": []
+  "bumps": [
+    [
+      "tikz-editor",
+      "0.5.2",
+      "1.0.0"
+    ],
+    [
+      "hoard",
+      "1.2.0",
+      "1.3.0"
+    ],
+    [
+      "cline-bot",
+      "4.1.21",
+      "4.1.26"
+    ],
+    [
+      "ascomp-easy-slideshow-professional",
+      "2.104",
+      "2.201"
+    ],
+    [
+      "akk-cinelibrary",
+      "3.4.2",
+      "4.8.0"
+    ],
+    [
+      "ajay-bura-cinny",
+      "4.12.7",
+      "4.12.8"
+    ],
+    [
+      "atomic-chat",
+      "2.0.44",
+      "2.2.26"
+    ],
+    [
+      "anarlog",
+      "1.4.26",
+      "1.4.32"
+    ],
+    [
+      "reqable",
+      "3.2.23",
+      "3.3.5"
+    ]
+  ],
+  "added": [
+    "asoftis-pdf-editor",
+    "soundcraft",
+    "arturia-minifreak"
+  ]
 }
