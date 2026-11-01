@@ -1,0 +1,54 @@
+name: protect-live
+on:
+  push:
+    branches: [main]
+    paths: [live.json]
+permissions:
+  contents: write
+jobs:
+  guard:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          fetch-depth: 2
+      - name: Revert a shrink
+        run: |
+          python3 << 'PY'
+          import json, subprocess, sys
+
+          def load(rev):
+              raw = subprocess.check_output(["git", "show", f"{rev}:live.json"])
+              return json.loads(raw)
+
+          try:
+              previous = load("HEAD~1")
+              current = load("HEAD")
+          except Exception as error:
+              print(f"invalid live.json: {error}")
+              shrink = True
+              previous = None
+          else:
+              shrink = (
+                  len(current.get("versions") or {}) < len(previous.get("versions") or {})
+                  or len(current.get("add") or []) < len(previous.get("add") or [])
+              )
+              print(
+                  "previous",
+                  len(previous.get("versions") or {}),
+                  len(previous.get("add") or []),
+                  "current",
+                  len(current.get("versions") or {}),
+                  len(current.get("add") or []),
+              )
+          if not shrink:
+              sys.exit(0)
+          if previous is None:
+              print("cannot restore: previous commit is not valid JSON")
+              sys.exit(1)
+          subprocess.check_call(["git", "checkout", "HEAD~1", "--", "live.json"])
+          subprocess.check_call(["git", "config", "user.email", "41898282+github-actions[bot]@users.noreply.github.com"])
+          subprocess.check_call(["git", "config", "user.name", "github-actions[bot]"])
+          subprocess.check_call(["git", "commit", "-m", "Reverte live.json porque a contagem diminuiu."])
+          subprocess.check_call(["git", "push", "origin", "HEAD"])
+          PY
