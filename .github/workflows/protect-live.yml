@@ -2,53 +2,126 @@ name: protect-live
 on:
   push:
     branches: [main]
-    paths: [live.json]
+    paths:
+      - live.json
+      - delta.json
 permissions:
   contents: write
+concurrency:
+  group: protect-live
+  cancel-in-progress: false
 jobs:
   guard:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v4
         with:
-          fetch-depth: 2
-      - name: Revert a shrink
+          fetch-depth: 50
+      - name: Restore and apply the weekly delta
         run: |
           python3 << 'PY'
           import json, subprocess, sys
 
-          def load(rev):
-              raw = subprocess.check_output(["git", "show", f"{rev}:live.json"])
-              return json.loads(raw)
+          def show(rev, path):
+              return subprocess.check_output(["git", "show", f"{rev}:{path}"])
+
+          def parse_live(raw):
+              data = json.loads(raw)
+              if not isinstance(data, dict) or not isinstance(data.get("versions"), dict):
+                  return None
+              if not isinstance(data.get("add"), list):
+                  return None
+              if len(data["versions"]) < 100:
+                  return None
+              return data
+
+          def last_good():
+              for i in range(1, 40):
+                  rev = f"HEAD~{i}"
+                  try:
+                      data = parse_live(show(rev, "live.json"))
+                  except Exception:
+                      continue
+                  if data:
+                      return rev, data
+              return None, None
 
           try:
-              previous = load("HEAD~1")
-              current = load("HEAD")
+              current = parse_live(show("HEAD", "live.json"))
           except Exception as error:
-              print(f"invalid live.json: {error}")
-              shrink = True
-              previous = None
-          else:
-              shrink = (
-                  len(current.get("versions") or {}) < len(previous.get("versions") or {})
-                  or len(current.get("add") or []) < len(previous.get("add") or [])
-              )
-              print(
-                  "previous",
-                  len(previous.get("versions") or {}),
-                  len(previous.get("add") or []),
-                  "current",
-                  len(current.get("versions") or {}),
-                  len(current.get("add") or []),
-              )
-          if not shrink:
-              sys.exit(0)
-          if previous is None:
-              print("cannot restore: previous commit is not valid JSON")
+              print(f"current invalid: {error}")
+              current = None
+
+          good_rev, good = last_good()
+          if good is None and current is None:
+              print("no valid live.json in recent history")
               sys.exit(1)
-          subprocess.check_call(["git", "checkout", "HEAD~1", "--", "live.json"])
+
+          baseline = current or good
+          shrink = current is None or (
+              good is not None and (
+                  len(current["versions"]) < len(good["versions"])
+                  or len(current["add"]) < len(good["add"])
+              )
+          )
+          if shrink:
+              print("restore", good_rev, len(good["versions"]), len(good["add"]))
+              subprocess.check_call(["git", "checkout", good_rev, "--", "live.json"])
+          else:
+              print("live ok", len(current["versions"]), len(current["add"]))
+
+          try:
+              delta = json.loads(show("HEAD", "delta.json"))
+          except Exception as error:
+              print(f"no usable delta: {error}")
+              delta = None
+
+          if isinstance(delta, dict):
+              live = json.loads(open("live.json", encoding="utf-8").read())
+              bumps = delta.get("bumps") if isinstance(delta.get("bumps"), list) else []
+              added = delta.get("add") if isinstance(delta.get("add"), list) else []
+              if len(bumps) > 5000 or len(added) > 5000:
+                  print("delta too large, ignored")
+              else:
+                  known = set(live["versions"]) | {row[0] for row in live["add"] if isinstance(row, list) and row}
+                  for bump in bumps:
+                      if not isinstance(bump, list) or len(bump) < 3:
+                          continue
+                      item_id, _previous, nxt = bump[0], bump[1], bump[2]
+                      if not isinstance(item_id, str) or not isinstance(nxt, str) or not nxt.strip():
+                          continue
+                      live["versions"][item_id] = nxt.strip()
+                  have = {row[0] for row in live["add"] if isinstance(row, list) and row}
+                  for row in added:
+                      if not isinstance(row, list) or len(row) < 6 or not isinstance(row[0], str):
+                          continue
+                      if row[0] in have or row[0] in live["versions"]:
+                          continue
+                      live["add"].append(row[:6])
+                      have.add(row[0])
+                  if bumps:
+                      live["bumps"] = [b[:3] for b in bumps if isinstance(b, list) and len(b) >= 3]
+                  if isinstance(delta.get("added"), list):
+                      live["added"] = [x for x in delta["added"] if isinstance(x, str)]
+                  elif added:
+                      live["added"] = [row[0] for row in added if isinstance(row, list) and row]
+                  scan = delta.get("scan")
+                  if isinstance(scan, str) and scan.strip():
+                      live["scan"] = scan.strip()[:80]
+                  updated = delta.get("updated")
+                  if isinstance(updated, str) and updated.strip():
+                      live["updated"] = updated.strip()[:40]
+                  with open("live.json", "w", encoding="utf-8") as handle:
+                      json.dump(live, handle, ensure_ascii=False, indent=2)
+                      handle.write("\n")
+                  print("delta applied", len(live["versions"]), len(live["add"]))
+
+          subprocess.check_call(["git", "add", "live.json"])
+          if subprocess.call(["git", "diff", "--cached", "--quiet"]) == 0:
+              print("nothing to commit")
+              sys.exit(0)
           subprocess.check_call(["git", "config", "user.email", "41898282+github-actions[bot]@users.noreply.github.com"])
           subprocess.check_call(["git", "config", "user.name", "github-actions[bot]"])
-          subprocess.check_call(["git", "commit", "-m", "Reverte live.json porque a contagem diminuiu."])
+          subprocess.check_call(["git", "commit", "-m", "Restaura o índice. Uma gravação tinha diminuído a lista."])
           subprocess.check_call(["git", "push", "origin", "HEAD"])
           PY
