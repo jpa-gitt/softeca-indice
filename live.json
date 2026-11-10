@@ -1,7 +1,7 @@
 {
   "baseline": "2026-09-26",
-  "updated": "2026-11-09T12:15:00Z",
-  "scan": "9 de novembro de 2026",
+  "updated": "2026-11-10T05:19:00Z",
+  "scan": "10 de novembro de 2026",
   "versions": {
     "4k-software-4k-downloader": "6.5.29",
     "access-agility-wifi-scanner": "2026.2.35143.0",
@@ -350,7 +350,7 @@
     "hitek-software-autokrypt": "14.06",
     "hitek-software-ableftp": "14.06",
     "abelssoft-everdoc": "12.0.76427",
-    "xnviewmp": "1.12.1",
+    "xnviewmp": "1.12.3",
     "xnview-mp-free": "1.12.1",
     "photo-supreme": "2026.4.3.9723",
     "hex-editor-neo": "8.25.01.9585",
@@ -871,7 +871,16 @@
     "media-player-classic-home-cinema": "2.8.5",
     "tyrrrz-lightbulb": "2.7.3",
     "glary-disk-speedup": "6.0.1.18",
-    "creator-nxt": "22.1.244.0"
+    "creator-nxt": "22.1.244.0",
+    "glary-utilities": "6.50.0.54",
+    "klite-codec-pack": "20.2.0",
+    "windowmanager": "10.27.4",
+    "sigil-ebook-editor": "2.8.6",
+    "system-mechanic": "27.1.1.5",
+    "on1-photo-raw": "27.0.3.19492",
+    "wipe-pro": "2026.13",
+    "desksoft-fastfolders": "5.14.3",
+    "readiris-pdf": "27.0.767.0"
   },
   "add": [
     [
@@ -2141,353 +2150,55 @@
   ],
   "bumps": [
     [
-      "scrapy",
-      "2.19.0",
-      "2.20.0"
+      "xnviewmp",
+      "1.12.1",
+      "1.12.3"
     ],
     [
-      "akk-cinelibrary-essentials",
-      "1.2.9",
-      "1.4.0"
+      "glary-utilities",
+      "6.48.0.52",
+      "6.50.0.54"
     ],
     [
-      "frostwire",
-      "7.1.2",
-      "7.1.3"
+      "klite-codec-pack",
+      "20.0.0",
+      "20.2.0"
     ],
     [
-      "digiarty-aiarty-video-enhancer",
-      "3.8",
-      "3.9"
+      "windowmanager",
+      "10.27.3",
+      "10.27.4"
     ],
     [
-      "jakub-melka-pdf4qt",
-      "1.6.0.0",
-      "1.7.0.0"
+      "sigil-ebook-editor",
+      "2.8.1",
+      "2.8.6"
     ],
     [
-      "media-player-codec-pack",
-      "5.5.2",
-      "5.5.4"
+      "system-mechanic",
+      "26.5.1.249",
+      "27.1.1.5"
     ],
     [
-      "vivaldi",
-      "8.2.4133.96",
-      "8.3.4191.30"
+      "on1-photo-raw",
+      "2026.5.1 v20.5.1.19148",
+      "27.0.3.19492"
     ],
     [
-      "jamulus-for-windows",
-      "3.12.5",
-      "3.12.6"
+      "wipe-pro",
+      "2026.11",
+      "2026.13"
     ],
     [
-      "softfever-orca-slicer",
-      "2.4.2",
-      "2.5.0"
+      "desksoft-fastfolders",
+      "5.14.2",
+      "5.14.3"
     ],
     [
-      "parted-magic",
-      "26.09",
-      "26.11.1"
-    ],
-    [
-      "nub",
-      "0.9.6",
-      "0.10.0"
-    ],
-    [
-      "ascendara",
-      "11.8.0",
-      "12.2.2"
-    ],
-    [
-      "flameshot",
-      "14.0.0",
-      "15.0.0"
-    ],
-    [
-      "wardpearce-materialious",
-      "1.18.11",
-      "1.18.21"
-    ],
-    [
-      "hepta-platforms-heptabase",
-      "1.114.0",
-      "1.117.0"
-    ],
-    [
-      "oleafly",
-      "0.4.8",
-      "0.4.11"
-    ],
-    [
-      "calagopus-panel",
-      "1.2.7",
-      "1.2.9"
-    ],
-    [
-      "markflowy",
-      "1.2.1",
-      "1.3.0"
-    ],
-    [
-      "maxthon-browser",
-      "7.5.3.3400",
-      "7.5.3.4000"
-    ],
-    [
-      "lore-version-control",
-      "0.12.0",
-      "0.13.0"
-    ],
-    [
-      "ziggity",
-      "0.48.0",
-      "0.59.0"
-    ],
-    [
-      "omniroute",
-      "3.8.51",
-      "3.8.53"
-    ],
-    [
-      "advent-development-kudu",
-      "3.5.0",
-      "3.13.0"
-    ],
-    [
-      "hew3d-hew",
-      "1.3.1",
-      "1.4.0"
-    ],
-    [
-      "access-agility-wifi-scanner",
-      "2026.2.35121.0",
-      "2026.2.35143.0"
-    ],
-    [
-      "telegram-desktop",
-      "7.2.9",
-      "7.4.1"
-    ],
-    [
-      "glary-disk-cleaner",
-      "6.0.1.47",
-      "6.0.1.49"
-    ],
-    [
-      "trustsing-idefender",
-      "6.1.1",
-      "6.2.1"
-    ],
-    [
-      "skyjake-lagrange",
-      "1.21.2",
-      "2.0.1"
-    ],
-    [
-      "google-chrome-canary",
-      "159.0.8131.0",
-      "159.0.8151.0"
-    ],
-    [
-      "mexit-multios-usb",
-      "0.14.2",
-      "0.15.0"
-    ],
-    [
-      "chatbox-ai",
-      "1.23.5",
-      "1.24.2"
-    ],
-    [
-      "sharex",
-      "21.0.0",
-      "22.4.0"
-    ],
-    [
-      "cherrytree",
-      "1.7.2",
-      "1.7.3"
-    ],
-    [
-      "muhammad-usharab-revive-faces-0001",
-      "2.0.19",
-      "2.0.20"
-    ],
-    [
-      "akk-cinelibrary",
-      "4.8.1",
-      "5.3.0"
-    ],
-    [
-      "le-tan-vnote",
-      "4.8.0",
-      "4.14.1"
-    ],
-    [
-      "hibase-dbf-recovery",
-      "4.82",
-      "4.84"
-    ],
-    [
-      "pitara",
-      "7.0.9613.17432",
-      "7.0.9807.2644"
-    ],
-    [
-      "muhammad-usharab-scale-photo-up-0001",
-      "2.0.19",
-      "2.0.20"
-    ],
-    [
-      "diskraptor",
-      "1.0.48",
-      "1.0.53"
-    ],
-    [
-      "glary-tracks-eraser",
-      "6.0.1.32",
-      "6.0.1.33"
-    ],
-    [
-      "uniterm",
-      "1.11.2",
-      "1.12.2"
-    ],
-    [
-      "hai-nguyen-mechvibes",
-      "2.3.4",
-      "3.5.6"
-    ],
-    [
-      "winds-pro-emulators",
-      "2026.10.23",
-      "2026.11.06"
-    ],
-    [
-      "jan-de-dobbeleer-oh-my-posh",
-      "31.4.1",
-      "32.0.0"
-    ],
-    [
-      "ungoogled-chromium",
-      "156.0.8078.47",
-      "157.0.8103.38"
-    ],
-    [
-      "rpcs3",
-      "0.0.43-20215",
-      "0.0.43-20573"
-    ],
-    [
-      "aandyprogram-scrawler",
-      "2026.10.26.0",
-      "2026.11.8.0"
-    ],
-    [
-      "4gray-iptvnator",
-      "0.24.0",
-      "0.25.0"
-    ],
-    [
-      "cleaning-suite",
-      "5.000",
-      "5.002"
-    ],
-    [
-      "allmapsoft-offline-map-maker",
-      "8.392",
-      "8.393"
-    ],
-    [
-      "patrizio-bekerle-qown-notes",
-      "26.10.13",
-      "26.11.6"
-    ],
-    [
-      "aeroftp",
-      "4.2.5",
-      "4.2.7"
-    ],
-    [
-      "muhammad-usharab-let-it-be-light-0001",
-      "2.0.19",
-      "2.0.20"
-    ],
-    [
-      "will-be-done",
-      "0.12.0",
-      "0.14.0"
-    ],
-    [
-      "codebridge-lispr",
-      "1.32",
-      "1.35"
-    ],
-    [
-      "koodo-reader",
-      "2.4.5",
-      "2.4.7"
-    ],
-    [
-      "xammen-bettertrumpet",
-      "3.4.0",
-      "3.5.0"
-    ],
-    [
-      "paseo-ai",
-      "0.13.2",
-      "0.15.3"
-    ],
-    [
-      "media-player-classic-home-cinema",
-      "2.8.2",
-      "2.8.5"
-    ],
-    [
-      "tyrrrz-lightbulb",
-      "2.7.2",
-      "2.7.3"
-    ],
-    [
-      "reqable",
-      "3.3.8",
-      "3.3.11"
-    ],
-    [
-      "quitter-addiction-recovery-tracker",
-      "1.1.80",
-      "1.1.84"
-    ],
-    [
-      "glary-disk-speedup",
-      "6.0.1.17",
-      "6.0.1.18"
-    ],
-    [
-      "creator-nxt",
-      "22.1.236.0",
-      "22.1.244.0"
-    ],
-    [
-      "beekeeperstudio",
-      "6.2.0",
-      "6.2.2"
-    ],
-    [
-      "gitdesktop",
-      "0.13.7",
-      "0.14.0"
+      "readiris-pdf",
+      "25.4.64.0",
+      "27.0.767.0"
     ]
   ],
-  "added": [
-    "deckcraft",
-    "nabyscape",
-    "cadcraft",
-    "lynx-share",
-    "soundcraft",
-    "craft-anything",
-    "stedding-browser"
-  ]
+  "added": []
 }
