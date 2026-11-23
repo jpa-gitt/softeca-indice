@@ -1,120 +1,120 @@
 {
   "baseline": "2026-09-26",
-  "updated": "2026-11-23T12:53:00Z",
+  "updated": "2026-11-23T18:44:34Z",
   "scan": "23 de novembro de 2026",
   "versions": {
-    "4k-software-4k-downloader": "6.5.29",
+    "4k-software-4k-downloader": "6.6.4",
     "access-agility-wifi-scanner": "2026.2.35152.0",
     "aescripts-ae-glass-0001": "1.2.2",
     "aescripts-justpaste": "2.0.0",
-    "aescripts-react-plugin-for-after-effects": "3.0.1",
+    "aescripts-react-plugin-for-after-effects": "3.0.3",
     "aescripts-rendersmith": "1.2.1",
     "agisoft-metashape": "2.4.0.23256",
     "ai-grammar-studio": "1.4.0",
     "bytesweavers-ai-text-and-image-to-3d-generator-pro": "3.0.6",
-    "akk-cinelibrary": "5.3.0",
+    "akk-cinelibrary": "5.5.5",
     "akk-english-myanmar-dictionary": "1.2.0",
     "akk-netmon": "1.8.0",
-    "allavsoft-video-downloader-converter": "3.29.6.9765",
-    "allmapsoft-offline-map-maker": "8.393",
-    "universal-maps-downloader": "10.260",
+    "allavsoft-video-downloader-converter": "3.29.7.9816",
+    "allmapsoft-offline-map-maker": "8.395",
+    "universal-maps-downloader": "10.263",
     "altium-designer-agile": "26.10.1",
-    "anarlog": "1.4.33",
-    "any-video-downloader-pro": "10.5.0",
+    "anarlog": "1.4.35",
+    "any-video-downloader-pro": "10.5.8",
     "armortools-home": "26.9.1",
     "armortools-professional": "26.9.1",
     "ascomp-keyctrl-professional": "2.203",
     "athas-code-editor": "0.15.1",
     "ascomp-backup-maker": "8.411",
     "bazarr": "1.6.2",
-    "bulk-image-downloader": "6.67",
-    "calagopus-panel": "1.2.9",
-    "cxworld-capframex": "1.9.1",
+    "bulk-image-downloader": "6.68",
+    "calagopus-panel": "1.2.11",
+    "cxworld-capframex": "1.9.2",
     "cogin-queueexplorer": "5.1.2",
-    "danil-pristupov-fork": "2.23",
-    "database-tour": "11.7.3.2139",
+    "danil-pristupov-fork": "2.24",
+    "database-tour": "11.7.5.1760",
     "mathtype": "7.12.3.470",
-    "desktop-calendar": "3.33.314.9452",
-    "devolutions-launcher": "2026.3.16.0",
+    "desktop-calendar": "3.33.320.9563",
+    "devolutions-launcher": "2026.3.18.0",
     "diptrace": "5.3.5.1",
     "damen-knight-discalt": "0.2.0",
     "techygeekshome-diskgeek": "1.1.1",
-    "diskraptor": "1.0.53",
-    "dismtools": "0.8.2.261025",
+    "diskraptor": "1.0.58",
+    "dismtools": "0.9.261122",
     "display-driver-uninstaller": "18.1.6.3",
-    "double-commander": "1.2.9",
+    "double-commander": "1.2.11",
     "drail-anyrail": "7.22.4",
-    "spaqi-eagle-pdf-editor": "1.9.0",
+    "spaqi-eagle-pdf-editor": "1.9.7",
     "ebook-converter-bundle": "3.26.10920.457",
-    "eigent-ai": "1.0.5",
+    "eigent-ai": "1.0.8",
     "everythingtoolbar": "3.5.0",
     "examdiff": "17.0.2.6",
     "executor": "2.4.1",
     "exportizer-enterprise": "10.4.0.3118",
-    "mayswind-ezbookkeeping": "2.1.1",
+    "mayswind-ezbookkeeping": "2.2.0",
     "fancontrol": "286",
     "fast-keys": "6.08",
-    "carmine-paolino-fastpotify": "0.14.2",
+    "carmine-paolino-fastpotify": "0.17.2",
     "filesearch-pro": "2.7.0",
     "freemake-converter-4": "6.1.0.2",
     "fungible": "1.10.0",
-    "mikf-gallery-dl": "1.32.18",
+    "mikf-gallery-dl": "1.32.21",
     "gilisoft-audio-editor": "3.3",
-    "gitdesktop": "0.14.0",
+    "gitdesktop": "0.16.0",
     "gnucash": "5.17",
-    "goodsync": "12.11.8.8",
-    "google-chrome-canary": "159.0.8151.0",
+    "goodsync": "12.11.14.4",
+    "google-chrome-canary": "160.0.8178.0",
     "guinpinsoft-makemkv": "2.0.0",
     "helicon": "0.21.0",
     "hsx-nanovisuality": "1.0.3",
     "hurl-choose-a-browser": "0.10.0",
-    "hydra-launcher": "4.1.6",
+    "hydra-launcher": "4.4.1",
     "infrawizard": "26.2.0",
     "intraweb": "16.2.6",
     "advanced-systemcare-ultimate": "18.5.0.120",
-    "killerpdf": "1.8.71",
+    "killerpdf": "1.9.5",
     "koodo-reader": "2.4.7",
     "anton-reshetov-masscode": "6.0.0",
     "moneyspire-desktop": "27.0",
     "krystian-mouzi": "0.2.1",
     "multi-commander": "16.6.0.3240",
     "mexit-multios-usb": "0.15.0",
-    "muziza-youtube-downloader-converter": "9.5.20",
-    "my-tube-software-tubedownload-pro": "7.5.32",
+    "muziza-youtube-downloader-converter": "9.6.1",
+    "my-tube-software-tubedownload-pro": "7.5.38",
     "nas-maschine": "3.7.2",
-    "ncored": "2026.2.8",
+    "ncored": "2026.2.14",
     "edulq-net-monitor-for-employees": "6.7.9",
-    "nevercenter-camerabag": "2026.2",
-    "neverwrite": "0.8.14",
-    "nostr-vpn": "4.1.19",
+    "nevercenter-camerabag": "2027.0",
+    "neverwrite": "0.8.16",
+    "nostr-vpn": "4.1.23",
     "ntopology": "6.4.3",
-    "nub": "0.10.0",
-    "nukeop-nuclear-music-player": "1.52.2",
-    "oleafly": "0.4.11",
+    "nub": "0.11.1",
+    "nukeop-nuclear-music-player": "1.56.4",
+    "oleafly": "0.4.13",
     "one-commander": "3.108.0.0",
     "openai-codex": "26.924.2738.0",
-    "openshot-video-editor": "4.0.1",
-    "opera-developer": "140.0.6066.0",
+    "openshot-video-editor": "4.1.1",
+    "opera-developer": "141.0.6087.0",
     "kawaiidango-pano-scrobbler": "4.46",
-    "pazu-all-in-one-music-converter": "3.2.2",
-    "pazu-streamget-all-in-one-video-downloader": "3.2.8",
-    "pc-autopilot": "1.0.12",
+    "pazu-all-in-one-music-converter": "3.2.3",
+    "pazu-streamget-all-in-one-video-downloader": "3.3",
+    "pc-autopilot": "1.0.13",
     "peazip": "11.3.0",
-    "simon-zolin-phiola": "2.13.1",
-    "pilotedit": "21.6.0",
+    "simon-zolin-phiola": "2.15",
+    "pilotedit": "21.7.0",
     "plagiarism-checker-x": "9.0.11",
     "noah-tran-proxyman": "26.0",
     "marcin-szczygli-ski-pygpt-ai-assistant": "2.9.0",
-    "patrizio-bekerle-qown-notes": "26.11.6",
-    "quitter-addiction-recovery-tracker": "1.1.84",
+    "patrizio-bekerle-qown-notes": "26.11.13",
+    "quitter-addiction-recovery-tracker": "1.1.85",
     "radiant-photo": "2.2.1.1053",
-    "room-arranger": "11.3.0.811",
+    "room-arranger": "11.4.0.820",
     "sandboxie": "5.74.1",
     "sandboxie-plus": "1.19.1",
     "schoolhouse-test-professional-edition": "6.1.215.0",
     "screego": "1.12.6",
-    "serato-dj": "5.0.0",
-    "shotcut": "26.9.27",
+    "serato-dj": "5.1.0",
+    "shotcut": "26.11.15",
     "sloga": "0.65.0",
     "softmaker-office-nx-universal": "S1504.0918",
     "sql-backup-master": "8.7.1141",
@@ -122,32 +122,32 @@
     "squirrels-airparrot": "3.1.11",
     "startallback": "3.9.29.5431",
     "staxrip": "2.52.6",
-    "surfsense": "2.2.5",
+    "surfsense": "2.3.1",
     "ascomp-synchredible": "9.120",
-    "syncovery": "12.8.8.88",
-    "tinymediamanager": "5.3.4",
+    "syncovery": "12.9.8.101",
+    "tinymediamanager": "5.3.5",
     "transcribe-0001": "9.70.1",
     "universal-gcode-sender": "2.1.27",
     "usbsecure": "3.0",
     "vita3k-emulator": "4242",
     "vovsoft-vcf-editor": "3.4",
-    "vuescan": "9.8.59",
+    "vuescan": "9.8.60",
     "w10privacy": "6.3.0.2",
-    "wavesonics-hammer-editor": "3.12.1",
-    "aziz-fadil-wealthfolio": "3.9.1",
+    "wavesonics-hammer-editor": "3.12.2",
+    "aziz-fadil-wealthfolio": "3.13.1",
     "whatsapp-beta-for-windows": "2.2639.100.0",
     "windirstat": "2.9.0",
-    "winds-pro-emulators": "2026.11.06",
-    "francesco-winscript": "2.26.0",
+    "winds-pro-emulators": "2026.11.21",
+    "francesco-winscript": "2.30.0",
     "winsnap": "6.3.6",
     "wlistdb": "1.416.4",
     "xmedia-recode": "3.6.4.1",
-    "xrecode-3": "1.192",
+    "xrecode-3": "1.194",
     "xwintools-tratools-pro": "26.9.1",
     "ytd-downloader": "10.6.41",
-    "yt-video-downloader": "12.6.22",
+    "yt-video-downloader": "12.6.28",
     "zapfast": "0.19.0",
-    "ziggity": "0.59.0",
+    "ziggity": "0.66.0",
     "zortam-mp3-media-studio": "34.25",
     "coolutils-total-audio-converter": "6.1.0.333",
     "clip-studio-paint-ex": "5.1.5",
@@ -157,17 +157,17 @@
     "celestial-software-absolutetelnet": "14.23",
     "abelssoft-pc-fresh": "12.03.76494",
     "xyplorer": "28.50.0100",
-    "cockos-reaper": "7.84",
+    "cockos-reaper": "7.86",
     "chess-king": "26.0.0.2620",
-    "chess-assistant": "12.00.4",
-    "davinci-resolve-0001": "21.1.2",
+    "chess-assistant": "27 v12.00.0",
+    "davinci-resolve-0001": "21.2",
     "xavier-roche-httrack": "3.51",
-    "purslane-rustdesk": "1.5.0",
-    "autorun-organizer": "7.02",
-    "pdfsam-pdf-split-and-merge": "6.0.6",
+    "purslane-rustdesk": "1.5.1",
+    "autorun-organizer": "8.0",
+    "pdfsam-pdf-split-and-merge": "6.0.9",
     "easy-code": "2.02.1.0002",
     "quick-access-popup": "12.4.3",
-    "yumi-py": "1.0.10",
+    "yumi-py": "1.1.13",
     "pbatard-fido": "1.71",
     "jetbrains-rider-0001": "2026.2.3.1",
     "jetbrains-clion": "2026.2.3.1",
@@ -186,51 +186,51 @@
     "deeptaskscan": "1.2",
     "mixxx": "2.5.6",
     "adobe-acrobat-reader-0032": "2026.002.21996",
-    "ollama": "0.40.13",
+    "ollama": "0.40.17",
     "mnemosyne-os": "1.7.0",
-    "ungoogled-chromium": "157.0.8103.38",
+    "ungoogled-chromium": "158.0.8127.36",
     "pranshuparmar-witr": "0.3.4",
-    "tonkatsu-box": "0.45.0",
+    "tonkatsu-box": "0.46.0",
     "cyanvoxel-tagstudio": "9.6.4",
-    "uwview": "1.7.3.6.9",
-    "xammen-bettertrumpet": "3.5.0",
-    "uniclipboard": "1.5.0",
-    "spirokai-ovrley": "2.48.0",
-    "imput-helium-browser": "0.20.2.1",
-    "microsoft-windows-terminal": "1.25.2733.0",
+    "uwview": "2.0.0",
+    "xammen-bettertrumpet": "3.5.1",
+    "uniclipboard": "1.6.2",
+    "spirokai-ovrley": "3.1.5",
+    "imput-helium-browser": "0.22.2.1",
+    "microsoft-windows-terminal": "1.25.3131.0",
     "stream-manager": "2.7.0",
     "darktable": "5.6.2",
     "hoard": "1.3.0",
     "bleubleu-ou-kirastudio": "1.1.2",
     "kinoflux-editor": "0.1.2",
-    "uniterm": "1.12.2",
-    "tagspaces-lite": "6.14.0",
-    "beekeeperstudio": "6.2.2",
-    "brave-browser": "1.98.62",
-    "kitware-cmake-for-windows": "4.4.5",
+    "uniterm": "1.12.4",
+    "tagspaces-lite": "6.15.1",
+    "beekeeperstudio": "6.3.3",
+    "brave-browser": "1.100.58",
+    "kitware-cmake-for-windows": "4.5.1",
     "tung-huynh-screenbox-media-player": "0.24.0",
-    "jan-de-dobbeleer-oh-my-posh": "32.0.0",
+    "jan-de-dobbeleer-oh-my-posh": "33.3.0",
     "foundry-376-mailspring": "1.26.0",
     "volker-kohaupt-vokoscreenng": "4.11.0",
-    "mrv2-mrviewer": "1.8.4",
-    "getvideoslocally": "3.2.10",
-    "wardpearce-materialious": "1.18.21",
+    "mrv2-mrviewer": "1.8.6",
+    "getvideoslocally": "3.2.12",
+    "wardpearce-materialious": "1.18.35",
     "diego-waxemberg-moonlight-game-streaming": "6.2.0",
-    "naps2-not-another-pdf-scanner": "8.6.0",
-    "opengl-extension-viewer": "7.4.9",
-    "rightclicktools": "2.0.4",
-    "pelton": "2026.4.6",
+    "naps2-not-another-pdf-scanner": "8.6.1",
+    "opengl-extension-viewer": "7.4.12",
+    "rightclicktools": "2.0.7",
+    "pelton": "2026.4.8",
     "bearware-teamtalk": "5.23",
-    "paseo-ai": "0.15.3",
-    "openaudible": "5.1",
-    "ascendara": "12.2.2",
-    "autohotkey": "2.0.31",
+    "paseo-ai": "0.17.3",
+    "openaudible": "5.3",
+    "ascendara": "12.3.3",
+    "autohotkey": "2.0.32",
     "vadim-grigoruk-tic-80": "1.4.1",
-    "progdvb": "7.73.4",
-    "capture-core": "1.1.154",
+    "progdvb": "7.73.7",
+    "capture-core": "2.0.3",
     "devolutions-powershell-universal": "2026.3.4.0",
-    "vivaldi": "8.3.4191.30",
-    "duet-display": "4.0.491",
+    "vivaldi": "8.3.4191.47",
+    "duet-display": "4.0.541",
     "rpcs3": "0.0.43-20573",
     "msc-nastran": "2026.1.1",
     "msc-adams": "2026.1.1",
@@ -244,51 +244,51 @@
     "msc-apex": "2026.1.1",
     "superhive-market-machin3tools-deusex": "1.13.12",
     "aescripts-voxferry": "0.8.0",
-    "aescripts-putty": "1.1.2",
+    "aescripts-putty": "1.1.9",
     "aescripts-motionstack": "1.2.0",
-    "aescripts-lightsweeppro": "2.1.0",
+    "aescripts-lightsweeppro": "2.1.2",
     "aescripts-bbtools-tiler-for-photoshop": "5.2.4",
     "aescripts-bbtools-shadow-for-photoshop": "2.9.11",
     "aescripts-bbtools-glow-and-glare": "2.5.17",
-    "opera-gx": "138.0.6044.65",
+    "opera-gx": "140.0.6074.48",
     "iriun-webcam-for-windows": "2.9.9",
     "dingvideo-dingcaster": "8.4.0",
-    "sejin-chun-imagine": "2.8.0",
-    "tiger-api-client": "0.8.1",
+    "sejin-chun-imagine": "2.8.1",
+    "tiger-api-client": "0.9.0",
     "renomee": "0.4.1",
     "4dmaxon-studio-0001": "2026.4",
-    "streaminsstar-hidownload-phoenix": "13.1",
+    "streaminsstar-hidownload-phoenix": "13.4.1",
     "proteus": "1",
-    "wizflow-flowcharter": "7.57.2227",
+    "wizflow-flowcharter": "7.58.2228",
     "p7s-viewer": "10.3",
-    "edge-diagrammer": "7.57.2227",
+    "edge-diagrammer": "7.58.2228",
     "driver-easy": "7.2.3.6590",
-    "hibase-dbf-recovery": "4.84",
+    "hibase-dbf-recovery": "4.85",
     "coolutils-pdf-combine": "4.2.0.220",
     "cyrobo-clean-space": "726",
     "cyrobo-clean-space-free": "726",
-    "evernote": "11.40.3.48184",
+    "evernote": "11.43.4.43490",
     "microsoft-clipchamp": "4.7.10030.0",
-    "snaptube-downloader": "8.4.0",
-    "tabstick": "2.4.0",
-    "adguard": "8.0.2",
-    "bitwarden": "2026.9.1",
-    "tikz-editor": "1.0.0",
-    "atomic-chat": "2.2.29",
-    "enrique-lozano-monekin": "10.1.1",
+    "snaptube-downloader": "8.4.6",
+    "tabstick": "2.5.1",
+    "adguard": "8.0.5",
+    "bitwarden": "2026.10.4",
+    "tikz-editor": "1.3.0",
+    "atomic-chat": "2.4.7",
+    "enrique-lozano-monekin": "10.3.0",
     "classipod": "2.1.0",
-    "waifu2x-extension-gui": "3.142.01",
-    "spinoza": "2.2.1",
+    "waifu2x-extension-gui": "3.143.01",
+    "spinoza": "2.2.7",
     "deskflow": "1.27.0",
-    "manfred-karrer-bisq": "1.10.9",
+    "manfred-karrer-bisq": "1.10.12",
     "quobi": "0.2.0",
     "line-messenger-app": "26.5.0.3975",
     "loom-desktop-0001": "0.379.4",
-    "logi-tech-g-hub": "2026.7.992920",
-    "devolutions-password-manager": "2026.3.4.0",
-    "blackmagic-design-fusion-studio-0017": "21.1.2",
-    "allmapsoft-google-satellite-maps-downloader": "8.422",
-    "allmapsoft-google-maps-downloader": "8.893",
+    "logi-tech-g-hub": "2026.7.1011216",
+    "devolutions-password-manager": "2026.3.5.0",
+    "blackmagic-design-fusion-studio-0017": "21.2",
+    "allmapsoft-google-satellite-maps-downloader": "8.424",
+    "allmapsoft-google-maps-downloader": "8.894",
     "windatareflector": "4.0.1.1",
     "vso-convertxtodvd": "7.5.0.164",
     "viscosity": "1.13.2",
@@ -296,54 +296,54 @@
     "smartscribe-pro": "1.0.45",
     "rarmaradio": "2.78",
     "photo-mechanic-all-in-one": "2026.6.9175",
-    "markdown-monster": "4.5.4.1",
+    "markdown-monster": "4.7.2",
     "lucen-timeline-expert": "15.5.3",
-    "kotato-all-video-downloader": "10.5.25",
+    "kotato-all-video-downloader": "11.0.10",
     "automatic-pdf-processor-gillmeister": "2.13",
-    "expandrive": "2026.09.30",
+    "expandrive": "2026.11.06",
     "duplicate-same-files-searcher": "10.8.3",
-    "broadgun-pdfmachine": "20.69",
+    "broadgun-pdfmachine": "20.71",
     "mipony-free": "4.0.1",
-    "android-studio": "2026.2.2.8",
+    "android-studio": "2026.2.2.10",
     "winzenith": "1.3.5",
     "logmein-hamachi": "2.4.0.79",
-    "google-chrome": "156.0.8078.80",
+    "google-chrome": "158.0.8127.37",
     "dns-hop": "2.4.9",
-    "allan-chain-sane-break": "0.10.6",
-    "skyjake-lagrange": "2.0.1",
+    "allan-chain-sane-break": "0.10.7",
+    "skyjake-lagrange": "2.0.3",
     "aeroftp": "4.2.7",
-    "hydrus": "693",
+    "hydrus": "696",
     "storyvox-pro": "1.0.19",
     "earthview": "7.20",
     "earthtime": "6.37.0",
     "flstudio-21": "26.1.7.5653",
     "securesoft-xml-signer": "6.4",
-    "wysiwyg-web-builder": "21.2.3",
-    "vx-search": "18.3.16",
+    "wysiwyg-web-builder": "21.2.5",
+    "vx-search": "18.4.16",
     "pvsyst-premium": "8.1.8.49527",
     "pdf-annotator": "10.0.0.1016",
     "securesoft-p7s-signer": "10.3",
     "lansweeper": "13.0.0.3",
-    "disk-sorter": "18.3.16",
+    "disk-sorter": "18.4.16",
     "chris-pc-ram-booster": "7.26.1029",
-    "advanced-renamer-free": "4.28",
+    "advanced-renamer-free": "4.29",
     "advanced-renamer": "4.29.0",
     "syncback": "12.1.22",
-    "foobar2000": "2.26.2",
+    "foobar2000": "2.26.3",
     "diskpart-gui-micro": "4.0",
-    "mullvad-browser-for-windows": "15.0.24",
+    "mullvad-browser-for-windows": "16.0.2",
     "bruno": "4.2.1",
     "zotero": "10.0.7",
-    "wacup": "1.99.55.25130",
-    "opera-air-browser": "138.0.6044.69",
-    "bitsum-process-lasso-pro": "18.4.0.48",
-    "bitsum-process-lasso-free": "18.4.0.48",
+    "wacup": "1.99.57.25464",
+    "opera-air-browser": "140.0.6074.50",
+    "bitsum-process-lasso-pro": "19.1.0.46",
+    "bitsum-process-lasso-free": "19.0.0.94",
     "ashampoo-photo-card": "3.0.1",
     "ashampoo-office": "1503.0828",
     "franzis-neat-projects-professional": "5.35.04489",
     "yogadns-pro": "1.51",
-    "ascomp-secure-eraser": "7.105",
-    "print-artist-platinum": "25.1.0.3",
+    "ascomp-secure-eraser": "7.106",
+    "print-artist-platinum": "27.0.0.8",
     "jalbum": "42.0.8",
     "hitek-software-jasftp": "14.06",
     "hitek-software-automize-enterprise": "14.06",
@@ -351,21 +351,21 @@
     "hitek-software-ableftp": "14.06",
     "abelssoft-everdoc": "12.0.76427",
     "xnviewmp": "1.12.3",
-    "xnview-mp-free": "1.12.1",
+    "xnview-mp-free": "1.12.3",
     "photo-supreme": "2026.4.3.9743",
     "hex-editor-neo": "8.30.00.9631",
-    "free-hex-editor-neo": "8.25.01.9585",
+    "free-hex-editor-neo": "8.30.00.9631",
     "automatic-email-processor-ultimate": "4.12",
-    "waterfox": "6.7.7",
-    "audacity": "4.0.1",
-    "viber-for-pc": "29.3.0",
-    "kc-softwares-kcleaner-pro": "4.0.0",
-    "kilho-startcleaner": "2.0.3",
-    "hfs-http-file-server": "3.3.4",
+    "waterfox": "6.7.9",
+    "audacity": "4.0.2",
+    "viber-for-pc": "29.5.0",
+    "kc-softwares-kcleaner-pro": "4.0.4",
+    "kilho-startcleaner": "2.0.4",
+    "hfs-http-file-server": "3.4.1",
     "superhive-market-auto-unwrap": "1.3.3",
-    "aescripts-glassary-for-windows": "1.6",
-    "opera": "139.0.6053.22",
-    "dup-scout": "18.3.16",
+    "aescripts-glassary-for-windows": "1.8",
+    "opera": "140.0.6074.36",
+    "dup-scout": "18.4.16",
     "adobe-fresco-0020": "5.7.1.1466",
     "microsoft-store": "22608.1401.5.0",
     "ai-requester-by-vovsoft": "5.4",
@@ -374,13 +374,13 @@
     "sync-breeze": "18.4.16",
     "softwarenetz-invoice": "11.28",
     "sante-pacs-server-pg": "4.6.2",
-    "sante-pacs-server": "4.6",
-    "royal-apps-royal-server": "5.4.50928",
+    "sante-pacs-server": "4.6.2",
+    "royal-apps-royal-server": "5.4.51118",
     "red-gate-smartassembly": "8.5.2.7513",
-    "pdf-xchange": "11.1.0",
-    "pano2vr": "8.0.10",
+    "pdf-xchange": "11.1.2",
+    "pano2vr": "8.0.11",
     "oando-shutup10-premium": "3.7.1143",
-    "oo-shutup10": "3.6.1135",
+    "oo-shutup10": "3.7.1143",
     "batch-it-ultra": "6.79",
     "hasleo-disk-clone-free": "5.9.2",
     "goldwave": "7.09",
@@ -389,99 +389,99 @@
     "amagicsoft-magic-data-recovery-technician": "3.13.271.151",
     "all-about-pdf": "3.2045",
     "activexperts-network-monitor": "902.6092",
-    "podman-desktop": "6.1.3",
-    "john-macfarlane-pandoc": "3.13",
-    "omniroute": "3.8.53",
-    "ablaze-floorp-browser": "12.21.0",
-    "cline-bot": "4.1.26",
-    "grist": "0.3.16",
-    "electron": "45.1.0",
-    "nexus-mods-vortex": "2.9.1",
+    "podman-desktop": "6.2.0",
+    "john-macfarlane-pandoc": "3.14",
+    "omniroute": "3.8.54",
+    "ablaze-floorp-browser": "12.21.2",
+    "cline-bot": "4.1.27",
+    "grist": "0.3.17",
+    "electron": "45.4.1",
+    "nexus-mods-vortex": "2.11.0",
     "dheeraj-vittal-shenoy-lektra": "0.7.8",
-    "espocrm": "10.0.11",
-    "suwayomi-server": "2.4.2366",
-    "buzz-desktop": "0.5.26",
+    "espocrm": "10.1.4",
+    "suwayomi-server": "2.4.2373",
+    "buzz-desktop": "0.5.30",
     "can-celik-herdr": "0.9.3",
-    "better-file-sizes-in-explorer-details": "2026.3.12.0",
-    "qgis": "3.44.15",
+    "better-file-sizes-in-explorer-details": "2026.3.13.0",
+    "qgis": "4.2.3.2",
     "minh-quy-orkana": "1.0.7",
-    "4k-video-downloader-plus": "26.3.5",
+    "4k-video-downloader-plus": "26.4.0",
     "hwinfo": "8.60.6120",
     "trellix-endpoint-security": "26.8.0.22584",
-    "splunk-enterprise": "10.4.4",
+    "splunk-enterprise": "10.6.2.5",
     "chrispc-free-vpn-connection": "4.26.0929",
     "wise-disk-cleaner": "12.0.1.963",
     "microsoft-phone-link": "1.26082.117.0",
-    "tor-browser": "15.0.24",
+    "tor-browser": "16.0.1",
     "youlean-loudness-meter": "2.5.15",
     "tubemate-downloader-0001": "6.5.27",
-    "yt-geek-ytdl-pro": "12.5.25",
+    "yt-geek-ytdl-pro": "12.5.30",
     "sante-dicom-viewer-pro": "14.5.1",
     "sante-dicom-editor": "10.5.1",
     "lucion-filecenter-suite": "12.5.46",
     "ashampoo-free-burning-studio": "1.27.5",
     "metatogger": "7.7.3.0",
     "ocbase-occt": "17.2.3",
-    "anydesk": "9.8.3",
-    "adobe-dng-converter-0020": "18.7",
-    "camera-raw-0032": "18.7.0",
-    "maxthon-browser": "7.5.3.4000",
-    "slack": "4.53.269",
-    "delta-chat": "2.65.0",
-    "git-for-windows": "2.56.0.4",
+    "anydesk": "9.8.4",
+    "adobe-dng-converter-0020": "19.0",
+    "camera-raw-0032": "19.0",
+    "maxthon-browser": "7.5.3.4400",
+    "slack": "4.53.287",
+    "delta-chat": "2.69.1",
+    "git-for-windows": "2.56.1",
     "advent-development-kudu": "3.13.0",
     "chansort": "2026-09-28",
-    "evoto-ai": "7.3.5-185",
+    "evoto-ai": "8.0.0-758",
     "freecad": "1.1.4",
-    "ruben-picview": "5.1.4",
-    "gohugoio-hugo": "0.169.0",
+    "ruben-picview": "5.2.2",
+    "gohugoio-hugo": "0.170.1",
     "prism-launcher": "11.1.1",
     "zoom-player-max": "23.0.2",
-    "minitool-video-converter": "6.0",
-    "dreammail-pro": "6.26.10.30",
-    "mindmapvault": "0.6.3",
+    "minitool-video-converter": "6.1",
+    "dreammail-pro": "6.26.11.18",
+    "mindmapvault": "0.6.8",
     "vovsoft-http-requester": "6.7",
-    "valentina-studio": "18.2.1",
-    "valentina-server": "18.2.1",
+    "valentina-studio": "18.4.2",
+    "valentina-server": "18.4.0",
     "tbproaudio-bundle-2021": "2026.09",
-    "socialmediaapps-facebook-video-downloader": "8.5.34",
-    "reclaim-time-focusme": "8.1.2.9",
-    "nch-videopad": "18.52",
-    "drafft": "2.4.13",
+    "socialmediaapps-facebook-video-downloader": "8.5.39",
+    "reclaim-time-focusme": "8.2.1.7",
+    "nch-videopad": "18.62",
+    "drafft": "2.5.0",
     "disk-savvy": "18.4.16",
     "disk-pulse": "18.4.16",
     "diffchecker": "7.3.5",
-    "coolutils-total-pdf-converter": "6.5.0.217",
-    "coolutils-total-excel-converter": "7.1.0.176",
+    "coolutils-total-pdf-converter": "6.5.0.226",
+    "coolutils-total-excel-converter": "7.1.0.183",
     "total-doc-converter": "5.1.0.448",
-    "chrispc-videotube-downloader": "15.26.1030",
+    "chrispc-videotube-downloader": "15.26.1114",
     "apulsoft-apunmask": "1.0.8",
     "ant-download-manager": "2.18.0.97665",
     "ahnenblatt": "5.2.0.1",
-    "watchdog-anti-virus": "1.8.847",
+    "watchdog-anti-virus": "1.9.82",
     "remo-recover": "6.1.0.15",
     "proficad": "14.1.6",
-    "trimble-tekla-structures-0002": "5",
+    "trimble-tekla-structures-0002": "2026 SP6",
     "adobe-substance-3d-sampler-0005": "6.0.4.10899",
-    "mozilla-firefox": "159.0",
+    "mozilla-firefox": "160.0.1",
     "builtbybel-flyby11": "3.03.100",
-    "kilho-memorycleaner": "3.0.0",
+    "kilho-memorycleaner": "3.0.3",
     "qbittorrent": "5.2.4",
     "stellarium": "26.3",
     "superhive-market-matplus": "1.3.1",
-    "blender-market-artell-auto-rig-pro": "3.78.64",
-    "aescripts-sandbox": "3.0.0",
-    "aescripts-mb-liquid-glass": "1.5.3",
-    "aescripts-folder-fanatic": "1.0.2",
+    "blender-market-artell-auto-rig-pro": "3.79.17",
+    "aescripts-sandbox": "3.1.1",
+    "aescripts-mb-liquid-glass": "1.6.0",
+    "aescripts-folder-fanatic": "1.1.3",
     "aescripts-edge-controller": "1.1.0",
     "aescripts-aep-transplant": "1.3.0",
-    "linkly-ai": "1.3.0",
+    "linkly-ai": "1.6.0",
     "perfecttunes": "2026.09.25",
     "bluegrams-vividl-video-downloader-0002": "0.10.0",
-    "linqpad-premium": "9.11.10",
-    "leawo-prof-media": "13.0.1.6",
+    "linqpad-premium": "9.12.5",
+    "leawo-prof-media": "13.0.1.9",
     "kls-backup": "15.0.0.6",
-    "irix-hdr-pro": "3.0.0",
+    "irix-hdr-pro": "3.0.2",
     "hetman-uneraser": "7.5",
     "hetman-raid-recovery": "3.2",
     "hetman-photo-recovery": "7.3",
@@ -492,23 +492,23 @@
     "ezee-graphic-designer": "2.1.4.0",
     "em-client": "11.0.1577",
     "fast-video-cataloger": "10.6.2.0",
-    "ascomp-easy-slideshow-professional": "2.201",
+    "ascomp-easy-slideshow-professional": "2.203",
     "ajay-bura-cinny": "4.12.8",
-    "reqable": "3.3.11",
+    "reqable": "3.3.14",
     "pdfcompressor-cl": "1.4.13",
     "gilisoft-ai-toolkit": "11.0",
     "dropcompress": "1.3.4",
-    "coolutils-pdf-splitter-pro": "6.1.0.98",
-    "coolutils-pdf-splitter": "5.2.0.112",
+    "coolutils-pdf-splitter-pro": "6.1.0.104-74",
+    "coolutils-pdf-splitter": "5.2.0.119-51",
     "duplicati": "2.4.1.0",
     "lm-studio": "0.4.27",
     "canva-for-windows": "1.127.0",
     "xlight-ftp-server": "3.9.5.1",
-    "vovsoft-health-break": "2.6",
+    "vovsoft-health-break": "2.7",
     "ultrasearch-pro": "4.9.5.1303",
     "ultrasearch": "4.9.5.1303",
     "total-commander": "11.58.1",
-    "rhinoceros": "9.0.26300.09401",
+    "rhinoceros": "9.1.26315.13001",
     "ascomp-pc-internals-pro": "2.106",
     "mirc-free": "7.86",
     "mirc": "7.86",
@@ -516,55 +516,55 @@
     "idm-ultrafinder-0001": "26.0.0.9",
     "idm-ultra-edit-0001": "33.1.0.27",
     "idm-ue-studio": "26.1.0.27",
-    "dbf-converter": "7.94",
+    "dbf-converter": "7.95",
     "coolutils-total-movie-converter": "4.1.0.104",
     "cleaning-suite": "5.002",
     "becky-internet-mail": "2.84.01",
     "no-faff-installerclean": "3.6.0",
     "pvs-studio": "8.01.112455.2387",
-    "karaosoft-karma": "2027.0.40",
+    "karaosoft-karma": "2027.0.45",
     "careueyes": "2.7.2",
     "intel-extreme-tuning-utility": "10.0.1.248",
-    "libreoffice": "26.8.2",
-    "marti-climent-wingetui": "2026.3.3",
+    "libreoffice": "26.8.3",
+    "marti-climent-wingetui": "2026.3.4",
     "xfinium-pdf-toolkit": "15.4.0",
     "wordperfect-file-converter": "6.3.2",
     "vovsoft-batch-url-downloader": "6.5",
     "toolstoo": "12.1.2",
-    "sweetscape-010-editor": "17.0",
-    "steinberg-cubase": "15.0.40",
+    "sweetscape-010-editor": "17.0.1",
+    "steinberg-cubase": "16.0.5",
     "desksoft-smartcapture": "3.23.3",
     "r-studio-agent": "9.5.1701",
     "rstudio-network-technician": "9.5.191861",
     "r-studio-network": "9.5.191861",
-    "pdf-conversa-professional": "3.014",
+    "pdf-conversa-professional": "4.001",
     "passmark-osforensics": "11.1.1017",
-    "virtual-sky-notecase-pro": "5.0.1",
+    "virtual-sky-notecase-pro": "5.0.6",
     "mediamonkey": "2024.2.2.3223",
     "light-image-resizer": "7.6.8.183",
     "legacy-file-converter": "6.3.2",
-    "evaer-for-teams": "1.26.10.29",
+    "evaer-for-teams": "1.26.11.22",
     "dvdfab12": "13.0.7.0",
     "key-metric-duplicate-file-detective": "8.1.62",
     "digital-bigmo-skinworks": "2026.10.1",
     "coolutils-total-image-converter": "8.5.0.367",
     "bitsum-parkcontrol": "6.0.2.18",
     "phoenix-code-editor": "5.5.11",
-    "saber-handwritten-notes": "1.37.1",
-    "francois-jacquet-rosariosis": "13.0.3",
+    "saber-handwritten-notes": "1.38.0",
+    "francois-jacquet-rosariosis": "13.0.4",
     "motrix-download-manager": "2.3.0",
-    "node-js": "26.13.0",
-    "tweakhub": "1.6.1",
+    "node-js": "26.13.1",
+    "tweakhub": "1.8.1",
     "vscodium": "1.143.17232",
     "steinberg-nuendo": "15.0.40",
-    "phaseone-capture-one": "16.9.0.3894",
+    "phaseone-capture-one": "16.9.1.3943",
     "bilibili-for-windows": "1.19.0",
-    "exiftoolgui": "13.60",
-    "cryptomator-for-windows": "1.19.5",
-    "softwareok-desktopok": "12.82",
+    "exiftoolgui": "13.64",
+    "cryptomator-for-windows": "1.19.7",
+    "softwareok-desktopok": "12.85",
     "ni-kontakt-0001": "8.14.1",
     "luminar-neo-0005": "1.29.0.18200",
-    "bytesweavers-ai-text-to-image-generator-pro": "1.2.15",
+    "bytesweavers-ai-text-to-image-generator-pro": "1.2.20",
     "adobe-lightroom-classic-0025-0003": "16.0.1.2",
     "google-drive": "134.0.1",
     "media-player-codec-pack": "5.5.4",
@@ -572,48 +572,48 @@
     "simplefixai": "1.7.61",
     "mikael-finstad-losslesscut": "3.70.2",
     "dopdf": "11.9.532",
-    "valinet-explorerpatcher": "26100.9711.71.1",
+    "valinet-explorerpatcher": "26100.9711.71.3",
     "upx-executable-packer": "5.3.0",
     "inno-setup-compiler": "7.1.1",
     "windows-service-auditor": "5.1.3.77",
     "mitec-task-manager": "5.3",
     "binisoft-windows-firewall-control": "6.41",
-    "adobe-photoshop-download-0071": "27.11.0.26",
+    "adobe-photoshop-download-0071": "28.0.0.20",
     "superhive-market-animation-store-motion-path-pro": "3.2.0",
-    "aescripts-voxmark": "2.3.1",
-    "aescripts-stash": "1.2.0",
+    "aescripts-voxmark": "2.3.2",
+    "aescripts-stash": "1.2.1",
     "aescripts-preflight": "1.5",
-    "aescripts-motionamigo": "1.3.0",
+    "aescripts-motionamigo": "1.3.17",
     "aescripts-lottiepacker": "2.3.0",
     "aescripts-exportfoundry": "1.0.3",
     "aescripts-delay-motion-pro": "2.0.0",
     "aescripts-influx-for-after-effects": "1.7.1",
-    "hdclone": "16.1.2.1",
-    "paul-falstad-circuit-js": "5.0.4",
-    "wscc": "10.0.4.7",
-    "wing-ftp-server": "8.2.7",
+    "hdclone": "16.1.3.2",
+    "paul-falstad-circuit-js": "5.0.6",
+    "wscc": "10.0.5.2",
+    "wing-ftp-server": "8.2.8",
     "vovsoft-merge-audio-files": "1.4",
     "veeam-agent": "13.1.2.812",
-    "tableplus": "27.2",
-    "scooter-beyond-compare": "5.2.7.32913",
+    "tableplus": "27.4.1",
+    "scooter-beyond-compare": "5.2.8.33052",
     "rons-weblynx": "2026.11.21.1213",
     "remo-repair-psd": "1.0.0.31",
     "real-cut-1d": "11.14.4",
     "prepros": "7.40.6",
     "over-loudthu-premium144": "2.2.0",
-    "ntfs-permissions-reporter": "5.9.713",
-    "jwizard-cleaner": "1.12.0.0",
-    "jriver-media-center": "36.0.51",
+    "ntfs-permissions-reporter": "5.10.715",
+    "jwizard-cleaner": "1.12.1.0",
+    "jriver-media-center": "36.0.57",
     "isumsoft-usbcode": "3.1.0.2",
     "geometric-glovius": "6.7.0.448",
     "fast-file-encryptor": "26.10",
     "easeus-partition-master": "20.11.0",
-    "dbf-viewer-2000": "9.34",
+    "dbf-viewer-2000": "9.35",
     "magicad-for-revit": "2027",
     "cradle-scflow": "6",
     "ansys-ncode-designlife": "1",
     "cutting-optimization-pro": "5.18.32",
-    "coaa-planeplotter": "6.7.7.6",
+    "coaa-planeplotter": "6.7.7.8",
     "cameraftp-virtual-security-system": "6.0.128.128",
     "atlantis-word-processor": "5.0.6",
     "burp-suite": "2026.11.2",
@@ -623,73 +623,73 @@
     "laughingbird-software-the-graphics-creator": "1.4.21",
     "gibbscam-0001": "27.0.44.0",
     "antidote": "4.1",
-    "hepta-platforms-heptabase": "1.117.0",
-    "hister": "0.21.0",
+    "hepta-platforms-heptabase": "1.118.0",
+    "hister": "0.22.0",
     "ente-photos": "1.7.31",
-    "control-d": "1.5.9",
+    "control-d": "1.5.11",
     "minitool-moviemaker": "9.0",
-    "bluebubbles": "2.1.5",
+    "bluebubbles": "2.1.6",
     "wechat-for-windows": "4.2.0",
-    "lore-version-control": "0.13.0",
-    "nexus-mod-manager": "0.93.8",
-    "geoffrey-lecoq-snmplens": "1.6.5",
+    "lore-version-control": "0.14.0",
+    "nexus-mod-manager": "0.93.15",
+    "geoffrey-lecoq-snmplens": "1.9.3",
     "hew3d-hew": "1.4.0",
-    "akaunting": "3.3.0",
-    "longpanda-iventoy": "1.0.48",
-    "marka-md": "1.7.8",
+    "akaunting": "3.3.2",
+    "longpanda-iventoy": "1.0.50",
+    "marka-md": "1.7.11",
     "tartube": "2.5.253",
-    "codebridge-lispr": "1.35",
+    "codebridge-lispr": "1.39",
     "musescore": "4.7.6.261022093",
     "winmerge": "2.16.60",
-    "microsoft-powertoys-for-windows-10": "0.102.3001.0",
-    "malwarebytes-support-tool": "1.9.19.1233",
+    "microsoft-powertoys-for-windows-10": "0.102.3101.0",
+    "malwarebytes-support-tool": "1.9.20.1248",
     "xanasoft-majorprivacy": "0.101.0",
-    "capcut": "9.7.0.4153",
+    "capcut": "9.8.0.4213",
     "sdf-r-gpu-powered-sdf-tools": "17.0.1",
     "superhive-market-cg-flow-pro-particles": "5.4.0",
     "aescripts-swift-slides": "1.2.0",
-    "aescripts-cyclops": "4.0.0",
+    "aescripts-cyclops": "4.0.1",
     "aescripts-depth-scanner-for-after-effects": "2.6.71",
     "sambapos": "5.7.32",
     "softperfect-networx": "26.10",
     "picpick": "7.7",
-    "picpick-free": "7.6.2",
+    "picpick-free": "7.7",
     "photo-organizer-ai-premium": "8.1.7",
-    "output-messenger-server": "3.0.10",
-    "jixipix-watercolor-studio": "1.4.24",
-    "jixipix-rip-studio": "1.1.27",
-    "jixipix-puzzipix": "1.0.27",
-    "jixipix-photo-formation": "1.0.29",
-    "jixipix-pastello": "6.0.106",
-    "jixipix-hand-tint": "1.0.29",
-    "jixipix-chromatic-edges": "1.0.38",
+    "output-messenger-server": "3.0.11",
+    "jixipix-watercolor-studio": "1.4.27",
+    "jixipix-rip-studio": "1.1.30",
+    "jixipix-puzzipix": "1.0.30",
+    "jixipix-photo-formation": "1.0.32",
+    "jixipix-pastello": "6.0.109",
+    "jixipix-hand-tint": "1.0.32",
+    "jixipix-chromatic-edges": "1.0.41",
     "iconset": "3.0.0",
-    "hallmark-card-studio": "27.0.0.10",
+    "hallmark-card-studio": "27.0.0.11",
     "extra-subst": "26.10.1",
     "extradisks-home": "26.10.1",
-    "ej-technologies-jprofiler": "16.3",
-    "diskboss": "17.2.16",
-    "coolutils-pdf-combine-pro": "8.1.0.82",
+    "ej-technologies-jprofiler": "16.3.1",
+    "diskboss": "17.2.18",
+    "coolutils-pdf-combine-pro": "8.1.0.88-26",
     "pdf-password-remover-by-cisdem": "2.5.0",
     "ck-pdf-unlocker": "8.4.6",
     "cisdem-pdf-compressor": "3.5.0",
     "chief-architect-premier": "28.2.1.14",
-    "xiaomi-mimo-code": "0.1.16",
+    "xiaomi-mimo-code": "0.1.17",
     "passbolt": "2.15.0",
     "tacit-dynamics-foldersync": "2.15.0",
-    "advanced-renamer-personal": "4.28",
+    "advanced-renamer-personal": "4.29.0",
     "joseph-finney-text-grab": "4.16.0",
-    "acrosync-duplicacy": "3.3.0",
+    "acrosync-duplicacy": "3.3.1",
     "winrar": "7.30.2",
-    "ddev": "1.25.5",
-    "realvnc-server": "7.18.1",
+    "ddev": "1.25.6",
+    "realvnc-server": "7.19.0",
     "aandyprogram-scrawler": "2026.11.8.0",
-    "cherry-studio": "2.1.8",
-    "adelvo-mixdesk-x": "1.42.042",
+    "cherry-studio": "2.2.3",
+    "adelvo-mixdesk-x": "1.42.044",
     "adelvo-dp-directors-plan": "1.42.215",
-    "github-for-desktop": "3.6.10",
-    "realvnc-vnc-viewer": "8.5.3",
-    "cyberlink-photodirector": "18.0.1027.0",
+    "github-for-desktop": "3.7.0",
+    "realvnc-vnc-viewer": "8.6.0",
+    "cyberlink-photodirector": "18.0.1109.0",
     "kmplayer": "2026.10.27.9",
     "musconv-ultimate": "4.10.487",
     "yumi-exfat": "1.0.4.3",
@@ -701,39 +701,39 @@
     "blender-market-young-facial-hair-toolkit-for-blender": "2.2.5",
     "aescripts-webmotion": "1.2.0",
     "aescripts-rename-it-for-premiere": "2.0.7",
-    "aescripts-pseudo-effect-maker": "3.2.0",
-    "aescripts-mirai": "1.3.8",
-    "aescripts-memleak": "1.2.0",
+    "aescripts-pseudo-effect-maker": "3.2.1",
+    "aescripts-mirai": "1.3.9",
+    "aescripts-memleak": "1.2.1",
     "aescripts-geolayers-for-after-effects": "1.20.0",
-    "aescripts-dropletee": "1.0.13",
+    "aescripts-dropletee": "1.0.15",
     "aescripts-braw-studio-for-after-effects": "3.5.0",
     "spaqi-winrepairsuite": "2.7.0",
     "intuitibits-wifi-explorer-pro-1": "1.4.0.0",
     "vovsoft-website-file-collector": "1.8",
-    "vectorstyler": "1.3.031",
-    "tomabo-mp4-downloader": "6.4.31",
+    "vectorstyler": "1.3.032",
+    "tomabo-mp4-downloader": "6.5.1",
     "thundersoft-slideshow-factory": "6.7.1",
     "thundersoft-photo-gallery-creator": "4.7.1",
     "thundersoft-gif-to-video-converter": "5.7.2",
     "thundersoft-gif-converter": "5.7.2",
     "thundersoft-flash-to-video-converter": "5.7.2",
     "thundersoft-flash-to-mp3-converter": "4.8.1",
-    "tangible-software-solutions": "10.2026",
+    "tangible-software-solutions": "11.2026",
     "squirrels-reflector": "4.1.4",
     "reviversoft-pc-reviver": "4.1.0.12",
-    "reportizer": "6.6.4.1119",
+    "reportizer": "6.6.5.950",
     "atgalaikas-roundpie": "1.5.1641",
-    "ascomp-pdf-compress-professional": "2.001",
+    "ascomp-pdf-compress-professional": "2.002",
     "k3vinb5-unyo": "1.0.0",
     "oryx-digital-perfecttableplan-professional": "7.3.1",
     "pixelmash": "2027.0",
     "net-eagle": "3.1.0",
-    "movavi-video-editor": "27.2.0",
+    "movavi-video-editor": "27.3",
     "mobaxterm": "26.6",
-    "masstube": "22.1.7.229",
+    "masstube": "22.2.0.233",
     "lumenzia-0003": "12.1.2",
     "lightjams": "1.0.0.804",
-    "java-runtime-environment": "8.0.511",
+    "java-runtime-environment": "8.0.513",
     "ipixsoft-video-slideshow-maker": "6.0.1",
     "ipixsoft-swf-to-video-conveter": "5.2.2",
     "ipixsoft-gif-to-video-converter": "4.0.1",
@@ -751,8 +751,8 @@
     "icecream-pdf-candy-desktop-0002": "3.21",
     "icecream-ebook-reader-0001": "6.57",
     "regcool": "3.1.0.7",
-    "hitmanpro-alert": "3.22.1.2073",
-    "free-download-manager": "6.35.2.7075",
+    "hitmanpro-alert": "3.22.1.2079",
+    "free-download-manager": "6.36.0.7128",
     "xj-fast-video-cutter-joiner": "7.3",
     "ascomp-f-rename": "3.002",
     "ggdesk-data-ctrl-electrical": "27.0.0",
@@ -772,67 +772,67 @@
     "abylon-backup-in-the-box": "2026.4",
     "abelssoft-x-loader": "6.3",
     "travis-s-realvoice-text-to-speech": "5.6.0",
-    "intelligent-editing-perfectit": "6.8.7",
-    "nitro-pro-0002": "26.2.6",
+    "intelligent-editing-perfectit": "6.8.10",
+    "nitro-pro-0002": "26.4.3",
     "cyberlink-powerdirector": "25.0.1104.0",
     "native-instruments-absynth": "6.2.1",
-    "steinberg-spectralayers": "13.0.30",
-    "sketchup-0001": "27.0.267",
-    "maplesoft-maple": "2026.1.2",
+    "steinberg-spectralayers": "13.0.40",
+    "sketchup-0001": "27.0.277",
+    "maplesoft-maple": "2026.2",
     "chemdraw-professional": "26.1.0.6327",
     "komi-store": "1.9.4",
-    "markflowy": "1.3.0",
-    "teldrive": "2.0.11",
+    "markflowy": "1.4.0",
+    "teldrive": "2.0.14",
     "parcoil-sparkle": "2.25.0",
     "2fast-two-factor-authenticator": "1.5.2",
     "folder-guard": "26.10.1",
     "tyrrrz-youtubedownloader": "1.17.1",
-    "obs-studio": "33.0.0",
-    "ssd-booster-net": "19.25",
+    "obs-studio": "33.0.3",
+    "ssd-booster-net": "19.40",
     "softperfect-ping-monitor": "26.10",
     "transmission": "4.1.4",
     "abdelrhman-ak-winpaletter": "1.1.0.0",
     "etcher": "2.1.9",
     "tkosoft-hwdetails": "2.4",
-    "yukihiro-matsumoto-ruby-programming-language": "4.0.9",
+    "yukihiro-matsumoto-ruby-programming-language": "4.0.10",
     "q-dir": "12.85",
-    "hendrik-zettlr": "4.9.0",
+    "hendrik-zettlr": "4.10.0",
     "pid-key-checker": "5.1.0",
-    "gram-code-editor": "3.4.1",
+    "gram-code-editor": "3.5.2",
     "aleksey-shpakovsky-muffon": "2.5.0",
     "ultravnc": "1.8.3.2",
-    "spicy-sparks-esound-music": "3.0.20",
-    "veracrypt": "1.26.30",
-    "windows-powershell": "7.6.9",
-    "gimagereader": "3.4.4",
-    "slimjet-web-browser": "51.0.1.0",
-    "microsoft-net-desktop-runtime": "10.0.14",
+    "spicy-sparks-esound-music": "3.0.24",
+    "veracrypt": "1.26.31",
+    "windows-powershell": "7.7.0",
+    "gimagereader": "3.4.5",
+    "slimjet-web-browser": "51.0.3.0",
+    "microsoft-net-desktop-runtime": "11.0.0",
     "carifred-unduplicate": "1.3",
     "phillip-cloud-micasa": "2.8.2",
     "universal-usb-installer": "2.0.4.0",
-    "wox-launcher": "2.4.8",
+    "wox-launcher": "2.5.0",
     "tixati": "3.44",
     "ueli": "9.29.1",
     "uefi-tool": "76",
-    "will-be-done": "0.14.0",
-    "frostwire": "7.1.3",
+    "will-be-done": "0.15.0",
+    "frostwire": "7.1.5",
     "balabolka": "2.15.0.924",
     "devolutions-gateway": "2026.3.3.0",
     "devolutions-agent": "2026.3.3.0",
-    "jahastech-nxfilter": "4.7.5.6",
+    "jahastech-nxfilter": "4.7.5.7",
     "superhive-market-meiu-scene-optimization": "2.1",
     "blender-market-orange-turbine-render-raw": "1.4.1",
     "superhive-market-kekit-pro": "4.0.1",
     "privatta": "1.2.0",
     "aomei-winfrgui": "1.2.2",
-    "builtbybel-bloatynosy": "1.02.142",
+    "builtbybel-bloatynosy": "1.12.10",
     "wondershare-pdfelement": "13.0.10.4558",
     "wondershare-uniconverter-0001": "18.0.1.66",
     "robin-youtube-video-downloader": "7.5.32",
     "r-wipe-and-clean": "20.0.2583",
-    "teamviewer": "15.83.5",
+    "teamviewer": "15.83.7",
     "microsoft-office-2021-2024": "2024",
-    "techsmith-camtasia-0007": "26.2.4.20997",
+    "techsmith-camtasia-0007": "27.0.0.21317",
     "able-tonlivesuite": "12.4.16",
     "daemon-tools-lite": "12.6.0.2472",
     "soundcraft": "0.17.1",
@@ -843,29 +843,29 @@
     "whatsapp-for-pc": "2.2641.101.0",
     "dxo-pureraw-0001": "6.8.1.3",
     "marvelous-designer": "2026.1.237",
-    "herotools-openwispr": "1.11.0",
-    "microsoft-edge": "156.0.4314.58",
+    "herotools-openwispr": "1.12.0",
+    "microsoft-edge": "157.0.4341.57",
     "softperfect-cache-relocator": "26.10",
     "scrapy": "2.20.0",
-    "akk-cinelibrary-essentials": "1.4.0",
+    "akk-cinelibrary-essentials": "1.5.1",
     "digiarty-aiarty-video-enhancer": "3.9",
-    "jakub-melka-pdf4qt": "1.7.0.0",
+    "jakub-melka-pdf4qt": "1.7.1.0",
     "jamulus-for-windows": "3.12.6",
-    "softfever-orca-slicer": "2.5.0",
-    "parted-magic": "26.11.1",
+    "softfever-orca-slicer": "2.5.2",
+    "parted-magic": "26.11.3",
     "flameshot": "15.0.0",
-    "telegram-desktop": "7.4.1",
+    "telegram-desktop": "7.4.4",
     "glary-disk-cleaner": "6.0.1.49",
     "trustsing-idefender": "6.2.1",
-    "chatbox-ai": "1.24.2",
+    "chatbox-ai": "1.24.4",
     "sharex": "22.4.0",
     "cherrytree": "1.7.3",
     "muhammad-usharab-revive-faces-0001": "2.0.20",
-    "le-tan-vnote": "4.14.1",
-    "pitara": "7.0.9807.2644",
+    "le-tan-vnote": "4.15.1",
+    "pitara": "8.0.9816.27472",
     "muhammad-usharab-scale-photo-up-0001": "2.0.20",
     "glary-tracks-eraser": "6.0.1.33",
-    "hai-nguyen-mechvibes": "3.5.6",
+    "hai-nguyen-mechvibes": "3.5.7",
     "4gray-iptvnator": "0.25.0",
     "muhammad-usharab-let-it-be-light-0001": "2.0.20",
     "media-player-classic-home-cinema": "2.8.5",
@@ -985,7 +985,502 @@
     "magix-vegas-0001": "2027.0.1.56",
     "iobit-malware-fighter": "14.0.0.1766",
     "iobit-smart-defrag": "12.1.0.619",
-    "ptc-creo-schematics-0001": "2027.0.0.0"
+    "ptc-creo-schematics-0001": "2027.0.0.0",
+    "3dsurvey-0001": "4.2.1",
+    "4ddig-partition-manager-0002": "4.5.1.12",
+    "4k-youtube-to-mp3": "26.4.0",
+    "7-zip": "26.06",
+    "a-ruler-for-windows": "4.0.1",
+    "ab-download-manager": "1.11.4",
+    "abelssoft-youtube-song-downloader": "26.20",
+    "jan-goyvaerts-acetext": "4.4.2",
+    "activepresenter": "10.7.0",
+    "ad-fastreporter-pro": "26.10.30",
+    "wintools-addleds": "2.0.0.7",
+    "adguard-home": "1.0.0",
+    "animate-0018": "27.0.0.33",
+    "adobe-audition-2025-0028": "27.0.0.67",
+    "bridge-0055": "17.0.0.92",
+    "adobe-creative-cloud-cleaner-tool-0019": "4.3.0.1437",
+    "dimension-0004": "4.1.10.5006",
+    "adobe-illustrator-2025-0056": "31.0.0.84",
+    "incopy-0007": "22.0.0.104",
+    "indesign-0021": "22.0.0.104",
+    "adobe-media-encoder-0012": "27.0.0.72",
+    "adobe-premiere-pro-0064": "27.0.0.88",
+    "adobe-substance-3d-stager-0004": "3.1.10.6755",
+    "adolix-split-and-merge-pdf-professional": "3.1.7.8",
+    "aescripts-ai-depth-of-field": "1.3.6",
+    "aescripts-color-shift": "1.2.1",
+    "aescripts-markers-command-center": "2.1.1",
+    "aescripts-photo-mosaic": "1.2.0",
+    "aescripts-quick-matte": "2.1.12",
+    "aescripts-scaleup": "1.4.6",
+    "aescripts-universal-audio": "2.0.2",
+    "aescripts-xcloner": "1.4.2",
+    "aescripts-ae-gpt": "1.4.0",
+    "aescripts-aibow-ink": "1.1.1",
+    "aescripts-compresizer": "1.2.0",
+    "aescripts-dreamglare": "1.1.1",
+    "aescripts-face-3d": "2 v2.0.1",
+    "aescripts-flowr": "1.1.0",
+    "aescripts-fractal-volume": "1.1",
+    "aescripts-gpudog-deep": "1.5.2",
+    "aescripts-icondock": "1.04",
+    "aescripts-instantrecipe": "1.0.1",
+    "aescripts-davide-boscolo-kease": "2.4.5",
+    "aescripts-lightwrap": "1.1.1",
+    "aescripts-magictoolbar": "2.4.7",
+    "aescripts-mate-for-ae": "2.5.0",
+    "aescripts-mobar-pro-0001": "3.7.9",
+    "aescripts-nano-banana-generative-fill-for-photoshop": "2.4.0",
+    "aescripts-pluck": "1.8.0",
+    "aescripts-podfast": "1.1.4",
+    "aescripts-progradient": "1.4.2",
+    "aescripts-quick-depth": "3.3.7",
+    "aescripts-risograph": "1.1.0",
+    "aescripts-root": "1.1.4",
+    "aescripts-rxxr": "1.2.0",
+    "aescripts-sequence-compare": "1.0.1",
+    "aescripts-sequence-inspector": "1.2.1",
+    "aescripts-speedx": "1.3.0",
+    "aescripts-texto": "1.5.0",
+    "aescripts-torn-paper": "1.1",
+    "aescripts-voicelab": "0.0.3",
+    "canva-affinity-0001": "3.3.3.5004",
+    "ai-aquarium-screensaver": "1.9.1",
+    "megaj-ai-ebook-to-audio-converter": "1.1.30",
+    "bytesweavers-ai-file-organizer-pro": "2.0.4",
+    "ai-image-object-replacer-pro": "2.0.0",
+    "aimp": "5.40.2731",
+    "album-td": "4.9.6.0",
+    "allmapsoft-openstreetmap-downloader": "6.630",
+    "altersend": "2.1.0",
+    "amd-ryzen-master": "3.1.2.5621",
+    "amneziavpn": "5.1.1.10",
+    "ams-software-photoworks": "24.0",
+    "angry-ip-scanner": "3.12.2",
+    "anthemion-jutoh": "3.33.6",
+    "antimicrox": "3.6.2",
+    "antivirus-removal-tool": "2026.11",
+    "anybody-technologies-modeling-system": "8.2.2",
+    "anymp4-data-recovery": "3.1.6",
+    "apeaksoft-data-recovery": "3.1.6",
+    "archimate-modelling-tool": "5.11.0",
+    "arduino-ide-for-windows": "2.3.11",
+    "asap-utilities-for-excel": "9.4",
+    "ascomp-screencapt-professional": "3.008",
+    "ascompsoftware-text-r": "3.000",
+    "asoftis-pdf-editor": "1.4.0",
+    "atlasos": "0.6.1",
+    "petges-attribute-changer": "11.51",
+    "audiobook-converter-pro": "1.1.11",
+    "autodesk-inventor-0035": "2027.2",
+    "autodesk-revit-0041": "2027.4",
+    "avanquest-olympia-graphic-design": "1.7.7.80",
+    "avast-clear": "26.11.11250",
+    "avast-antivirus": "26.11.11250.0",
+    "avg-clear": "26.11.11250",
+    "avs-audio-converter": "26.0.3.6",
+    "avs-audio-editor": "26.0.3.6",
+    "avs-video-converter": "26.0.3.6",
+    "avs4you-software-aio-installation-package": "26.0.3.6",
+    "axialis-iconvectors-pro": "2.20.0",
+    "bambu-studio": "02.09.01.70",
+    "bdtoavchd": "3.3.0",
+    "benthic-software-golden": "8.4.0.848",
+    "bigly-software-biglybt": "4.2.0.0",
+    "bitvaerk-file-juggler": "3.1.9",
+    "blender": "5.3.0",
+    "blender-market-chafouin-photographer": "5.8.7",
+    "blender-market-extra-3d-cinematic-compositor": "2.1.1",
+    "blumentals-rapid-css": "18.10.0.280",
+    "blumentals-rapid-php": "18.10.0.280",
+    "boinc": "8.2.15",
+    "borisfx-sapphire-0002": "2027.0",
+    "boris-fx-sequoia": "2026.5.2.26234",
+    "boris-fx-silhouette": "2027.0",
+    "magix-sound-forge": "2026.0.78",
+    "us-army-research-laboratory-brl-cad": "7.46.0",
+    "bullzip-express-menu": "5.1.9805.26872",
+    "burnaware": "19.5",
+    "cadcraft": "0.20.1",
+    "calibre": "9.19.0",
+    "cent-browser": "5.3.1184.31",
+    "cerberus-ftp-server": "2026.3.1",
+    "enscape3d-0001": "4.22.0.1361",
+    "chapterforge": "1.0.30.1",
+    "charles-proxy": "5.2.3",
+    "chatto": "0.5.0",
+    "video-converter-by-cisdem": "7.0.0.7000",
+    "ck-image-and-pdf-reducer": "5.0.0",
+    "filemaker": "26.1.1.54",
+    "classroom-spy": "5.7.8",
+    "close-all-windows": "6.2",
+    "code4ward-royal-ts": "7.4.51113",
+    "constly": "4.14.1",
+    "coolmuster-android-eraser": "4.1.36",
+    "coolmuster-mobile-transfer": "5.0.37",
+    "corel-paintshop-pro-ultimate": "25.3.0.16",
+    "creality-print": "7.3.1",
+    "cryptsync": "1.4.12",
+    "cuecart": "1.3.5",
+    "cyberduck-for-windows": "9.6.0.46406",
+    "cyberduck": "9.6.0.46406",
+    "daemon-tools": "7.1.0.1919",
+    "deckcraft": "0.18.1",
+    "defenderui": "2.15",
+    "dehancer-pro-vegas-ofx": "7.5.1",
+    "deskcamera": "6.3.1",
+    "limbo666-desktop-fences-plus": "2.7.8.377",
+    "ntinfo-detect-it-easy": "4.0",
+    "dlnow-video-downloader": "1.58.2026.10.26",
+    "dnscrypt-proxy": "2.1.21",
+    "dp-animation-maker": "3.5.55",
+    "peter-a-dr-hardware": "27.0.0",
+    "driver-magician-lite": "5.87",
+    "driverstore-explorer": "1.0.75",
+    "easeus-fixo": "5.0.0.20261103",
+    "easy-data-transform": "2.15.1",
+    "easy-duplicate-finder": "8.4.0.7",
+    "ekahau-ai-pro": "11.9.5",
+    "eltima-cloudmounter": "3.9.2207",
+    "emjysoft-photo-reducer": "6.3",
+    "enpass-password-manager": "6.12.8.2751",
+    "exif-pilot": "6.29.2",
+    "f6cte-multipsk": "4.54",
+    "fabulatech-usb-for-remote-desktop": "6.5.0.0",
+    "fastflix": "6.3.0",
+    "ola-proeis-ferrite": "0.3.1",
+    "files-fm-sync": "3.16.39",
+    "filezilla-free": "3.72.1",
+    "final-draft": "13.5.1.124",
+    "firetrust-mailwasher": "8.5.8",
+    "fixbuff": "1.1.0",
+    "flowheater": "4.6.0",
+    "builtbybel-fluentcleaner": "26.11.11",
+    "fluentcleaner-classic": "26.11.108",
+    "fluke-trutest": "1.2.0.28",
+    "alex-xu-flyenv": "4.21.1",
+    "foldermove": "4.0.0",
+    "fonelab-data-retriever": "3.1.6",
+    "fotosketcher": "4.70",
+    "franzis-dive-1-professional": "2.24.04489",
+    "franzis-dive-video-1-professional": "2.24.04489",
+    "freecommander-xe": "2026.956",
+    "freetube": "0.26.0",
+    "ftpie-pro": "2026.11.2",
+    "furmark2": "2.11.0.4",
+    "gammadyne-centurion-setup": "52.0",
+    "gammadyne-serlog": "24.0",
+    "garmin-express": "8.0",
+    "gdzsoft-desktopup": "2.0.3",
+    "geogebra": "6.0.932.1",
+    "gilisoft-audio-recorder": "15.2",
+    "gilisoft-screen-recorder": "13.6",
+    "gimp": "3.2.8",
+    "devlint-gitwand": "3.13.3",
+    "glary-utilities-free": "6.50.0.54",
+    "glasswire-firewall": "3.11.1164",
+    "gogs": "0.14.4",
+    "gohide": "6.5.1",
+    "google-antigravity": "2.34.0",
+    "google-antigravity-ide": "2.8.0",
+    "goscreen-corporate": "22.0.0.1126",
+    "gpg4win": "5.1.2",
+    "greeting-card-factory-deluxe": "27.0.0.7",
+    "hard-disk-sentinel": "6.40.6",
+    "hasleo-backup-suite-free": "6.0.2",
+    "wintohdd": "7.2",
+    "help-and-manual": "10.3.1",
+    "heredis": "27.1",
+    "hexagon-esprit-edge": "2026.3.2645.4466",
+    "hyper-plan": "2.10.7",
+    "hypersnap": "10.5.2",
+    "i2p-invisible-internet-project": "2.14.1",
+    "idrive": "7.0.1.23",
+    "illusanato-text-to-speech-studio-offline": "1.1.1",
+    "im-magic-partition-resizer": "7.9.6",
+    "yubsoft-imgdrive": "2.3.1",
+    "inno-setup-unpacker": "2.2.14",
+    "innoextractor-plus": "12.2.0.187",
+    "instabot-pro": "7.3.3",
+    "iobit-driver-booster-free": "14.1.0.572",
+    "iobit-malware-fighter-free": "14.0.0.1766",
+    "iobit-smart-defrag-free": "12.1.0.619",
+    "iobit-uninstaller-free": "16.1.0.4",
+    "irispowerscan": "12.4.17.0",
+    "ismylcdok": "6.27",
+    "softwareok-ismymemoryok": "1.34",
+    "isobuster": "5.9 (Build 5.8.9.0)",
+    "itop-data-recovery-pro": "6.5.0.965",
+    "izotope-nectar": "4.3.0",
+    "izotope-neoverb": "1.5",
+    "neutron-by-izotope": "5.3",
+    "izotope-relay": "1.8.0",
+    "izotope-vocalsynth": "2.8.0",
+    "java-se-development-kit": "27.0.1.1",
+    "jixipix-artista-impresso": "1.8.34",
+    "jixipix-premium-pack": "1.2.23",
+    "jixipix-spektrel-art": "1.1.27",
+    "jmmgc-write-a-document": "7.0.20261005",
+    "kaizen-home-manager": "4.11.1002",
+    "vehicle-manager-fleet": "4.11.2000",
+    "karaosoft-kj-file-manager": "4.0.11",
+    "keepass-password-safe": "2.62",
+    "kicad": "10.0.8",
+    "kilho-1stchip": "0.9.1",
+    "ks-db-merge-tools-for-cross-dbms": "1.22.0",
+    "leo-khoa-laragon": "8.9.0",
+    "ascomp-software-leakcheck-professional": "1.003",
+    "elanguage-learn-to-speak-english-deluxe": "12.0.0.41",
+    "light-capture": "2026.9.25.623",
+    "lightburn-0011": "2.3.00.2",
+    "kolbasky-linkrouter": "4.0.0",
+    "lizardsystems-terminal-services-manager": "26.11",
+    "lumina-suite-ai": "1.1.1",
+    "luxion-keyshot-enterprise": "2026.3 v15.2.0.140",
+    "macrium-reflect-x": "10.0.8989",
+    "macro-commander": "2.8.9",
+    "macro-recorder": "5.0.42",
+    "macrorit-disk-scanner": "7.1.3",
+    "macrorit-ntfs-to-fat32-converter": "2.1.3",
+    "macrorit-partition-expert": "8.9.6",
+    "macrorit-partition-extender": "2.6.5",
+    "mamp-and-mamp-pro": "5.0.7.104",
+    "manictime": "2026.2.4.0",
+    "maxcut": "2.9.6.8",
+    "rumpus": "11.1.3",
+    "media-player-classic-black-edition": "1.9.3",
+    "zackriya-solutions-meetily": "0.5.0",
+    "mercuriall-audio-ampbox": "1.10.8",
+    "microsoft-office-365-online-installer-0001": "3.3.18",
+    "microsoft-pc-assist": "0.4.4.0",
+    "microsoft-pix": "2611.19",
+    "microsoft-safety-scanner": "1.463.324.0",
+    "microsoft-visual-redistributable": "14.52.37029",
+    "mikrotik-routeros": "7.25.1",
+    "palmeral-min-browser": "1.35.8",
+    "mini-diarium": "0.8.1",
+    "deminimis-minimal-firewall": "2.9.0",
+    "minitool-power-data-recovery": "13.2",
+    "minitool-power-data-recovery-personal": "13.2",
+    "mipmap-desktop": "3.3.0",
+    "mitec-exe-explorer": "4.0.0",
+    "nebukam-mkfont": "2.0.1",
+    "mkvtoolnix": "104.0",
+    "mobikin-assistant-for-android": "5.4.60",
+    "mobikin-eraser-for-android": "5.1.28",
+    "mobikin-transfer-for-mobile": "6.0.24",
+    "modbus-slave": "10.0.1.2582",
+    "modern-csv": "2.4.5",
+    "mountain-duck": "5.4.0.30093",
+    "download-mozilla-thunderbird": "160.0",
+    "mp3tag": "3.37",
+    "mpv-media-player": "20261111",
+    "multiclipboardslots": "3.63",
+    "mythicsoft-filelocator-pro": "2022.3568",
+    "ntrack-studio": "11.0.0.11570",
+    "nabyscape": "2.27.0",
+    "native-instruments-komplete-kontrol-0006": "3.5.5",
+    "native-instruments-massive-xl": "2.0.1",
+    "navicat-premium": "18.0.8",
+    "nch-doxillion-plus": "12.01",
+    "nch-express-scribe-transcription": "15.13",
+    "nch-mixpad": "14.36",
+    "nch-photopad": "15.27",
+    "nch-photostage": "13.06",
+    "nch-pixillion-image-converter": "14.03",
+    "nch-wavepad": "24.57",
+    "neevia-document-converter": "7.7.0.314",
+    "nero-motion-tracker": "1.4.2.0",
+    "netsdk-software-s3-browser": "13.6.5",
+    "netspot": "6.1.0.830",
+    "networkmanager": "2026.11.15.0",
+    "newfiletime": "8.33",
+    "ninja-ripper": "2.20",
+    "nirlauncher-package": "1.30.27",
+    "niubi-tech-partition-editor": "10.3.6",
+    "nmap-security-scanner": "7.993",
+    "nsl-tech-autosql": "1.6.4",
+    "ntwind-windowspace": "2.7.1",
+    "nvidia-app": "11.0.9.585",
+    "a1ive-nwinfo": "1.6.7",
+    "nxpowerlite-for-file-servers": "11.0.2",
+    "nymvpn": "2026.15.0",
+    "oo-bluecon": "25.0.27026",
+    "oando-diskimage-premium": "23.2.26060",
+    "oo-safeerase": "22.0.26169",
+    "obscura-vpn": "1.185",
+    "obsidian-canvas": "1.15.1",
+    "ocenaudio": "3.22.2",
+    "octoparse": "10.3.0",
+    "office-tool-plus": "11.9.15.0",
+    "okmap": "20.1.0",
+    "ossama-hjaji-onefetch": "3.3.0",
+    "onionshare": "2.7.2",
+    "open-pencil": "0.17.0",
+    "openknowledge": "0.89.14",
+    "openvpn": "2.7.9",
+    "operant-peak-spectroscopy": "4.00.575",
+    "hellzerg-optimizer": "17.0",
+    "orama-interactive-pixelorama": "1.2.4",
+    "ortmann-pixel-art-designer": "8.0.3",
+    "equialitie-ouisync": "0.9.5",
+    "panopreter": "4.0.1.4",
+    "paprika-recipe-manager": "4.0.9",
+    "paradox-converter": "4.96",
+    "pcdj-lyrx": "1.12.0",
+    "pdfforge-pdf-architect": "10.0.42.25012",
+    "pdf24-creator": "11.35.0",
+    "pdffactory": "9.36",
+    "pdfsam-enhanced": "7.0.83.15228",
+    "pdfzilla-pdf-slideshow": "1.0.1.0",
+    "pepakura-designer": "6.3.9",
+    "perfectxl-compare": "1.8.2",
+    "perfectxl-explore": "1.6.5",
+    "perfectxl-risk-finder": "1.2.13",
+    "personal-backup": "6.4.15.0",
+    "phoenixpe": "2026.10.25",
+    "photoglory": "9.00",
+    "bartels-media-phraseexpress": "18.0.86",
+    "ping-tracer": "2.1",
+    "pixieditor": "2.1.2.5",
+    "dvdfab-media-player": "7.0.6.7",
+    "vincent-jousse-pomodorolm": "0.10.1",
+    "jan-goyvaerts-powergrep": "5.4.2",
+    "print-artist-gold": "27.0.0.8",
+    "print-my-fonts": "26.11.3",
+    "printmaster-gold": "18.0.2.0",
+    "broderbund-printmaster": "18.0.2.0",
+    "process-explorer": "17.21",
+    "process-monitor": "4.13",
+    "protonvpn": "5.1.9",
+    "qiling-disk-master": "8.9",
+    "qiling-fast-cache-standard-server": "3.6.0.20261106",
+    "qmmp": "2.4.3",
+    "svo-webdesign-qr-code-creator": "7.8.1.3",
+    "coderbag-quick-cpu-free": "6.8.0",
+    "quick-cpu-0001": "6.8.0",
+    "quickmemorytestok": "5.61",
+    "r2modman": "3.2.21",
+    "radare2": "6.2.6",
+    "rainbow-analyst-add-in-professional": "26.11",
+    "rancher-desktop": "1.25.0",
+    "recordfab": "1.0.1.7",
+    "red-cad-app": "3.25.5",
+    "jan-goyvaerts-regexmagic": "3.0.0",
+    "remove-bg": "3.0.2",
+    "alexander-neumann-restic": "0.20.0",
+    "richardson-razorsql": "11.0.4",
+    "roxio-easy-vhs-to-dvd-plus": "4.0.24",
+    "samsung-browser": "31.01.38",
+    "sandisk-ssd-dashboard": "5.3.2.4",
+    "sante-dicom-worklist-server": "2.5.3",
+    "sapien-versionrecall": "1.8.182",
+    "sautinsoft-document-net": "2026.11.10",
+    "sciwand": "0.15.2",
+    "scrapbook-factory-deluxe": "5.0.3.7",
+    "kilho-secretdns": "4.1.3",
+    "seelen-ui": "2.8.11",
+    "sejda-pdf-desktop": "7.9.12",
+    "signal-messenger-desktop": "8.36.0",
+    "divelements-skydemon": "4.3.4",
+    "smart-game-booster-free": "6.0.1.1231",
+    "smartus-ai-old-photo-restorer": "2.0.2",
+    "smith-micro-moho": "14.5.1.20261113",
+    "snapdownloader-0001": "1.15.43",
+    "snapraid": "15.2",
+    "xytom-snippai": "0.7.0",
+    "softether-vpn": "5.2.5191",
+    "soundswitch": "7.4.0",
+    "spaqi-consulting-pc-repair-suite": "2.3.0",
+    "speedyfox": "3.0.2.203",
+    "spybot-anti-beacon": "6.9",
+    "stedding-browser": "0.7.0",
+    "steelseries-gg-for-windows": "124.0.0",
+    "steinberg-dorico": "6.2.40",
+    "steinberg-halion": "7.5.10",
+    "steinberg-halion-sonic-se": "7.5.10",
+    "superhive-market-cveld-shell-fit": "1.3.4",
+    "blender-market-haughtygrayalien-simplebake": "2.9.12",
+    "superhive-market-pitiwazou-speedsculpt": "0.4.0",
+    "superhive-market-squishfx": "3.49.0",
+    "superhive-market-erasers45-studios-voxelvision-iii": "4.2.0",
+    "sweet-home-3d": "7.6.8.1607",
+    "sweet-home-3d-free": "7.6.1",
+    "symantec-endpoint-protection": "14.5.172.0000",
+    "sync-for-windows": "5.0.41",
+    "sysinternals": "2026.11.5",
+    "sysnucleus-webharvy": "8.5.0.258",
+    "system-mechanic-ultimate-defense": "27.1.1.5",
+    "systemrescuecd": "13.03",
+    "obviousidea-tapopanel": "2026.10.14.162",
+    "taiko2k-tauon-music-box": "14.0.0",
+    "gpu-z": "2.72",
+    "the-bat": "12.4",
+    "thimeo-relay": "11.07",
+    "thimeo-st-enterprise": "11.07",
+    "thimeo-stereo-tool": "11.07",
+    "dhanush-s-tidywindow": "5.5.5",
+    "winbigfox-timescribe": "1.18.0",
+    "thomas-mann-tixl": "4.3.0.4",
+    "tominlab-wonderpen": "3.4.2.8515",
+    "toontrack-ezkeys": "2.1.6",
+    "topaz-gigapixel-pro": "1.5.1",
+    "topaz-photo-pro": "1.8.2",
+    "topaz-video": "1.7.2",
+    "topwin-any-mp3-converter": "11.0.0.9",
+    "topwin-windows-video-converter": "11.0.0.8",
+    "total-network-inventory": "6.9.0.7641",
+    "git-tower": "15.0.590",
+    "typewhisper": "1.2.2",
+    "tuerkay-software-glow": "26.15",
+    "ultimaker-cura": "5.14.0",
+    "umoupen": "0.9.63",
+    "universal-media-server": "15.9.0",
+    "giant-pink-robots-varia-download-manager": "2026.11.16",
+    "vaultsync": "1.8.10",
+    "thewh1teagle-vibe-transcribe": "3.3.8",
+    "violens": "1.0.0",
+    "virtual-dj-studio": "9.1.5",
+    "r-smith-vmping": "1.4.0",
+    "vmware-installbuilder": "26.11",
+    "vmware-tools": "13.1.6",
+    "voicebox": "0.6.0",
+    "vovsoft-batch-image-resizer": "2.5",
+    "vovsoft-download-mailbox-emails": "2.2",
+    "vovsoft-keep-software-alive": "3.5",
+    "vovsoft-qr-code-and-barcode-reader": "1.7",
+    "vovsoft-speech-to-text-converter": "6.1",
+    "vovsoft-svg-converter": "2.1",
+    "vovsoft-tree-notes": "3.7",
+    "watchdog-anti-malware": "4.4.86",
+    "wavemetrics-igor-pro": "10.05.30387",
+    "western-digital-wd-ssd-dashboard": "7.1.2.1",
+    "windows-and-office-genuine-iso-verifier": "11.2026",
+    "bill-zissimopoulos-winfsp": "2.2.26323",
+    "wingware-wing": "12.1.2",
+    "winnc": "11.7",
+    "winpe-sergei-strelec": "2026.11.06",
+    "winscan2pdf": "9.82",
+    "winscp": "6.7.1",
+    "wintoys": "3.0.10.0",
+    "privacyroot-wipe-free": "2026.13",
+    "wireshark": "4.6.10",
+    "wiztree": "4.34",
+    "wondershare-recoverit-0001": "15.0.4.5",
+    "worksheet-crafter": "2026.3.5.253",
+    "writefreely": "0.17.3",
+    "xappex-xl-connector": "3.8.7.0",
+    "xelitan-image-viewer": "2.0",
+    "xero-software-taxcycle-enterprise": "16.1.16241",
+    "mountain-loop-yaak": "2026.9.1",
+    "yamicsoft-windows-11-manager": "2.4.5",
+    "yuhan-blu-ray-dvd-creator": "5.0.1",
+    "zbrainsoft-dose-for-excel": "3.6.11",
+    "anfragment-zen-ad-blocker": "0.29.0",
+    "zero-install": "2.30"
   },
   "add": [
     [
@@ -2251,6 +2746,1286 @@
       "Craft Anything 0.5.0",
       "utilitarios",
       0
+    ],
+    [
+      "5ire",
+      "5ire",
+      "0.15.4",
+      "5ire 0.15.4",
+      "rede",
+      0
+    ],
+    [
+      "abf-systems-auto-body-estimator",
+      "ABF Systems Auto Body Estimator",
+      "35.43",
+      "ABF Systems Auto Body Estimator 35.43",
+      "educacao",
+      0
+    ],
+    [
+      "abf-systems-heavy-truck-estimator",
+      "ABF Systems Heavy Truck Estimator",
+      "35.43",
+      "ABF Systems Heavy Truck Estimator 35.43",
+      "educacao",
+      0
+    ],
+    [
+      "aescripts-aibow-genkou",
+      "Aescripts AiBow Genkou",
+      "1.0.1",
+      "Aescripts AiBow Genkou 1.0.1",
+      "design",
+      0
+    ],
+    [
+      "aescripts-aibow-grid",
+      "Aescripts AiBow Grid",
+      "1.1",
+      "Aescripts AiBow Grid 1.1",
+      "design",
+      0
+    ],
+    [
+      "aescripts-aibow-impact-burst",
+      "Aescripts AiBow Impact Burst",
+      "1.1",
+      "Aescripts AiBow Impact Burst 1.1",
+      "design",
+      0
+    ],
+    [
+      "aescripts-aibow-manga-koma",
+      "Aescripts AiBow Manga Koma",
+      "1.0",
+      "Aescripts AiBow Manga Koma 1.0",
+      "design",
+      0
+    ],
+    [
+      "aescripts-aibow-manga-toner",
+      "Aescripts AiBow Manga Toner",
+      "1.0.1",
+      "Aescripts AiBow Manga Toner 1.0.1",
+      "design",
+      0
+    ],
+    [
+      "aescripts-bao-mask-gradient",
+      "Aescripts BAO Mask Gradient",
+      "1.0",
+      "Aescripts BAO Mask Gradient 1.0",
+      "design",
+      0
+    ],
+    [
+      "aescripts-brand-manager",
+      "Aescripts Brand Manager",
+      "1.0.0",
+      "Aescripts Brand Manager 1.0.0",
+      "design",
+      0
+    ],
+    [
+      "aescripts-burnaway",
+      "Aescripts BurnAway",
+      "1.0.1",
+      "Aescripts BurnAway 1.0.1",
+      "design",
+      0
+    ],
+    [
+      "aescripts-c4d2hou",
+      "Aescripts C4D2HOU",
+      "1.0.6",
+      "Aescripts C4D2HOU 1.0.6",
+      "design",
+      0
+    ],
+    [
+      "aescripts-connecto",
+      "Aescripts ConnectO",
+      "1.0.0",
+      "Aescripts ConnectO 1.0.0",
+      "design",
+      0
+    ],
+    [
+      "aescripts-crucible",
+      "Aescripts Crucible",
+      "1.0.2",
+      "Aescripts Crucible 1.0.2",
+      "design",
+      0
+    ],
+    [
+      "aescripts-cutsync",
+      "Aescripts CutSync",
+      "1.3.1",
+      "Aescripts CutSync 1.3.1",
+      "design",
+      0
+    ],
+    [
+      "aescripts-dataink",
+      "Aescripts DataInk",
+      "1.1.0",
+      "Aescripts DataInk 1.1.0",
+      "design",
+      0
+    ],
+    [
+      "aescripts-deep-clear",
+      "Aescripts Deep Clear",
+      "1.0.1",
+      "Aescripts Deep Clear 1.0.1",
+      "design",
+      0
+    ],
+    [
+      "aescripts-demult",
+      "Aescripts DeMult",
+      "1.0",
+      "Aescripts DeMult 1.0",
+      "design",
+      0
+    ],
+    [
+      "aescripts-denoiseai",
+      "Aescripts DenoiseAI",
+      "1.0.0",
+      "Aescripts DenoiseAI 1.0.0",
+      "design",
+      0
+    ],
+    [
+      "aescripts-ether",
+      "Aescripts Ether",
+      "1.0.0",
+      "Aescripts Ether 1.0.0",
+      "design",
+      0
+    ],
+    [
+      "aescripts-falloff",
+      "Aescripts Falloff",
+      "1.0.0",
+      "Aescripts Falloff 1.0.0",
+      "design",
+      0
+    ],
+    [
+      "aescripts-feedback-studio",
+      "Aescripts Feedback Studio",
+      "1.3.0",
+      "Aescripts Feedback Studio 1.3.0",
+      "design",
+      0
+    ],
+    [
+      "aescripts-glasser",
+      "Aescripts Glasser",
+      "1.1.1",
+      "Aescripts Glasser 1.1.1",
+      "design",
+      0
+    ],
+    [
+      "aescripts-gpuresize",
+      "Aescripts GPUResize",
+      "2.0.0",
+      "Aescripts GPUResize 2.0.0",
+      "design",
+      0
+    ],
+    [
+      "aescripts-gravis",
+      "Aescripts Gravis",
+      "1.1.0",
+      "Aescripts Gravis 1.1.0",
+      "design",
+      0
+    ],
+    [
+      "aescripts-holographic-foil",
+      "Aescripts Holographic Foil",
+      "1.1",
+      "Aescripts Holographic Foil 1.1",
+      "design",
+      0
+    ],
+    [
+      "aescripts-inkguard-prepress-studio",
+      "Aescripts Inkguard Prepress Studio",
+      "1.0.0",
+      "Aescripts Inkguard Prepress Studio 1.0.0",
+      "design",
+      0
+    ],
+    [
+      "aescripts-magicmorphing-0001",
+      "Aescripts MagicMorphing",
+      "1.2.0",
+      "Aescripts MagicMorphing 1.2.0",
+      "design",
+      0
+    ],
+    [
+      "aescripts-marbling",
+      "Aescripts Marbling",
+      "1.0.0",
+      "Aescripts Marbling 1.0.0",
+      "design",
+      0
+    ],
+    [
+      "aescripts-metronome-matte",
+      "Aescripts Metronome Matte",
+      "1.0.0",
+      "Aescripts Metronome Matte 1.0.0",
+      "design",
+      0
+    ],
+    [
+      "aescripts-mini-bread",
+      "Aescripts Mini Bread",
+      "1.0.0",
+      "Aescripts Mini Bread 1.0.0",
+      "design",
+      0
+    ],
+    [
+      "aescripts-miryaa",
+      "Aescripts MIRЯA",
+      "1.0.0",
+      "Aescripts MIRЯA 1.0.0",
+      "design",
+      0
+    ],
+    [
+      "aescripts-mo3d",
+      "Aescripts MO3D",
+      "1.0",
+      "Aescripts MO3D 1.0",
+      "design",
+      0
+    ],
+    [
+      "aescripts-morph-studio",
+      "Aescripts Morph Studio",
+      "1.0.0",
+      "Aescripts Morph Studio 1.0.0",
+      "design",
+      0
+    ],
+    [
+      "aescripts-physic3d",
+      "Aescripts Physic3d",
+      "1.3.141",
+      "Aescripts Physic3d 1.3.141",
+      "design",
+      0
+    ],
+    [
+      "aescripts-pinr",
+      "Aescripts PINr",
+      "1.1.0",
+      "Aescripts PINr 1.1.0",
+      "design",
+      0
+    ],
+    [
+      "aescripts-pip-layout",
+      "Aescripts PiP Layout",
+      "1.0.0",
+      "Aescripts PiP Layout 1.0.0",
+      "design",
+      0
+    ],
+    [
+      "aescripts-presets-direct",
+      "Aescripts Presets Direct",
+      "1.0.1",
+      "Aescripts Presets Direct 1.0.1",
+      "design",
+      0
+    ],
+    [
+      "aescripts-proradiance",
+      "Aescripts proRadiance",
+      "1.0",
+      "Aescripts proRadiance 1.0",
+      "design",
+      0
+    ],
+    [
+      "aescripts-recursive-mosaic",
+      "Aescripts Recursive Mosaic",
+      "1.5.0",
+      "Aescripts Recursive Mosaic 1.5.0",
+      "design",
+      0
+    ],
+    [
+      "aescripts-relay",
+      "Aescripts Relay",
+      "1.0.0",
+      "Aescripts Relay 1.0.0",
+      "design",
+      0
+    ],
+    [
+      "aescripts-rs-id-manager",
+      "Aescripts RS ID Manager",
+      "3.0.0",
+      "Aescripts RS ID Manager 3.0.0",
+      "design",
+      0
+    ],
+    [
+      "aescripts-shutter",
+      "Aescripts Shutter",
+      "4.8.0",
+      "Aescripts Shutter 4.8.0",
+      "design",
+      0
+    ],
+    [
+      "aescripts-shutter-drag-for-adobe",
+      "Aescripts Shutter Drag",
+      "1.0.4",
+      "Aescripts Shutter Drag 1.0.4",
+      "design",
+      0
+    ],
+    [
+      "aescripts-smoothops",
+      "Aescripts SmoothOps",
+      "1.0",
+      "Aescripts SmoothOps 1.0",
+      "design",
+      0
+    ],
+    [
+      "aescripts-steereo-3d",
+      "Aescripts Steereo 3D",
+      "1.0.3",
+      "Aescripts Steereo 3D 1.0.3",
+      "design",
+      0
+    ],
+    [
+      "aescripts-stemsplitter",
+      "Aescripts StemSplitter",
+      "0.0.2",
+      "Aescripts StemSplitter 0.0.2",
+      "design",
+      0
+    ],
+    [
+      "aescripts-streak-warp",
+      "Aescripts Streak Warp",
+      "1.0.0",
+      "Aescripts Streak Warp 1.0.0",
+      "design",
+      0
+    ],
+    [
+      "aescripts-streakmachine",
+      "Aescripts StreakMachine",
+      "1.1.0",
+      "Aescripts StreakMachine 1.1.0",
+      "design",
+      0
+    ],
+    [
+      "aescripts-system-monitor-pro-for-cinema-4d",
+      "Aescripts System Monitor Pro for Cinema 4D",
+      "1.0",
+      "Aescripts System Monitor Pro for Cinema 4D 1.0",
+      "design",
+      0
+    ],
+    [
+      "aescripts-textyle-premiere",
+      "Aescripts Textyle Premiere",
+      "1.0.5",
+      "Aescripts Textyle Premiere 1.0.5",
+      "design",
+      0
+    ],
+    [
+      "aescripts-versioner",
+      "Aescripts Versioner",
+      "1.1",
+      "Aescripts Versioner 1.1",
+      "design",
+      0
+    ],
+    [
+      "aescripts-vocal-isolator",
+      "Aescripts Vocal Isolator",
+      "1.3.0",
+      "Aescripts Vocal Isolator 1.3.0",
+      "audio",
+      0
+    ],
+    [
+      "aescripts-vocalsplitter",
+      "Aescripts VocalSplitter",
+      "0.0.2",
+      "Aescripts VocalSplitter 0.0.2",
+      "audio",
+      0
+    ],
+    [
+      "aescripts-vortex",
+      "Aescripts Vortex",
+      "1.0.0",
+      "Aescripts Vortex 1.0.0",
+      "design",
+      0
+    ],
+    [
+      "alphaplugins-light-leaker",
+      "AlphaPlugins Light Leaker",
+      "1.1",
+      "AlphaPlugins Light Leaker 1.1",
+      "design",
+      0
+    ],
+    [
+      "alphaplugins-permanent-press",
+      "AlphaPlugins Permanent Press",
+      "2.1",
+      "AlphaPlugins Permanent Press 2.1",
+      "design",
+      0
+    ],
+    [
+      "alphaplugins-retrographer",
+      "AlphaPlugins Retrographer",
+      "1.03",
+      "AlphaPlugins Retrographer 1.03",
+      "design",
+      0
+    ],
+    [
+      "alphaplugins-spot-wash-dirt",
+      "AlphaPlugins Spot Wash Dirt",
+      "1.1",
+      "AlphaPlugins Spot Wash Dirt 1.1",
+      "design",
+      0
+    ],
+    [
+      "alphaplugins-spot-wash-halftone",
+      "AlphaPlugins Spot Wash Halftone",
+      "1.1",
+      "AlphaPlugins Spot Wash Halftone 1.1",
+      "design",
+      0
+    ],
+    [
+      "askimo",
+      "Askimo",
+      "1.5.5",
+      "Askimo 1.5.5",
+      "utilitarios",
+      0
+    ],
+    [
+      "asoftis-video-converter",
+      "Asoftis Video Converter",
+      "1.5.2",
+      "Asoftis Video Converter 1.5.2",
+      "multimedia",
+      0
+    ],
+    [
+      "atlaswebx",
+      "AtlasWebX",
+      "1.0.0",
+      "AtlasWebX 1.0.0",
+      "navegadores",
+      0
+    ],
+    [
+      "superhive-market-adaptive-auto-skinning",
+      "Blender Market - Adaptive Auto Skinning",
+      "1.5.2",
+      "Blender Market - Adaptive Auto Skinning 1.5.2",
+      "design",
+      0
+    ],
+    [
+      "superhive-market-cveld-shell-fit-brush",
+      "Blender Market - cvELD_Shell Fit Brush",
+      "2.1.0",
+      "Blender Market - cvELD_Shell Fit Brush 2.1.0",
+      "design",
+      0
+    ],
+    [
+      "superhive-market-ganzofx",
+      "Blender Market - GanzoFX",
+      "1.2.0",
+      "Blender Market - GanzoFX 1.2.0",
+      "design",
+      0
+    ],
+    [
+      "superhive-market-image-to-3d",
+      "Blender Market - Image to 3D",
+      "2.0.9",
+      "Blender Market - Image to 3D 2.0.9",
+      "design",
+      0
+    ],
+    [
+      "superhive-market-kit-ops",
+      "Blender Market - KIT OPS",
+      "4.0.20",
+      "Blender Market - KIT OPS 4.0.20",
+      "design",
+      0
+    ],
+    [
+      "superhive-market-q-three-views",
+      "Blender Market - Q Three Views",
+      "1.3.3",
+      "Blender Market - Q Three Views 1.3.3",
+      "design",
+      0
+    ],
+    [
+      "superhive-market-smooth-weights",
+      "Blender Market - Smooth Weights",
+      "3.5",
+      "Blender Market - Smooth Weights 3.5",
+      "design",
+      0
+    ],
+    [
+      "superhive-market-springfx",
+      "Blender Market - SpringFX",
+      "8.5.6",
+      "Blender Market - SpringFX 8.5.6",
+      "design",
+      0
+    ],
+    [
+      "blockr",
+      "Blockr",
+      "1.12.1",
+      "Blockr 1.12.1",
+      "rede",
+      0
+    ],
+    [
+      "caprocket",
+      "CapRocket",
+      "2.2.0",
+      "CapRocket 2.2.0",
+      "video",
+      0
+    ],
+    [
+      "chatmcp",
+      "ChatMCP",
+      "0.0.76",
+      "ChatMCP 0.0.76",
+      "rede",
+      0
+    ],
+    [
+      "chessbase-paramount-chess-database",
+      "ChessBase Paramount Chess Database",
+      "2.0",
+      "ChessBase Paramount Chess Database 2.0",
+      "jogos",
+      0
+    ],
+    [
+      "codenotch",
+      "Codenotch",
+      "1.26.0",
+      "Codenotch 1.26.0",
+      "desenvolvimento",
+      0
+    ],
+    [
+      "codeshellmanager",
+      "CodeShellManager",
+      "0.11.0",
+      "CodeShellManager 0.11.0",
+      "desenvolvimento",
+      0
+    ],
+    [
+      "codinit-dev",
+      "CodinIT.dev",
+      "1.2.4",
+      "CodinIT.dev 1.2.4",
+      "desenvolvimento",
+      0
+    ],
+    [
+      "colibri-for-windows",
+      "Colibrì",
+      "2.2.0",
+      "Colibrì 2.2.0",
+      "utilitarios",
+      0
+    ],
+    [
+      "sparseal-cozyblanket-pro",
+      "CozyBlanket Pro",
+      "3.0.10",
+      "CozyBlanket Pro 3.0.10",
+      "design",
+      0
+    ],
+    [
+      "crush-cli",
+      "Crush CLI",
+      "0.102.0",
+      "Crush CLI 0.102.0",
+      "desenvolvimento",
+      0
+    ],
+    [
+      "ddm-dedsec-download-manager",
+      "DDM DedSec Download Manager",
+      "4.3.3",
+      "DDM DedSec Download Manager 4.3.3",
+      "downloads",
+      0
+    ],
+    [
+      "doppelganger",
+      "Doppelganger",
+      "1.0.8",
+      "Doppelganger 1.0.8",
+      "utilitarios",
+      0
+    ],
+    [
+      "dosprn",
+      "DOSPRN",
+      "2.2.7.3610",
+      "DOSPRN 2.2.7.3610",
+      "utilitarios",
+      0
+    ],
+    [
+      "dramatis-studio",
+      "Dramatis Studio",
+      "1.0.63",
+      "Dramatis Studio 1.0.63",
+      "multimedia",
+      0
+    ],
+    [
+      "drive-letter-utility",
+      "Drive Letter Utility",
+      "1.0",
+      "Drive Letter Utility 1.0",
+      "disco",
+      0
+    ],
+    [
+      "eg-docs-editor",
+      "EG-Docs Editor",
+      "3.1.0.0",
+      "EG-Docs Editor 3.1.0.0",
+      "design",
+      0
+    ],
+    [
+      "electronic-corrosion-engineer",
+      "Electronic Corrosion Engineer",
+      "5.9.0.955",
+      "Electronic Corrosion Engineer 5.9.0.955",
+      "engenharia",
+      0
+    ],
+    [
+      "euro-office",
+      "Euro-Office",
+      "9.3.8",
+      "Euro-Office 9.3.8",
+      "escritorio",
+      0
+    ],
+    [
+      "ffmpeg-forge",
+      "FFmpeg Forge",
+      "2.4.1",
+      "FFmpeg Forge 2.4.1",
+      "video",
+      0
+    ],
+    [
+      "filter-gallery",
+      "Filter Gallery",
+      "1.0.5-2",
+      "Filter Gallery 1.0.5-2",
+      "design",
+      0
+    ],
+    [
+      "frameshots",
+      "FrameShots",
+      "4.2.0",
+      "FrameShots 4.2.0",
+      "video",
+      0
+    ],
+    [
+      "gilisoft-power-uninstaller",
+      "GiliSoft Power Uninstaller",
+      "8.0.0",
+      "GiliSoft Power Uninstaller 8.0.0",
+      "utilitarios",
+      0
+    ],
+    [
+      "gimespace-vram-drive",
+      "GiMeSpace VRAM Drive",
+      "1.0.2",
+      "GiMeSpace VRAM Drive 1.0.2",
+      "utilitarios",
+      0
+    ],
+    [
+      "html-match",
+      "HTML Match",
+      "1.3.2",
+      "HTML Match 1.3.2",
+      "programacao",
+      0
+    ],
+    [
+      "hwinfo64-pro",
+      "HWiNFO64 Pro",
+      "8.60.6120",
+      "HWiNFO64 Pro 8.60.6120",
+      "utilitarios",
+      0
+    ],
+    [
+      "ibm-spss-amos",
+      "IBM SPSS Amos",
+      "31.0",
+      "IBM SPSS Amos 31.0",
+      "educacao",
+      0
+    ],
+    [
+      "iwin-movie-maker",
+      "iWin Movie Maker",
+      "11.0.0.9",
+      "iWin Movie Maker 11.0.0.9",
+      "video",
+      0
+    ],
+    [
+      "izotope-photon",
+      "iZotope Photon",
+      "2027.0.12",
+      "iZotope Photon 2027.0.12",
+      "utilitarios",
+      0
+    ],
+    [
+      "jixipix-impresso-studio-pro-for-windows",
+      "JixiPix Impresso Studio Pro",
+      "1.0.4",
+      "JixiPix Impresso Studio Pro 1.0.4",
+      "design",
+      0
+    ],
+    [
+      "kiri-container-runtime",
+      "Kiri Container Runtime",
+      "0.2.2",
+      "Kiri Container Runtime 0.2.2",
+      "desenvolvimento",
+      0
+    ],
+    [
+      "kmspico",
+      "KMSpico",
+      "11.2.2",
+      "KMSpico 11.2.2",
+      "utilitarios",
+      0
+    ],
+    [
+      "koboldcpp",
+      "KoboldCpp",
+      "1.125.1",
+      "KoboldCpp 1.125.1",
+      "design",
+      0
+    ],
+    [
+      "lalal-ai-desktop",
+      "LALAL.AI Desktop",
+      "2.21.0.807",
+      "LALAL.AI Desktop 2.21.0.807",
+      "audio",
+      0
+    ],
+    [
+      "legba",
+      "Legba",
+      "1.3.0",
+      "Legba 1.3.0",
+      "seguranca",
+      0
+    ],
+    [
+      "line-6-helix-stadium-native",
+      "Line 6 Helix Stadium Native",
+      "1.4.1",
+      "Line 6 Helix Stadium Native 1.4.1",
+      "utilitarios",
+      0
+    ],
+    [
+      "alexsjones-llmfit",
+      "llmfit",
+      "1.1.20",
+      "llmfit 1.1.20",
+      "desenvolvimento",
+      0
+    ],
+    [
+      "lumi-ai",
+      "Lumi AI",
+      "3.5",
+      "Lumi AI 3.5",
+      "desenvolvimento",
+      0
+    ],
+    [
+      "materialcraft",
+      "MaterialCraft",
+      "0.4.1",
+      "MaterialCraft 0.4.1",
+      "design",
+      0
+    ],
+    [
+      "matheass",
+      "MatheAss",
+      "10.0",
+      "MatheAss 10.0",
+      "educacao",
+      0
+    ],
+    [
+      "mecaface",
+      "MecaFace",
+      "2.0.0",
+      "MecaFace 2.0.0",
+      "design",
+      0
+    ],
+    [
+      "memokoe-pc-ai-transcription",
+      "MemoKoe PC AI Transcription",
+      "1.0.0",
+      "MemoKoe PC AI Transcription 1.0.0",
+      "utilitarios",
+      0
+    ],
+    [
+      "microsoft-activation-script",
+      "Microsoft Activation Scripts",
+      "3.14",
+      "Microsoft Activation Scripts 3.14",
+      "utilitarios",
+      0
+    ],
+    [
+      "mine-stablediffusion",
+      "Mine StableDiffusion",
+      "5.6.0",
+      "Mine StableDiffusion 5.6.0",
+      "design",
+      0
+    ],
+    [
+      "mister-download-manager",
+      "Mister Download Manager",
+      "0.5.2",
+      "Mister Download Manager 0.5.2",
+      "downloads",
+      0
+    ],
+    [
+      "mornye-desktop",
+      "Mornye Desktop",
+      "5.4.0",
+      "Mornye Desktop 5.4.0",
+      "audio",
+      0
+    ],
+    [
+      "musike",
+      "Musike",
+      "1.5.1",
+      "Musike 1.5.1",
+      "audio",
+      0
+    ],
+    [
+      "nectarlink",
+      "NectarLink",
+      "0.1.5",
+      "NectarLink 0.1.5",
+      "utilitarios",
+      0
+    ],
+    [
+      "nisse-sec-team-docredactnow",
+      "Nisse Sec Team DocRedactNow",
+      "2.0",
+      "Nisse Sec Team DocRedactNow 2.0",
+      "escritorio",
+      0
+    ],
+    [
+      "nisse-sec-team-winransomprotect",
+      "Nisse Sec Team WinRansomProtect",
+      "2.1",
+      "Nisse Sec Team WinRansomProtect 2.1",
+      "escritorio",
+      0
+    ],
+    [
+      "nodetool",
+      "NodeTool",
+      "0.8.15",
+      "NodeTool 0.8.15",
+      "design",
+      0
+    ],
+    [
+      "novatel-inertial-explorer",
+      "NovAtel Inertial Explorer",
+      "11.1.2318",
+      "NovAtel Inertial Explorer 11.1.2318",
+      "rede",
+      0
+    ],
+    [
+      "nullclaw",
+      "NullClaw",
+      "2026.5.29",
+      "NullClaw 2026.5.29",
+      "utilitarios",
+      0
+    ],
+    [
+      "off-grid-ai",
+      "Off Grid AI",
+      "0.0.59",
+      "Off Grid AI 0.0.59",
+      "utilitarios",
+      0
+    ],
+    [
+      "officecli",
+      "OfficeCLI",
+      "1.0.163",
+      "OfficeCLI 1.0.163",
+      "escritorio",
+      0
+    ],
+    [
+      "oh-my-pi",
+      "Oh My Pi",
+      "19.1.0",
+      "Oh My Pi 19.1.0",
+      "desenvolvimento",
+      0
+    ],
+    [
+      "ondesoft-all-in-one-streaming-music-converter",
+      "Ondesoft All-In-One Streaming Music Converter",
+      "3.2.2",
+      "Ondesoft All-In-One Streaming Music Converter 3.2.2",
+      "audio",
+      0
+    ],
+    [
+      "open-codesign",
+      "Open CoDesign",
+      "0.3.0",
+      "Open CoDesign 0.3.0",
+      "design",
+      0
+    ],
+    [
+      "opencadstudio",
+      "OpenCADStudio",
+      "2026.47",
+      "OpenCADStudio 2026.47",
+      "engenharia",
+      0
+    ],
+    [
+      "opengui",
+      "OpenGUI",
+      "0.8.0",
+      "OpenGUI 0.8.0",
+      "utilitarios",
+      0
+    ],
+    [
+      "paintfe",
+      "PaintFE",
+      "1.5.3",
+      "PaintFE 1.5.3",
+      "design",
+      0
+    ],
+    [
+      "peerpayload-connect",
+      "PeerPayload Connect",
+      "0.3.0",
+      "PeerPayload Connect 0.3.0",
+      "utilitarios",
+      0
+    ],
+    [
+      "pi-agent",
+      "Pi Agent",
+      "1.6.0",
+      "Pi Agent 1.6.0",
+      "utilitarios",
+      0
+    ],
+    [
+      "project-n-e-k-o",
+      "Project N.E.K.O.",
+      "0.9.1.0",
+      "Project N.E.K.O. 0.9.1.0",
+      "jogos",
+      0
+    ],
+    [
+      "quiet-markdown",
+      "Quiet Markdown",
+      "0.1.14",
+      "Quiet Markdown 0.1.14",
+      "utilitarios",
+      0
+    ],
+    [
+      "ravkit-desktop",
+      "Ravkit Desktop",
+      "1.2.0",
+      "Ravkit Desktop 1.2.0",
+      "multimedia",
+      0
+    ],
+    [
+      "realvoice-pro",
+      "RealVoice Pro",
+      "1.0.20",
+      "RealVoice Pro 1.0.20",
+      "video",
+      0
+    ],
+    [
+      "reasonix",
+      "Reasonix",
+      "2.61.0",
+      "Reasonix 2.61.0",
+      "desenvolvimento",
+      0
+    ],
+    [
+      "rozdll",
+      "RozDll",
+      "7.0",
+      "RozDll 7.0",
+      "utilitarios",
+      0
+    ],
+    [
+      "sculpt-toolbar-classic",
+      "Sculpt Toolbar Classic",
+      "3.6",
+      "Sculpt Toolbar Classic 3.6",
+      "design",
+      0
+    ],
+    [
+      "seedvr2-studio",
+      "SEEDVR2 Studio",
+      "1.0",
+      "SEEDVR2 Studio 1.0",
+      "design",
+      0
+    ],
+    [
+      "rockinchaos-shiru",
+      "Shiru",
+      "6.10.1",
+      "Shiru 6.10.1",
+      "multimedia",
+      0
+    ],
+    [
+      "sitereal",
+      "Sitereal",
+      "1.1.3",
+      "Sitereal 1.1.3",
+      "desenvolvimento",
+      0
+    ],
+    [
+      "sleuth-sx",
+      "Sleuth SX",
+      "2.3.9",
+      "Sleuth SX 2.3.9",
+      "desenvolvimento",
+      0
+    ],
+    [
+      "softperfect-virtual-disk-trim",
+      "SoftPerfect Virtual Disk Trim",
+      "26.11",
+      "SoftPerfect Virtual Disk Trim 26.11",
+      "disco",
+      0
+    ],
+    [
+      "sparseal-wafer",
+      "Sparseal Wafer",
+      "1.4.5",
+      "Sparseal Wafer 1.4.5",
+      "design",
+      0
+    ],
+    [
+      "spokenly",
+      "Spokenly",
+      "1.4.2",
+      "Spokenly 1.4.2",
+      "utilitarios",
+      0
+    ],
+    [
+      "spotbye-flacora",
+      "SpotBye Flacora",
+      "1.0.2",
+      "SpotBye Flacora 1.0.2",
+      "audio",
+      0
+    ],
+    [
+      "starbooru",
+      "StarBooru",
+      "0.1.0",
+      "StarBooru 0.1.0",
+      "multimedia",
+      0
+    ],
+    [
+      "swiftify-player",
+      "Swiftify Player",
+      "0.25.1",
+      "Swiftify Player 0.25.1",
+      "audio",
+      0
+    ],
+    [
+      "t3-code",
+      "T3 Code",
+      "0.1.11",
+      "T3 Code 0.1.11",
+      "desenvolvimento",
+      0
+    ],
+    [
+      "takehouse-ai-music-creator",
+      "Takehouse AI Music Creator",
+      "1.0.0",
+      "Takehouse AI Music Creator 1.0.0",
+      "audio",
+      0
+    ],
+    [
+      "textgen",
+      "TextGen",
+      "4.9",
+      "TextGen 4.9",
+      "utilitarios",
+      0
+    ],
+    [
+      "texturecraft",
+      "TextureCraft",
+      "0.6.1",
+      "TextureCraft 0.6.1",
+      "design",
+      0
+    ],
+    [
+      "vantage",
+      "Vantage",
+      "1.7",
+      "Vantage 1.7",
+      "utilitarios",
+      0
+    ],
+    [
+      "wakr",
+      "Wakr",
+      "1.4.0",
+      "Wakr 1.4.0",
+      "utilitarios",
+      0
+    ],
+    [
+      "web-researcher-mcp",
+      "Web Researcher MCP",
+      "1.51.1",
+      "Web Researcher MCP 1.51.1",
+      "utilitarios",
+      0
+    ],
+    [
+      "winpopbit",
+      "WinPOPBit",
+      "1.0.4",
+      "WinPOPBit 1.0.4",
+      "utilitarios",
+      0
+    ],
+    [
+      "zseven-openpencil",
+      "ZSeven OpenPencil",
+      "0.8.6",
+      "ZSeven OpenPencil 0.8.6",
+      "utilitarios",
+      0
+    ],
+    [
+      "zynex-studio",
+      "Zynex Studio",
+      "1.0.0",
+      "Zynex Studio 1.0.0",
+      "video",
+      0
     ]
   ],
   "bumps": [
@@ -2270,6 +4045,46 @@
       "9.500"
     ],
     [
+      "3dsurvey-0001",
+      "4.1.1",
+      "4.2.1"
+    ],
+    [
+      "4ddig-partition-manager-0002",
+      "4.4.1.2",
+      "4.5.1.12"
+    ],
+    [
+      "4k-software-4k-downloader",
+      "6.5.29",
+      "6.6.4"
+    ],
+    [
+      "4k-video-downloader-plus",
+      "26.3.5",
+      "26.4.0"
+    ],
+    [
+      "4k-youtube-to-mp3",
+      "26.3.3",
+      "26.4.0"
+    ],
+    [
+      "7-zip",
+      "26.03",
+      "26.06"
+    ],
+    [
+      "a-ruler-for-windows",
+      "4.0.0.0",
+      "4.0.1"
+    ],
+    [
+      "ab-download-manager",
+      "1.10.4",
+      "1.11.4"
+    ],
+    [
       "abelssoft-easyfirewall",
       "3.02.69764",
       "4.00.77904"
@@ -2285,9 +4100,24 @@
       "8.02.78162"
     ],
     [
+      "abelssoft-youtube-song-downloader",
+      "26.15",
+      "26.20"
+    ],
+    [
+      "ablaze-floorp-browser",
+      "12.21.0",
+      "12.21.2"
+    ],
+    [
       "access-agility-wifi-scanner",
       "2026.2.35143.0",
       "2026.2.35152.0"
+    ],
+    [
+      "jan-goyvaerts-acetext",
+      "4.4.1",
+      "4.4.2"
     ],
     [
       "active-killdisk",
@@ -2295,9 +4125,114 @@
       "26.0.28"
     ],
     [
+      "activepresenter",
+      "10.6.1",
+      "10.7.0"
+    ],
+    [
+      "ad-fastreporter-pro",
+      "26.7.15",
+      "26.10.30"
+    ],
+    [
+      "wintools-addleds",
+      "2.0.0.1",
+      "2.0.0.7"
+    ],
+    [
+      "adelvo-mixdesk-x",
+      "1.42.042",
+      "1.42.044"
+    ],
+    [
+      "adguard",
+      "8.0.2",
+      "8.0.5"
+    ],
+    [
+      "adguard-home",
+      "0.107.79",
+      "1.0.0"
+    ],
+    [
+      "animate-0018",
+      "v24.0.15.5",
+      "27.0.0.33"
+    ],
+    [
+      "adobe-audition-2025-0028",
+      "v26.5.0.82",
+      "27.0.0.67"
+    ],
+    [
+      "bridge-0055",
+      "v16.0.7.36",
+      "17.0.0.92"
+    ],
+    [
+      "camera-raw-0032",
+      "18.7.0",
+      "19.0"
+    ],
+    [
+      "adobe-creative-cloud-cleaner-tool-0019",
+      "4.3.0.1322",
+      "4.3.0.1437"
+    ],
+    [
+      "dimension-0004",
+      "4.1.8.4754",
+      "4.1.10.5006"
+    ],
+    [
+      "adobe-dng-converter-0020",
+      "18.7",
+      "19.0"
+    ],
+    [
+      "adobe-illustrator-2025-0056",
+      "30.8.2.7",
+      "31.0.0.84"
+    ],
+    [
+      "incopy-0007",
+      "v21.6.0.057",
+      "22.0.0.104"
+    ],
+    [
+      "indesign-0021",
+      "v21.6.0.057",
+      "22.0.0.104"
+    ],
+    [
       "adobe-lightroom-classic-0025-0003",
       "15.6.0",
       "16.0.1.2"
+    ],
+    [
+      "adobe-media-encoder-0012",
+      "v26.5.0.85",
+      "27.0.0.72"
+    ],
+    [
+      "adobe-photoshop-download-0071",
+      "27.11.0.26",
+      "28.0.0.20"
+    ],
+    [
+      "adobe-premiere-pro-0064",
+      "v26.5.1.1",
+      "27.0.0.88"
+    ],
+    [
+      "adobe-substance-3d-stager-0004",
+      "3.1.8.6499",
+      "3.1.10.6755"
+    ],
+    [
+      "adolix-split-and-merge-pdf-professional",
+      "3.0.6.3",
+      "3.1.7.8"
     ],
     [
       "advanced-installer-architect",
@@ -2305,9 +4240,439 @@
       "24.2.1"
     ],
     [
+      "advanced-renamer-personal",
+      "4.28",
+      "4.29.0"
+    ],
+    [
       "advanced-renamer",
       "4.28",
       "4.29.0"
+    ],
+    [
+      "advanced-renamer-free",
+      "4.28",
+      "4.29"
+    ],
+    [
+      "aescripts-ai-depth-of-field",
+      "1.1",
+      "1.3.6"
+    ],
+    [
+      "aescripts-color-shift",
+      "1.1.0",
+      "1.2.1"
+    ],
+    [
+      "aescripts-cyclops",
+      "4.0.0",
+      "4.0.1"
+    ],
+    [
+      "aescripts-markers-command-center",
+      "1.5.0",
+      "2.1.1"
+    ],
+    [
+      "aescripts-memleak",
+      "1.2.0",
+      "1.2.1"
+    ],
+    [
+      "aescripts-mirai",
+      "1.3.8",
+      "1.3.9"
+    ],
+    [
+      "aescripts-photo-mosaic",
+      "1.0.1",
+      "1.2.0"
+    ],
+    [
+      "aescripts-pseudo-effect-maker",
+      "3.2.0",
+      "3.2.1"
+    ],
+    [
+      "aescripts-quick-matte",
+      "1.2.0",
+      "2.1.12"
+    ],
+    [
+      "aescripts-scaleup",
+      "1.4.4",
+      "1.4.6"
+    ],
+    [
+      "aescripts-universal-audio",
+      "1.9.4",
+      "2.0.2"
+    ],
+    [
+      "aescripts-xcloner",
+      "1.4.1",
+      "1.4.2"
+    ],
+    [
+      "aescripts-ae-gpt",
+      "1.2.7",
+      "1.4.0"
+    ],
+    [
+      "aescripts-aibow-ink",
+      "1.0",
+      "1.1.1"
+    ],
+    [
+      "aescripts-compresizer",
+      "1.1.1",
+      "1.2.0"
+    ],
+    [
+      "aescripts-dreamglare",
+      "1.1.0",
+      "1.1.1"
+    ],
+    [
+      "aescripts-dropletee",
+      "1.0.13",
+      "1.0.15"
+    ],
+    [
+      "aescripts-face-3d",
+      "1.3.1",
+      "2 v2.0.1"
+    ],
+    [
+      "aescripts-flowr",
+      "1.0.0",
+      "1.1.0"
+    ],
+    [
+      "aescripts-folder-fanatic",
+      "1.0.2",
+      "1.1.3"
+    ],
+    [
+      "aescripts-fractal-volume",
+      "1.0",
+      "1.1"
+    ],
+    [
+      "aescripts-glassary-for-windows",
+      "1.6",
+      "1.8"
+    ],
+    [
+      "aescripts-gpudog-deep",
+      "1.5.0",
+      "1.5.2"
+    ],
+    [
+      "aescripts-icondock",
+      "1.03",
+      "1.04"
+    ],
+    [
+      "aescripts-instantrecipe",
+      "1.0.0",
+      "1.0.1"
+    ],
+    [
+      "aescripts-davide-boscolo-kease",
+      "2.3.1",
+      "2.4.5"
+    ],
+    [
+      "aescripts-lightsweeppro",
+      "2.1.0",
+      "2.1.2"
+    ],
+    [
+      "aescripts-lightwrap",
+      "1.0.0",
+      "1.1.1"
+    ],
+    [
+      "aescripts-magictoolbar",
+      "2.4.5",
+      "2.4.7"
+    ],
+    [
+      "aescripts-mate-for-ae",
+      "2.4.0",
+      "2.5.0"
+    ],
+    [
+      "aescripts-mb-liquid-glass",
+      "1.5.3",
+      "1.6.0"
+    ],
+    [
+      "aescripts-mobar-pro-0001",
+      "3.7.5",
+      "3.7.9"
+    ],
+    [
+      "aescripts-motionamigo",
+      "1.3.0",
+      "1.3.17"
+    ],
+    [
+      "aescripts-nano-banana-generative-fill-for-photoshop",
+      "2.3.0",
+      "2.4.0"
+    ],
+    [
+      "aescripts-pluck",
+      "1.6.2",
+      "1.8.0"
+    ],
+    [
+      "aescripts-podfast",
+      "1.0.52",
+      "1.1.4"
+    ],
+    [
+      "aescripts-progradient",
+      "1.2.0",
+      "1.4.2"
+    ],
+    [
+      "aescripts-putty",
+      "1.1.2",
+      "1.1.9"
+    ],
+    [
+      "aescripts-quick-depth",
+      "3.0.0",
+      "3.3.7"
+    ],
+    [
+      "aescripts-react-plugin-for-after-effects",
+      "3.0.1",
+      "3.0.3"
+    ],
+    [
+      "aescripts-risograph",
+      "1.0.1",
+      "1.1.0"
+    ],
+    [
+      "aescripts-root",
+      "1.1.3",
+      "1.1.4"
+    ],
+    [
+      "aescripts-rxxr",
+      "1.1.0",
+      "1.2.0"
+    ],
+    [
+      "aescripts-sandbox",
+      "3.0.0",
+      "3.1.1"
+    ],
+    [
+      "aescripts-sequence-compare",
+      "1.0.0",
+      "1.0.1"
+    ],
+    [
+      "aescripts-sequence-inspector",
+      "1.2.0",
+      "1.2.1"
+    ],
+    [
+      "aescripts-speedx",
+      "1.2.2",
+      "1.3.0"
+    ],
+    [
+      "aescripts-stash",
+      "1.2.0",
+      "1.2.1"
+    ],
+    [
+      "aescripts-texto",
+      "1.0.1",
+      "1.5.0"
+    ],
+    [
+      "aescripts-torn-paper",
+      "1.0",
+      "1.1"
+    ],
+    [
+      "aescripts-voicelab",
+      "0.0.2",
+      "0.0.3"
+    ],
+    [
+      "aescripts-voxmark",
+      "2.3.1",
+      "2.3.2"
+    ],
+    [
+      "canva-affinity-0001",
+      "3.3.0.4850",
+      "3.3.3.5004"
+    ],
+    [
+      "ai-aquarium-screensaver",
+      "1.4.1",
+      "1.9.1"
+    ],
+    [
+      "megaj-ai-ebook-to-audio-converter",
+      "1.1.29",
+      "1.1.30"
+    ],
+    [
+      "bytesweavers-ai-file-organizer-pro",
+      "1.2.0",
+      "2.0.4"
+    ],
+    [
+      "ai-image-object-replacer-pro",
+      "1.1.1",
+      "2.0.0"
+    ],
+    [
+      "bytesweavers-ai-text-to-image-generator-pro",
+      "1.2.15",
+      "1.2.20"
+    ],
+    [
+      "aimp",
+      "5.40.2727",
+      "5.40.2731"
+    ],
+    [
+      "akaunting",
+      "3.3.0",
+      "3.3.2"
+    ],
+    [
+      "akk-cinelibrary",
+      "5.3.0",
+      "5.5.5"
+    ],
+    [
+      "akk-cinelibrary-essentials",
+      "1.4.0",
+      "1.5.1"
+    ],
+    [
+      "album-td",
+      "4.9.2.0",
+      "4.9.6.0"
+    ],
+    [
+      "allavsoft-video-downloader-converter",
+      "3.29.6.9765",
+      "3.29.7.9816"
+    ],
+    [
+      "allmapsoft-google-maps-downloader",
+      "8.893",
+      "8.894"
+    ],
+    [
+      "allmapsoft-google-satellite-maps-downloader",
+      "8.422",
+      "8.424"
+    ],
+    [
+      "allmapsoft-offline-map-maker",
+      "8.393",
+      "8.395"
+    ],
+    [
+      "allmapsoft-openstreetmap-downloader",
+      "6.629",
+      "6.630"
+    ],
+    [
+      "universal-maps-downloader",
+      "10.260",
+      "10.263"
+    ],
+    [
+      "altersend",
+      "2.0.0",
+      "2.1.0"
+    ],
+    [
+      "amd-ryzen-master",
+      "3.1.1.5502",
+      "3.1.2.5621"
+    ],
+    [
+      "amneziavpn",
+      "5.0.3.0",
+      "5.1.1.10"
+    ],
+    [
+      "ams-software-photoworks",
+      "22.0",
+      "24.0"
+    ],
+    [
+      "anarlog",
+      "1.4.33",
+      "1.4.35"
+    ],
+    [
+      "android-studio",
+      "2026.2.2.8",
+      "2026.2.2.10"
+    ],
+    [
+      "angry-ip-scanner",
+      "3.9.1",
+      "3.12.2"
+    ],
+    [
+      "anthemion-jutoh",
+      "3.32.1",
+      "3.33.6"
+    ],
+    [
+      "antimicrox",
+      "3.6.0",
+      "3.6.2"
+    ],
+    [
+      "antivirus-removal-tool",
+      "2026.02",
+      "2026.11"
+    ],
+    [
+      "any-video-downloader-pro",
+      "10.5.0",
+      "10.5.8"
+    ],
+    [
+      "anybody-technologies-modeling-system",
+      "8.1.4.12797",
+      "8.2.2"
+    ],
+    [
+      "anydesk",
+      "9.8.3",
+      "9.8.4"
+    ],
+    [
+      "anymp4-data-recovery",
+      "3.0.32",
+      "3.1.6"
+    ],
+    [
+      "apeaksoft-data-recovery",
+      "3.0.32",
+      "3.1.6"
     ],
     [
       "aquasoft-slideshow-premium",
@@ -2325,9 +4690,59 @@
       "17.3.01"
     ],
     [
+      "archimate-modelling-tool",
+      "5.10.0",
+      "5.11.0"
+    ],
+    [
+      "arduino-ide-for-windows",
+      "2.3.8",
+      "2.3.11"
+    ],
+    [
+      "asap-utilities-for-excel",
+      "9.2",
+      "9.4"
+    ],
+    [
+      "ascendara",
+      "12.2.2",
+      "12.3.3"
+    ],
+    [
+      "ascomp-easy-slideshow-professional",
+      "2.201",
+      "2.203"
+    ],
+    [
+      "ascomp-pdf-compress-professional",
+      "2.001",
+      "2.002"
+    ],
+    [
+      "ascomp-screencapt-professional",
+      "3.006",
+      "3.008"
+    ],
+    [
+      "ascomp-secure-eraser",
+      "7.105",
+      "7.106"
+    ],
+    [
+      "ascompsoftware-text-r",
+      "2.011",
+      "3.000"
+    ],
+    [
       "ashampoo-snap-pro-26",
       "26.0.6",
       "26.0.8"
+    ],
+    [
+      "asoftis-pdf-editor",
+      "1.3.8",
+      "1.4.0"
     ],
     [
       "kaizen-asset-manager",
@@ -2340,6 +4755,81 @@
       "4.6.0"
     ],
     [
+      "atlasos",
+      "0.5.0",
+      "0.6.1"
+    ],
+    [
+      "atomic-chat",
+      "2.2.29",
+      "2.4.7"
+    ],
+    [
+      "petges-attribute-changer",
+      "11.50",
+      "11.51"
+    ],
+    [
+      "audacity",
+      "4.0.1",
+      "4.0.2"
+    ],
+    [
+      "audiobook-converter-pro",
+      "1.1.8",
+      "1.1.11"
+    ],
+    [
+      "autodesk-inventor-0035",
+      "2027.1",
+      "2027.2"
+    ],
+    [
+      "autodesk-revit-0041",
+      "2027.3",
+      "2027.4"
+    ],
+    [
+      "autohotkey",
+      "2.0.31",
+      "2.0.32"
+    ],
+    [
+      "autorun-organizer",
+      "7.02",
+      "8.0"
+    ],
+    [
+      "avanquest-olympia-graphic-design",
+      "1.7.7.64",
+      "1.7.7.80"
+    ],
+    [
+      "avast-clear",
+      "26.9.11171",
+      "26.11.11250"
+    ],
+    [
+      "avast-antivirus",
+      "26.9.11171.0",
+      "26.11.11250.0"
+    ],
+    [
+      "avg-clear",
+      "26.9.11171",
+      "26.11.11250"
+    ],
+    [
+      "avs-audio-converter",
+      "26.0.2.17",
+      "26.0.3.6"
+    ],
+    [
+      "avs-audio-editor",
+      "26.0.2.17",
+      "26.0.3.6"
+    ],
+    [
       "avs-image-converter",
       "26.0.2.17",
       "26.0.3.6"
@@ -2347,6 +4837,11 @@
     [
       "avs-media-player",
       "26.0.2.217",
+      "26.0.3.6"
+    ],
+    [
+      "avs-video-converter",
+      "26.0.2.17",
       "26.0.3.6"
     ],
     [
@@ -2360,9 +4855,29 @@
       "26.0.3.6"
     ],
     [
+      "avs4you-software-aio-installation-package",
+      "26.0.2.17",
+      "26.0.3.6"
+    ],
+    [
+      "axialis-iconvectors-pro",
+      "2.00.0",
+      "2.20.0"
+    ],
+    [
       "balabolka",
       "2.15.0.922",
       "2.15.0.924"
+    ],
+    [
+      "bambu-studio",
+      "2.8.2.61",
+      "02.09.01.70"
+    ],
+    [
+      "bdtoavchd",
+      "3.2.0",
+      "3.3.0"
     ],
     [
       "becky-internet-mail",
@@ -2370,12 +4885,97 @@
       "2.84.01"
     ],
     [
+      "beekeeperstudio",
+      "6.2.2",
+      "6.3.3"
+    ],
+    [
+      "benthic-software-golden",
+      "8.4.0.846",
+      "8.4.0.848"
+    ],
+    [
+      "xammen-bettertrumpet",
+      "3.5.0",
+      "3.5.1"
+    ],
+    [
+      "bigly-software-biglybt",
+      "4.0.0.0",
+      "4.2.0.0"
+    ],
+    [
+      "manfred-karrer-bisq",
+      "1.10.9",
+      "1.10.12"
+    ],
+    [
+      "bitsum-process-lasso-free",
+      "18.4.0.48",
+      "19.0.0.94"
+    ],
+    [
+      "bitsum-process-lasso-pro",
+      "18.4.0.48",
+      "19.1.0.46"
+    ],
+    [
+      "bitvaerk-file-juggler",
+      "3.1.7",
+      "3.1.9"
+    ],
+    [
+      "bitwarden",
+      "2026.9.1",
+      "2026.10.4"
+    ],
+    [
+      "blackmagic-design-fusion-studio-0017",
+      "21.1.2",
+      "21.2"
+    ],
+    [
+      "blender",
+      "5.2.2",
+      "5.3.0"
+    ],
+    [
+      "blender-market-chafouin-photographer",
+      "5.8.4",
+      "5.8.7"
+    ],
+    [
+      "blender-market-extra-3d-cinematic-compositor",
+      "2.0",
+      "2.1.1"
+    ],
+    [
+      "builtbybel-bloatynosy",
+      "1.02.142",
+      "1.12.10"
+    ],
+    [
       "bluebeam-revu",
       "21.8.0",
       "21.10"
     ],
     [
+      "bluebubbles",
+      "2.1.5",
+      "2.1.6"
+    ],
+    [
       "blumentals-htmlpad",
+      "18.9.0.279",
+      "18.10.0.280"
+    ],
+    [
+      "blumentals-rapid-css",
+      "18.9.0.279",
+      "18.10.0.280"
+    ],
+    [
+      "blumentals-rapid-php",
       "18.9.0.279",
       "18.10.0.280"
     ],
@@ -2385,9 +4985,34 @@
       "18.10.0.280"
     ],
     [
+      "boinc",
+      "8.2.13",
+      "8.2.15"
+    ],
+    [
       "magix-acid",
       "2026.0.0.22",
       "2026.0.0.26"
+    ],
+    [
+      "borisfx-sapphire-0002",
+      "2026.52",
+      "2027.0"
+    ],
+    [
+      "boris-fx-sequoia",
+      "2026.5 v18.5.1",
+      "2026.5.2.26234"
+    ],
+    [
+      "boris-fx-silhouette",
+      "2026.0.4",
+      "2027.0"
+    ],
+    [
+      "magix-sound-forge",
+      "2026.0.71",
+      "2026.0.78"
     ],
     [
       "magix-vegas-0001",
@@ -2395,9 +5020,79 @@
       "2027.0.1.56"
     ],
     [
+      "brave-browser",
+      "1.98.62",
+      "1.100.58"
+    ],
+    [
+      "us-army-research-laboratory-brl-cad",
+      "7.44.0",
+      "7.46.0"
+    ],
+    [
+      "broadgun-pdfmachine",
+      "20.69",
+      "20.71"
+    ],
+    [
+      "bulk-image-downloader",
+      "6.67",
+      "6.68"
+    ],
+    [
+      "bullzip-express-menu",
+      "4.0.6405.28375",
+      "5.1.9805.26872"
+    ],
+    [
+      "burnaware",
+      "19.4",
+      "19.5"
+    ],
+    [
       "burp-suite",
       "2026.10.1",
       "2026.11.2"
+    ],
+    [
+      "buzz-desktop",
+      "0.5.26",
+      "0.5.30"
+    ],
+    [
+      "cadcraft",
+      "0.14.0",
+      "0.20.1"
+    ],
+    [
+      "calagopus-panel",
+      "1.2.9",
+      "1.2.11"
+    ],
+    [
+      "calibre",
+      "9.15.0",
+      "9.19.0"
+    ],
+    [
+      "capcut",
+      "9.7.0.4153",
+      "9.8.0.4213"
+    ],
+    [
+      "cxworld-capframex",
+      "1.9.1",
+      "1.9.2"
+    ],
+    [
+      "capture-core",
+      "1.1.154",
+      "2.0.3"
+    ],
+    [
+      "phaseone-capture-one",
+      "16.9.0.3894",
+      "16.9.1.3943"
     ],
     [
       "careueyes",
@@ -2410,6 +5105,21 @@
       "2027.261030"
     ],
     [
+      "cent-browser",
+      "5.2.1168.83",
+      "5.3.1184.31"
+    ],
+    [
+      "cerberus-ftp-server",
+      "2025.3",
+      "2026.3.1"
+    ],
+    [
+      "enscape3d-0001",
+      "4.20.0.886",
+      "4.22.0.1361"
+    ],
+    [
       "chaos-envision",
       "1.7.0",
       "1.8.1"
@@ -2420,14 +5130,134 @@
       "3.4.1"
     ],
     [
+      "chapterforge",
+      "1.0.23.1",
+      "1.0.30.1"
+    ],
+    [
+      "charles-proxy",
+      "5.2.1",
+      "5.2.3"
+    ],
+    [
+      "chatbox-ai",
+      "1.24.2",
+      "1.24.4"
+    ],
+    [
+      "chatto",
+      "0.4.24",
+      "0.5.0"
+    ],
+    [
+      "cherry-studio",
+      "2.1.8",
+      "2.2.3"
+    ],
+    [
+      "chess-assistant",
+      "12.00.4",
+      "27 v12.00.0"
+    ],
+    [
+      "chrispc-videotube-downloader",
+      "15.26.1030",
+      "15.26.1114"
+    ],
+    [
+      "paul-falstad-circuit-js",
+      "5.0.4",
+      "5.0.6"
+    ],
+    [
+      "video-converter-by-cisdem",
+      "6.1.0.6100",
+      "7.0.0.7000"
+    ],
+    [
+      "ck-image-and-pdf-reducer",
+      "4.0.2",
+      "5.0.0"
+    ],
+    [
+      "filemaker",
+      "26.0.3.307",
+      "26.1.1.54"
+    ],
+    [
+      "classroom-spy",
+      "5.7.5",
+      "5.7.8"
+    ],
+    [
+      "cline-bot",
+      "4.1.26",
+      "4.1.27"
+    ],
+    [
+      "close-all-windows",
+      "6.1",
+      "6.2"
+    ],
+    [
+      "coaa-planeplotter",
+      "6.7.7.6",
+      "6.7.7.8"
+    ],
+    [
+      "cockos-reaper",
+      "7.84",
+      "7.86"
+    ],
+    [
+      "code4ward-royal-ts",
+      "7.4.50922",
+      "7.4.51113"
+    ],
+    [
+      "constly",
+      "4.7.1",
+      "4.14.1"
+    ],
+    [
+      "control-d",
+      "1.5.9",
+      "1.5.11"
+    ],
+    [
       "coolmuster-android-assistant",
       "6.4.22",
       "6.4.90"
     ],
     [
+      "coolmuster-android-eraser",
+      "4.1.32",
+      "4.1.36"
+    ],
+    [
+      "coolmuster-mobile-transfer",
+      "4.1.22",
+      "5.0.37"
+    ],
+    [
+      "coolutils-pdf-combine-pro",
+      "8.1.0.82",
+      "8.1.0.88-26"
+    ],
+    [
       "coolutils-pdf-combine",
       "4.2.0.210",
       "4.2.0.220"
+    ],
+    [
+      "coolutils-pdf-splitter",
+      "5.2.0.112",
+      "5.2.0.119-51"
+    ],
+    [
+      "coolutils-pdf-splitter-pro",
+      "6.1.0.98",
+      "6.1.0.104-74"
     ],
     [
       "coolutils-total-audio-converter",
@@ -2440,6 +5270,11 @@
       "5.1.0.448"
     ],
     [
+      "coolutils-total-excel-converter",
+      "7.1.0.176",
+      "7.1.0.183"
+    ],
+    [
       "coolutils-total-image-converter",
       "8.5.0.360",
       "8.5.0.367"
@@ -2448,6 +5283,16 @@
       "coolutils-total-movie-converter",
       "4.1.0.96",
       "4.1.0.104"
+    ],
+    [
+      "coolutils-total-pdf-converter",
+      "6.5.0.217",
+      "6.5.0.226"
+    ],
+    [
+      "corel-paintshop-pro-ultimate",
+      "25.2.0.58",
+      "25.3.0.16"
     ],
     [
       "cpu-z",
@@ -2460,6 +5305,21 @@
       "0.6.1"
     ],
     [
+      "creality-print",
+      "7.2.1",
+      "7.3.1"
+    ],
+    [
+      "cryptomator-for-windows",
+      "1.19.5",
+      "1.19.7"
+    ],
+    [
+      "cryptsync",
+      "1.4.11",
+      "1.4.12"
+    ],
+    [
       "crystaldiskinfo",
       "9.9.2",
       "9.9.5"
@@ -2470,14 +5330,134 @@
       "23.3.2"
     ],
     [
+      "cuecart",
+      "1.3.2.23",
+      "1.3.5"
+    ],
+    [
+      "cyberduck-for-windows",
+      "9.5.4.45528",
+      "9.6.0.46406"
+    ],
+    [
+      "cyberduck",
+      "9.5.4.45528",
+      "9.6.0.46406"
+    ],
+    [
+      "cyberlink-photodirector",
+      "18.0.1027.0",
+      "18.0.1109.0"
+    ],
+    [
       "cyberlink-powerdirector",
       "25.0.1019.0",
       "25.0.1104.0"
     ],
     [
+      "daemon-tools",
+      "6.1.0.1753",
+      "7.1.0.1919"
+    ],
+    [
+      "danil-pristupov-fork",
+      "2.23",
+      "2.24"
+    ],
+    [
+      "database-tour",
+      "11.7.3.2139",
+      "11.7.5.1760"
+    ],
+    [
+      "davinci-resolve-0001",
+      "21.1.2",
+      "21.2"
+    ],
+    [
+      "dbf-converter",
+      "7.94",
+      "7.95"
+    ],
+    [
+      "hibase-dbf-recovery",
+      "4.84",
+      "4.85"
+    ],
+    [
+      "dbf-viewer-2000",
+      "9.34",
+      "9.35"
+    ],
+    [
+      "ddev",
+      "1.25.5",
+      "1.25.6"
+    ],
+    [
+      "deckcraft",
+      "0.12.0",
+      "0.18.1"
+    ],
+    [
+      "defenderui",
+      "2.10",
+      "2.15"
+    ],
+    [
+      "dehancer-pro-vegas-ofx",
+      "7.4.2",
+      "7.5.1"
+    ],
+    [
+      "delta-chat",
+      "2.65.0",
+      "2.69.1"
+    ],
+    [
+      "deskcamera",
+      "6.2.0",
+      "6.3.1"
+    ],
+    [
       "windowmanager",
       "10.27.4",
       "10.27.5"
+    ],
+    [
+      "desktop-calendar",
+      "3.33.314.9452",
+      "3.33.320.9563"
+    ],
+    [
+      "limbo666-desktop-fences-plus",
+      "2.7.7.294",
+      "2.7.8.377"
+    ],
+    [
+      "softwareok-desktopok",
+      "12.82",
+      "12.85"
+    ],
+    [
+      "ntinfo-detect-it-easy",
+      "3.20",
+      "4.0"
+    ],
+    [
+      "devolutions-launcher",
+      "2026.3.16.0",
+      "2026.3.18.0"
+    ],
+    [
+      "devolutions-password-manager",
+      "2026.3.4.0",
+      "2026.3.5.0"
+    ],
+    [
+      "better-file-sizes-in-explorer-details",
+      "2026.3.12.0",
+      "2026.3.13.0"
     ],
     [
       "diffchecker",
@@ -2495,14 +5475,119 @@
       "18.4.16"
     ],
     [
+      "disk-sorter",
+      "18.3.16",
+      "18.4.16"
+    ],
+    [
+      "diskboss",
+      "17.2.16",
+      "17.2.18"
+    ],
+    [
+      "diskraptor",
+      "1.0.53",
+      "1.0.58"
+    ],
+    [
+      "dismtools",
+      "0.8.2.261025",
+      "0.9.261122"
+    ],
+    [
       "display-driver-uninstaller",
       "18.1.6.1",
       "18.1.6.3"
     ],
     [
+      "dlnow-video-downloader",
+      "1.57.2026.07.04",
+      "1.58.2026.10.26"
+    ],
+    [
+      "dnscrypt-proxy",
+      "2.1.17",
+      "2.1.21"
+    ],
+    [
+      "double-commander",
+      "1.2.9",
+      "1.2.11"
+    ],
+    [
+      "dp-animation-maker",
+      "3.5.54",
+      "3.5.55"
+    ],
+    [
+      "peter-a-dr-hardware",
+      "26.7",
+      "27.0.0"
+    ],
+    [
+      "drafft",
+      "2.4.13",
+      "2.5.0"
+    ],
+    [
       "dragonrise-games-yolox",
       "1.13",
       "1.16"
+    ],
+    [
+      "dreammail-pro",
+      "6.26.10.30",
+      "6.26.11.18"
+    ],
+    [
+      "driver-magician-lite",
+      "5.6",
+      "5.87"
+    ],
+    [
+      "driverstore-explorer",
+      "1.0.26",
+      "1.0.75"
+    ],
+    [
+      "duet-display",
+      "4.0.491",
+      "4.0.541"
+    ],
+    [
+      "dup-scout",
+      "18.3.16",
+      "18.4.16"
+    ],
+    [
+      "acrosync-duplicacy",
+      "3.3.0",
+      "3.3.1"
+    ],
+    [
+      "spaqi-eagle-pdf-editor",
+      "1.9.0",
+      "1.9.7"
+    ],
+    [
+      "easeus-fixo",
+      "4.8.0.20260910",
+      "5.0.0.20261103"
+    ],
+    [
+      "easy-data-transform",
+      "1.33",
+      "2.15.1"
+    ],
+    [
+      "easy-duplicate-finder",
+      "8.3.1.6",
+      "8.4.0.7"
+    ],
+    [
+      "edge-diagrammer",
+      "7.57.2227",
+      "7.58.2228"
     ],
     [
       "edocprinter-pdf",
@@ -2515,9 +5600,29 @@
       "5.6.4"
     ],
     [
+      "eigent-ai",
+      "1.0.5",
+      "1.0.8"
+    ],
+    [
       "install4j",
       "12.0.4",
       "13.1.3"
+    ],
+    [
+      "ej-technologies-jprofiler",
+      "16.3",
+      "16.3.1"
+    ],
+    [
+      "ekahau-ai-pro",
+      "11.9.3",
+      "11.9.5"
+    ],
+    [
+      "eltima-cloudmounter",
+      "1.8.1621",
+      "3.9.2207"
     ],
     [
       "em-client",
@@ -2525,9 +5630,59 @@
       "11.0.1577"
     ],
     [
+      "emjysoft-photo-reducer",
+      "6.2",
+      "6.3"
+    ],
+    [
+      "enpass-password-manager",
+      "6.12.6.2723",
+      "6.12.8.2751"
+    ],
+    [
+      "espocrm",
+      "10.0.11",
+      "10.1.4"
+    ],
+    [
+      "evaer-for-teams",
+      "1.26.10.29",
+      "1.26.11.22"
+    ],
+    [
+      "evernote",
+      "11.40.3.48184",
+      "11.43.4.43490"
+    ],
+    [
+      "evoto-ai",
+      "7.3.5-185",
+      "8.0.0-758"
+    ],
+    [
       "examdiff",
       "17.0.2.2",
       "17.0.2.6"
+    ],
+    [
+      "exif-pilot",
+      "6.29",
+      "6.29.2"
+    ],
+    [
+      "exiftoolgui",
+      "13.60",
+      "13.64"
+    ],
+    [
+      "expandrive",
+      "2026.09.30",
+      "2026.11.06"
+    ],
+    [
+      "valinet-explorerpatcher",
+      "26100.9711.71.1",
+      "26100.9711.71.3"
     ],
     [
       "exportizer-enterprise",
@@ -2535,9 +5690,24 @@
       "10.4.0.3118"
     ],
     [
+      "mayswind-ezbookkeeping",
+      "2.1.1",
+      "2.2.0"
+    ],
+    [
       "f-lux",
       "4.141",
       "4.150"
+    ],
+    [
+      "f6cte-multipsk",
+      "4.53",
+      "4.54"
+    ],
+    [
+      "fabulatech-usb-for-remote-desktop",
+      "6.4.7.0",
+      "6.5.0.0"
     ],
     [
       "fancontrol",
@@ -2555,9 +5725,34 @@
       "7.3"
     ],
     [
+      "fastflix",
+      "6.2.0",
+      "6.3.0"
+    ],
+    [
+      "carmine-paolino-fastpotify",
+      "0.14.2",
+      "0.17.2"
+    ],
+    [
+      "ola-proeis-ferrite",
+      "0.2.8",
+      "0.3.1"
+    ],
+    [
       "file-viewer-plus",
       "6.2.2.120",
       "7.0.1.20"
+    ],
+    [
+      "files-fm-sync",
+      "3.16.22",
+      "3.16.39"
+    ],
+    [
+      "filezilla-free",
+      "3.71.1",
+      "3.72.1"
     ],
     [
       "conceptworld-corporation-filezo",
@@ -2565,9 +5760,49 @@
       "6.0.21"
     ],
     [
+      "final-draft",
+      "13.4.0.120",
+      "13.5.1.124"
+    ],
+    [
       "fineprint",
       "12.33",
       "12.36"
+    ],
+    [
+      "firetrust-mailwasher",
+      "8.5.3",
+      "8.5.8"
+    ],
+    [
+      "fixbuff",
+      "1.0.0",
+      "1.1.0"
+    ],
+    [
+      "flowheater",
+      "4.5.9",
+      "4.6.0"
+    ],
+    [
+      "builtbybel-fluentcleaner",
+      "26.09.01",
+      "26.11.11"
+    ],
+    [
+      "fluentcleaner-classic",
+      "26.09.01",
+      "26.11.108"
+    ],
+    [
+      "fluke-trutest",
+      "1.2.0.22",
+      "1.2.0.28"
+    ],
+    [
+      "alex-xu-flyenv",
+      "4.18.3",
+      "4.21.1"
     ],
     [
       "salty-brine-folderclone-professional-edition",
@@ -2580,9 +5815,24 @@
       "5.2.6.0"
     ],
     [
+      "foldermove",
+      "3.0",
+      "4.0.0"
+    ],
+    [
+      "fonelab-data-retriever",
+      "1.5.8",
+      "3.1.6"
+    ],
+    [
       "fontviewok",
       "9.33",
       "9.39"
+    ],
+    [
+      "foobar2000",
+      "2.26.2",
+      "2.26.3"
     ],
     [
       "fort-firewall",
@@ -2590,9 +5840,89 @@
       "3.21.0"
     ],
     [
+      "fotosketcher",
+      "4.60",
+      "4.70"
+    ],
+    [
+      "franzis-dive-1-professional",
+      "1.18.03607",
+      "2.24.04489"
+    ],
+    [
+      "franzis-dive-video-1-professional",
+      "1.16.03607",
+      "2.24.04489"
+    ],
+    [
+      "free-download-manager",
+      "6.35.2.7075",
+      "6.36.0.7128"
+    ],
+    [
+      "free-hex-editor-neo",
+      "8.25.01.9585",
+      "8.30.00.9631"
+    ],
+    [
+      "freecommander-xe",
+      "2026.953",
+      "2026.956"
+    ],
+    [
       "freemake-converter-4",
       "6.0.1.14",
       "6.1.0.2"
+    ],
+    [
+      "freetube",
+      "0.25.3",
+      "0.26.0"
+    ],
+    [
+      "frostwire",
+      "7.1.3",
+      "7.1.5"
+    ],
+    [
+      "ftpie-pro",
+      "2026.9.1",
+      "2026.11.2"
+    ],
+    [
+      "furmark2",
+      "2.10.2",
+      "2.11.0.4"
+    ],
+    [
+      "mikf-gallery-dl",
+      "1.32.18",
+      "1.32.21"
+    ],
+    [
+      "gammadyne-centurion-setup",
+      "51.0",
+      "52.0"
+    ],
+    [
+      "gammadyne-serlog",
+      "23.0",
+      "24.0"
+    ],
+    [
+      "garmin-express",
+      "7.29.1",
+      "8.0"
+    ],
+    [
+      "gdzsoft-desktopup",
+      "2.0.2",
+      "2.0.3"
+    ],
+    [
+      "geogebra",
+      "6.0.920",
+      "6.0.932.1"
     ],
     [
       "geomagic-control-x",
@@ -2605,9 +5935,19 @@
       "2026.1.0.03272"
     ],
     [
+      "getvideoslocally",
+      "3.2.10",
+      "3.2.12"
+    ],
+    [
       "gibbscam-0001",
       "27.0.42.0",
       "27.0.44.0"
+    ],
+    [
+      "gilisoft-audio-recorder",
+      "15.1",
+      "15.2"
     ],
     [
       "gilisoft-copy-protect",
@@ -2615,9 +5955,89 @@
       "8.9"
     ],
     [
+      "gilisoft-screen-recorder",
+      "13.2",
+      "13.6"
+    ],
+    [
+      "gimagereader",
+      "3.4.4",
+      "3.4.5"
+    ],
+    [
+      "gimp",
+      "3.2.6",
+      "3.2.8"
+    ],
+    [
+      "git-for-windows",
+      "2.56.0.4",
+      "2.56.1"
+    ],
+    [
+      "gitdesktop",
+      "0.14.0",
+      "0.16.0"
+    ],
+    [
+      "github-for-desktop",
+      "3.6.10",
+      "3.7.0"
+    ],
+    [
+      "devlint-gitwand",
+      "3.11.1",
+      "3.13.3"
+    ],
+    [
       "glary-malware-hunter",
       "1.222.0.868",
       "1.225.0.871"
+    ],
+    [
+      "glary-utilities-free",
+      "6.48.0.52",
+      "6.50.0.54"
+    ],
+    [
+      "glasswire-firewall",
+      "3.8.1061",
+      "3.11.1164"
+    ],
+    [
+      "gogs",
+      "0.14.3",
+      "0.14.4"
+    ],
+    [
+      "gohide",
+      "5.6.1",
+      "6.5.1"
+    ],
+    [
+      "goodsync",
+      "12.11.8.8",
+      "12.11.14.4"
+    ],
+    [
+      "google-antigravity",
+      "2.8.1",
+      "2.34.0"
+    ],
+    [
+      "google-antigravity-ide",
+      "2.1.1",
+      "2.8.0"
+    ],
+    [
+      "google-chrome",
+      "156.0.8078.80",
+      "158.0.8127.37"
+    ],
+    [
+      "google-chrome-canary",
+      "159.0.8151.0",
+      "160.0.8178.0"
     ],
     [
       "google-drive",
@@ -2625,9 +6045,34 @@
       "134.0.1"
     ],
     [
+      "goscreen-corporate",
+      "21.0.0.1099",
+      "22.0.0.1126"
+    ],
+    [
       "goversoft-privazer",
       "4.0.126",
       "5.0"
+    ],
+    [
+      "gpg4win",
+      "5.1.1",
+      "5.1.2"
+    ],
+    [
+      "gram-code-editor",
+      "3.4.1",
+      "3.5.2"
+    ],
+    [
+      "greeting-card-factory-deluxe",
+      "11.0.1.2",
+      "27.0.0.7"
+    ],
+    [
+      "grist",
+      "0.3.16",
+      "0.3.17"
     ],
     [
       "grub2win-0008",
@@ -2635,9 +6080,79 @@
       "3.0.5.4"
     ],
     [
+      "hallmark-card-studio",
+      "27.0.0.10",
+      "27.0.0.11"
+    ],
+    [
+      "hard-disk-sentinel",
+      "6.40.4",
+      "6.40.6"
+    ],
+    [
+      "hasleo-backup-suite-free",
+      "5.9.2.3",
+      "6.0.2"
+    ],
+    [
+      "wintohdd",
+      "7.0.2.2",
+      "7.2"
+    ],
+    [
+      "hdclone",
+      "16.1.2.1",
+      "16.1.3.2"
+    ],
+    [
+      "imput-helium-browser",
+      "0.20.2.1",
+      "0.22.2.1"
+    ],
+    [
+      "help-and-manual",
+      "10.0.3.7453",
+      "10.3.1"
+    ],
+    [
+      "hendrik-zettlr",
+      "4.9.0",
+      "4.10.0"
+    ],
+    [
+      "hepta-platforms-heptabase",
+      "1.117.0",
+      "1.118.0"
+    ],
+    [
+      "heredis",
+      "27.0",
+      "27.1"
+    ],
+    [
       "hex-editor-neo",
       "8.25.01.9585",
       "8.30.00.9631"
+    ],
+    [
+      "hexagon-esprit-edge",
+      "2026.3.2641.4397",
+      "2026.3.2645.4466"
+    ],
+    [
+      "hfs-http-file-server",
+      "3.3.4",
+      "3.4.1"
+    ],
+    [
+      "hister",
+      "0.21.0",
+      "0.22.0"
+    ],
+    [
+      "hitmanpro-alert",
+      "3.22.1.2073",
+      "3.22.1.2079"
     ],
     [
       "homebank",
@@ -2650,14 +6165,84 @@
       "10.11"
     ],
     [
+      "gohugoio-hugo",
+      "0.169.0",
+      "0.170.1"
+    ],
+    [
       "hwinfo",
       "8.54.6090",
       "8.60.6120"
     ],
     [
+      "hydra-launcher",
+      "4.1.6",
+      "4.4.1"
+    ],
+    [
+      "hydrus",
+      "693",
+      "696"
+    ],
+    [
+      "hyper-plan",
+      "2.10.3",
+      "2.10.7"
+    ],
+    [
+      "hypersnap",
+      "10.2.1",
+      "10.5.2"
+    ],
+    [
+      "i2p-invisible-internet-project",
+      "2.13.0",
+      "2.14.1"
+    ],
+    [
       "photo-supreme",
       "2026.4.3.9723",
       "2026.4.3.9743"
+    ],
+    [
+      "idrive",
+      "7.0.1.17",
+      "7.0.1.23"
+    ],
+    [
+      "illusanato-text-to-speech-studio-offline",
+      "1.0.0",
+      "1.1.1"
+    ],
+    [
+      "im-magic-partition-resizer",
+      "7.9.2",
+      "7.9.6"
+    ],
+    [
+      "sejin-chun-imagine",
+      "2.8.0",
+      "2.8.1"
+    ],
+    [
+      "yubsoft-imgdrive",
+      "2.2.5",
+      "2.3.1"
+    ],
+    [
+      "inno-setup-unpacker",
+      "2.2.12",
+      "2.2.14"
+    ],
+    [
+      "innoextractor-plus",
+      "12.1.1.184",
+      "12.2.0.187"
+    ],
+    [
+      "instabot-pro",
+      "7.3.2",
+      "7.3.3"
     ],
     [
       "no-faff-installerclean",
@@ -2670,9 +6255,19 @@
       "10.0.1.248"
     ],
     [
+      "intelligent-editing-perfectit",
+      "6.8.7",
+      "6.8.10"
+    ],
+    [
       "internet-download-manager",
       "6.43.11",
       "6.43.18"
+    ],
+    [
+      "iobit-driver-booster-free",
+      "14.0.1.462",
+      "14.1.0.572"
     ],
     [
       "iobit-driver-booster",
@@ -2680,9 +6275,19 @@
       "14.1.0.572"
     ],
     [
+      "iobit-malware-fighter-free",
+      "13.5.0.1684",
+      "14.0.0.1766"
+    ],
+    [
       "iobit-malware-fighter",
       "13.5.0.1684",
       "14.0.0.1766"
+    ],
+    [
+      "iobit-smart-defrag-free",
+      "12.0.0.536",
+      "12.1.0.619"
     ],
     [
       "iobit-smart-defrag",
@@ -2690,9 +6295,24 @@
       "12.1.0.619"
     ],
     [
+      "iobit-uninstaller-free",
+      "16.0.0.34",
+      "16.1.0.4"
+    ],
+    [
       "iobit-uninstaller",
       "16.0.0.34",
       "16.1.0.4"
+    ],
+    [
+      "irispowerscan",
+      "12.3.97.0",
+      "12.4.17.0"
+    ],
+    [
+      "irix-hdr-pro",
+      "3.0.0",
+      "3.0.2"
     ],
     [
       "ismyhdok",
@@ -2700,14 +6320,214 @@
       "4.64"
     ],
     [
+      "ismylcdok",
+      "6.21",
+      "6.27"
+    ],
+    [
+      "softwareok-ismymemoryok",
+      "1.33",
+      "1.34"
+    ],
+    [
+      "isobuster",
+      "5.8",
+      "5.9 (Build 5.8.9.0)"
+    ],
+    [
+      "itop-data-recovery-pro",
+      "6.4.0.959",
+      "6.5.0.965"
+    ],
+    [
+      "longpanda-iventoy",
+      "1.0.48",
+      "1.0.50"
+    ],
+    [
+      "izotope-nectar",
+      "4.2.0",
+      "4.3.0"
+    ],
+    [
+      "izotope-neoverb",
+      "1.4.0",
+      "1.5"
+    ],
+    [
+      "neutron-by-izotope",
+      "5.2",
+      "5.3"
+    ],
+    [
+      "izotope-relay",
+      "1.7.0.533",
+      "1.8.0"
+    ],
+    [
+      "izotope-vocalsynth",
+      "2.7.0",
+      "2.8.0"
+    ],
+    [
+      "jahastech-nxfilter",
+      "4.7.5.6",
+      "4.7.5.7"
+    ],
+    [
       "jalbum",
       "39.10",
       "42.0.8"
     ],
     [
+      "java-se-development-kit",
+      "27.0",
+      "27.0.1.1"
+    ],
+    [
+      "java-runtime-environment",
+      "8.0.511",
+      "8.0.513"
+    ],
+    [
+      "jixipix-artista-impresso",
+      "1.8.29",
+      "1.8.34"
+    ],
+    [
+      "jixipix-chromatic-edges",
+      "1.0.38",
+      "1.0.41"
+    ],
+    [
+      "jixipix-hand-tint",
+      "1.0.29",
+      "1.0.32"
+    ],
+    [
+      "jixipix-pastello",
+      "6.0.106",
+      "6.0.109"
+    ],
+    [
+      "jixipix-photo-formation",
+      "1.0.29",
+      "1.0.32"
+    ],
+    [
+      "jixipix-premium-pack",
+      "1.2.18",
+      "1.2.23"
+    ],
+    [
+      "jixipix-puzzipix",
+      "1.0.27",
+      "1.0.30"
+    ],
+    [
+      "jixipix-rip-studio",
+      "1.1.27",
+      "1.1.30"
+    ],
+    [
+      "jixipix-spektrel-art",
+      "1.1.22",
+      "1.1.27"
+    ],
+    [
+      "jixipix-watercolor-studio",
+      "1.4.24",
+      "1.4.27"
+    ],
+    [
+      "jmmgc-write-a-document",
+      "7.0.20260611",
+      "7.0.20261005"
+    ],
+    [
+      "jriver-media-center",
+      "36.0.51",
+      "36.0.57"
+    ],
+    [
+      "jwizard-cleaner",
+      "1.12.0.0",
+      "1.12.1.0"
+    ],
+    [
+      "kaizen-home-manager",
+      "4.10.1002",
+      "4.11.1002"
+    ],
+    [
+      "vehicle-manager-fleet",
+      "4.10.2000.1",
+      "4.11.2000"
+    ],
+    [
+      "karaosoft-karma",
+      "2027.0.40",
+      "2027.0.45"
+    ],
+    [
+      "karaosoft-kj-file-manager",
+      "4.0.4",
+      "4.0.11"
+    ],
+    [
+      "kc-softwares-kcleaner-pro",
+      "4.0.0",
+      "4.0.4"
+    ],
+    [
+      "keepass-password-safe",
+      "2.61.1",
+      "2.62"
+    ],
+    [
+      "kicad",
+      "10.0.6",
+      "10.0.8"
+    ],
+    [
+      "kilho-1stchip",
+      "0.9.0",
+      "0.9.1"
+    ],
+    [
+      "killerpdf",
+      "1.8.71",
+      "1.9.5"
+    ],
+    [
+      "kitware-cmake-for-windows",
+      "4.4.5",
+      "4.5.1"
+    ],
+    [
       "kls-backup",
       "15.0.0.3",
       "15.0.0.6"
+    ],
+    [
+      "kotato-all-video-downloader",
+      "10.5.25",
+      "11.0.10"
+    ],
+    [
+      "ks-db-merge-tools-for-cross-dbms",
+      "1.21.0",
+      "1.22.0"
+    ],
+    [
+      "skyjake-lagrange",
+      "2.0.1",
+      "2.0.3"
+    ],
+    [
+      "leo-khoa-laragon",
+      "8.7.0",
+      "8.9.0"
     ],
     [
       "lastpass",
@@ -2720,6 +6540,71 @@
       "14.0.36"
     ],
     [
+      "ascomp-software-leakcheck-professional",
+      "1.002",
+      "1.003"
+    ],
+    [
+      "elanguage-learn-to-speak-english-deluxe",
+      "12.0.0.40",
+      "12.0.0.41"
+    ],
+    [
+      "leawo-prof-media",
+      "13.0.1.6",
+      "13.0.1.9"
+    ],
+    [
+      "libreoffice",
+      "26.8.2",
+      "26.8.3"
+    ],
+    [
+      "light-capture",
+      "2026.8.4.513",
+      "2026.9.25.623"
+    ],
+    [
+      "lightburn-0011",
+      "2.2.00",
+      "2.3.00.2"
+    ],
+    [
+      "linkly-ai",
+      "1.3.0",
+      "1.6.0"
+    ],
+    [
+      "kolbasky-linkrouter",
+      "3.0.1",
+      "4.0.0"
+    ],
+    [
+      "linqpad-premium",
+      "9.11.10",
+      "9.12.5"
+    ],
+    [
+      "codebridge-lispr",
+      "1.35",
+      "1.39"
+    ],
+    [
+      "lizardsystems-terminal-services-manager",
+      "26.04.3",
+      "26.11"
+    ],
+    [
+      "logi-tech-g-hub",
+      "2026.7.992920",
+      "2026.7.1011216"
+    ],
+    [
+      "lore-version-control",
+      "0.13.0",
+      "0.14.0"
+    ],
+    [
       "lucen-timeline-expert",
       "15.5.00.00",
       "15.5.3"
@@ -2730,9 +6615,34 @@
       "12.5.46"
     ],
     [
+      "lumina-suite-ai",
+      "1.0.6",
+      "1.1.1"
+    ],
+    [
+      "luxion-keyshot-enterprise",
+      "2026.2.2 v15.1.2.7",
+      "2026.3 v15.2.0.140"
+    ],
+    [
       "lynx-share",
       "0.1.25",
       "0.1.29"
+    ],
+    [
+      "macrium-reflect-x",
+      "10.0.8843",
+      "10.0.8989"
+    ],
+    [
+      "macro-commander",
+      "2.8.8",
+      "2.8.9"
+    ],
+    [
+      "macro-recorder",
+      "4.0.51",
+      "5.0.42"
     ],
     [
       "macrorit-data-wiper",
@@ -2740,9 +6650,69 @@
       "8.6.0"
     ],
     [
+      "macrorit-disk-scanner",
+      "7.1.0",
+      "7.1.3"
+    ],
+    [
+      "macrorit-ntfs-to-fat32-converter",
+      "2.1.0",
+      "2.1.3"
+    ],
+    [
+      "macrorit-partition-expert",
+      "8.9.2",
+      "8.9.6"
+    ],
+    [
+      "macrorit-partition-extender",
+      "2.6.2",
+      "2.6.5"
+    ],
+    [
       "magnet-axiom",
       "5.4.0.26185",
       "10.1.0.48673"
+    ],
+    [
+      "malwarebytes-support-tool",
+      "1.9.19.1233",
+      "1.9.20.1248"
+    ],
+    [
+      "mamp-and-mamp-pro",
+      "5.0.6.7029",
+      "5.0.7.104"
+    ],
+    [
+      "manictime",
+      "2026.2.1.1",
+      "2026.2.4.0"
+    ],
+    [
+      "maplesoft-maple",
+      "2026.1.2",
+      "2026.2"
+    ],
+    [
+      "marka-md",
+      "1.7.8",
+      "1.7.11"
+    ],
+    [
+      "markdown-monster",
+      "4.5.4.1",
+      "4.7.2"
+    ],
+    [
+      "markflowy",
+      "1.3.0",
+      "1.4.0"
+    ],
+    [
+      "masstube",
+      "22.1.7.229",
+      "22.2.0.233"
     ],
     [
       "matchware-mindview",
@@ -2750,9 +6720,64 @@
       "9.0.61114"
     ],
     [
+      "wardpearce-materialious",
+      "1.18.21",
+      "1.18.35"
+    ],
+    [
+      "maxcut",
+      "2.9.6.7",
+      "2.9.6.8"
+    ],
+    [
+      "maxthon-browser",
+      "7.5.3.4000",
+      "7.5.3.4400"
+    ],
+    [
+      "rumpus",
+      "10.0.5",
+      "11.1.3"
+    ],
+    [
+      "hai-nguyen-mechvibes",
+      "3.5.6",
+      "3.5.7"
+    ],
+    [
+      "media-player-classic-black-edition",
+      "1.9.1",
+      "1.9.3"
+    ],
+    [
+      "zackriya-solutions-meetily",
+      "0.4.1",
+      "0.5.0"
+    ],
+    [
+      "kilho-memorycleaner",
+      "3.0.0",
+      "3.0.3"
+    ],
+    [
       "memu-android-emulator",
       "9.5.7",
       "9.5.9"
+    ],
+    [
+      "mercuriall-audio-ampbox",
+      "1.9.0",
+      "1.10.8"
+    ],
+    [
+      "microsoft-net-desktop-runtime",
+      "10.0.14",
+      "11.0.0"
+    ],
+    [
+      "microsoft-edge",
+      "156.0.4314.58",
+      "157.0.4341.57"
     ],
     [
       "microsoft-malicious-software-removal-tool",
@@ -2760,9 +6785,119 @@
       "5.147"
     ],
     [
+      "microsoft-office-365-online-installer-0001",
+      "3.3.17",
+      "3.3.18"
+    ],
+    [
+      "microsoft-pc-assist",
+      "0.4.1.1",
+      "0.4.4.0"
+    ],
+    [
+      "microsoft-pix",
+      "2603.25",
+      "2611.19"
+    ],
+    [
+      "microsoft-powertoys-for-windows-10",
+      "0.102.3001.0",
+      "0.102.3101.0"
+    ],
+    [
+      "microsoft-safety-scanner",
+      "1.453.463",
+      "1.463.324.0"
+    ],
+    [
+      "microsoft-visual-redistributable",
+      "14.51.36247",
+      "14.52.37029"
+    ],
+    [
+      "microsoft-windows-terminal",
+      "1.25.2733.0",
+      "1.25.3131.0"
+    ],
+    [
+      "mikrotik-routeros",
+      "7.13.3",
+      "7.25.1"
+    ],
+    [
+      "palmeral-min-browser",
+      "1.35.7",
+      "1.35.8"
+    ],
+    [
+      "mindmapvault",
+      "0.6.3",
+      "0.6.8"
+    ],
+    [
+      "mini-diarium",
+      "0.7.6",
+      "0.8.1"
+    ],
+    [
+      "deminimis-minimal-firewall",
+      "2.8.5",
+      "2.9.0"
+    ],
+    [
+      "minitool-power-data-recovery",
+      "13.1",
+      "13.2"
+    ],
+    [
+      "minitool-power-data-recovery-personal",
+      "13.1",
+      "13.2"
+    ],
+    [
+      "minitool-video-converter",
+      "6.0",
+      "6.1"
+    ],
+    [
+      "mipmap-desktop",
+      "3.0.1",
+      "3.3.0"
+    ],
+    [
+      "mitec-exe-explorer",
+      "3.7.5",
+      "4.0.0"
+    ],
+    [
       "mitec-task-manager",
       "5.2",
       "5.3"
+    ],
+    [
+      "nebukam-mkfont",
+      "1.2.2",
+      "2.0.1"
+    ],
+    [
+      "mkvtoolnix",
+      "102.0",
+      "104.0"
+    ],
+    [
+      "mobikin-assistant-for-android",
+      "5.4.12",
+      "5.4.60"
+    ],
+    [
+      "mobikin-eraser-for-android",
+      "5.1.24",
+      "5.1.28"
+    ],
+    [
+      "mobikin-transfer-for-mobile",
+      "5.1.21",
+      "6.0.24"
     ],
     [
       "modbus-poll",
@@ -2770,9 +6905,64 @@
       "14.0.0.2593"
     ],
     [
+      "modbus-slave",
+      "10.0.0.2493",
+      "10.0.1.2582"
+    ],
+    [
+      "modern-csv",
+      "2.4.4",
+      "2.4.5"
+    ],
+    [
+      "enrique-lozano-monekin",
+      "10.1.1",
+      "10.3.0"
+    ],
+    [
       "motrix-download-manager",
       "2.1.0",
       "2.3.0"
+    ],
+    [
+      "mountain-duck",
+      "5.3.2.29785",
+      "5.4.0.30093"
+    ],
+    [
+      "movavi-video-editor",
+      "27.2.0",
+      "27.3"
+    ],
+    [
+      "mozilla-firefox",
+      "159.0",
+      "160.0.1"
+    ],
+    [
+      "download-mozilla-thunderbird",
+      "156.0.1",
+      "160.0"
+    ],
+    [
+      "mp3tag",
+      "3.36.1",
+      "3.37"
+    ],
+    [
+      "mpv-media-player",
+      "0.40.0.47",
+      "20261111"
+    ],
+    [
+      "mrv2-mrviewer",
+      "1.8.4",
+      "1.8.6"
+    ],
+    [
+      "mullvad-browser-for-windows",
+      "15.0.24",
+      "16.0.2"
     ],
     [
       "multi-commander",
@@ -2780,9 +6970,114 @@
       "16.6.0.3240"
     ],
     [
+      "multiclipboardslots",
+      "3.61",
+      "3.63"
+    ],
+    [
       "musconv-ultimate",
       "4.10.485",
       "4.10.487"
+    ],
+    [
+      "muziza-youtube-downloader-converter",
+      "9.5.20",
+      "9.6.1"
+    ],
+    [
+      "my-tube-software-tubedownload-pro",
+      "7.5.32",
+      "7.5.38"
+    ],
+    [
+      "mythicsoft-filelocator-pro",
+      "2022.3566",
+      "2022.3568"
+    ],
+    [
+      "ntrack-studio",
+      "10.3.1.11027",
+      "11.0.0.11570"
+    ],
+    [
+      "nabyscape",
+      "2.10.0",
+      "2.27.0"
+    ],
+    [
+      "naps2-not-another-pdf-scanner",
+      "8.6.0",
+      "8.6.1"
+    ],
+    [
+      "native-instruments-komplete-kontrol-0006",
+      "3.5.4",
+      "3.5.5"
+    ],
+    [
+      "native-instruments-massive-xl",
+      "2.0.0",
+      "2.0.1"
+    ],
+    [
+      "navicat-premium",
+      "17.3.10",
+      "18.0.8"
+    ],
+    [
+      "nch-doxillion-plus",
+      "11.36",
+      "12.01"
+    ],
+    [
+      "nch-express-scribe-transcription",
+      "14.05",
+      "15.13"
+    ],
+    [
+      "nch-mixpad",
+      "14.07",
+      "14.36"
+    ],
+    [
+      "nch-photopad",
+      "15.18",
+      "15.27"
+    ],
+    [
+      "nch-photostage",
+      "12.15",
+      "13.06"
+    ],
+    [
+      "nch-pixillion-image-converter",
+      "13.02",
+      "14.03"
+    ],
+    [
+      "nch-videopad",
+      "18.52",
+      "18.62"
+    ],
+    [
+      "nch-wavepad",
+      "24.12",
+      "24.57"
+    ],
+    [
+      "ncored",
+      "2026.2.8",
+      "2026.2.14"
+    ],
+    [
+      "neevia-document-converter",
+      "7.7.0.302",
+      "7.7.0.314"
+    ],
+    [
+      "nero-motion-tracker",
+      "1.3.5.0",
+      "1.4.2.0"
     ],
     [
       "nero-ai-video-upscaler",
@@ -2795,9 +7090,94 @@
       "8.0.0024"
     ],
     [
+      "netsdk-software-s3-browser",
+      "13.5.7",
+      "13.6.5"
+    ],
+    [
+      "netspot",
+      "5.1.0.707",
+      "6.1.0.830"
+    ],
+    [
+      "networkmanager",
+      "2026.7.7.0",
+      "2026.11.15.0"
+    ],
+    [
+      "nevercenter-camerabag",
+      "2026.2",
+      "2027.0"
+    ],
+    [
+      "neverwrite",
+      "0.8.14",
+      "0.8.16"
+    ],
+    [
+      "newfiletime",
+      "8.28",
+      "8.33"
+    ],
+    [
+      "nexus-mod-manager",
+      "0.93.8",
+      "0.93.15"
+    ],
+    [
+      "ninja-ripper",
+      "2.18",
+      "2.20"
+    ],
+    [
+      "nirlauncher-package",
+      "1.30.25",
+      "1.30.27"
+    ],
+    [
+      "nitro-pro-0002",
+      "26.2.6",
+      "26.4.3"
+    ],
+    [
+      "niubi-tech-partition-editor",
+      "10.3.2",
+      "10.3.6"
+    ],
+    [
+      "nmap-security-scanner",
+      "7.991",
+      "7.993"
+    ],
+    [
+      "node-js",
+      "26.13.0",
+      "26.13.1"
+    ],
+    [
+      "nostr-vpn",
+      "4.1.19",
+      "4.1.23"
+    ],
+    [
+      "virtual-sky-notecase-pro",
+      "5.0.1",
+      "5.0.6"
+    ],
+    [
       "notepad-plus-plus",
       "8.9.8.1",
       "8.9.9.1"
+    ],
+    [
+      "nsl-tech-autosql",
+      "1.6.3",
+      "1.6.4"
+    ],
+    [
+      "ntfs-permissions-reporter",
+      "5.9.713",
+      "5.10.715"
     ],
     [
       "ntopology",
@@ -2805,9 +7185,59 @@
       "6.4.3"
     ],
     [
+      "ntwind-windowspace",
+      "2.6.3",
+      "2.7.1"
+    ],
+    [
+      "nub",
+      "0.10.0",
+      "0.11.1"
+    ],
+    [
+      "nukeop-nuclear-music-player",
+      "1.52.2",
+      "1.56.4"
+    ],
+    [
+      "nvidia-app",
+      "11.0.9.251",
+      "11.0.9.585"
+    ],
+    [
+      "a1ive-nwinfo",
+      "1.6.6",
+      "1.6.7"
+    ],
+    [
+      "nxpowerlite-for-file-servers",
+      "10.3.1",
+      "11.0.2"
+    ],
+    [
+      "nymvpn",
+      "2026.12.4",
+      "2026.15.0"
+    ],
+    [
       "oo-appbuster",
       "1.3.1343",
       "3.1.1029.1"
+    ],
+    [
+      "oo-bluecon",
+      "23.0.14008",
+      "25.0.27026"
+    ],
+    [
+      "oando-diskimage-premium",
+      "22.6.1231",
+      "23.2.26060"
+    ],
+    [
+      "oo-safeerase",
+      "21.3.26152",
+      "22.0.26169"
     ],
     [
       "oando-shutup10-premium",
@@ -2815,9 +7245,64 @@
       "3.7.1143"
     ],
     [
+      "oo-shutup10",
+      "3.6.1135",
+      "3.7.1143"
+    ],
+    [
+      "obs-studio",
+      "33.0.0",
+      "33.0.3"
+    ],
+    [
+      "obscura-vpn",
+      "1.177",
+      "1.185"
+    ],
+    [
+      "obsidian-canvas",
+      "1.13.7",
+      "1.15.1"
+    ],
+    [
       "ocbase-occt",
       "17.1.5",
       "17.2.3"
+    ],
+    [
+      "ocenaudio",
+      "3.21.4",
+      "3.22.2"
+    ],
+    [
+      "octoparse",
+      "10.2.1",
+      "10.3.0"
+    ],
+    [
+      "office-tool-plus",
+      "11.7.9",
+      "11.9.15.0"
+    ],
+    [
+      "jan-de-dobbeleer-oh-my-posh",
+      "32.0.0",
+      "33.3.0"
+    ],
+    [
+      "okmap",
+      "19.9.0",
+      "20.1.0"
+    ],
+    [
+      "oleafly",
+      "0.4.11",
+      "0.4.13"
+    ],
+    [
+      "ollama",
+      "0.40.13",
+      "0.40.17"
     ],
     [
       "avanquest-olympia-logo-creation",
@@ -2825,9 +7310,159 @@
       "1.7.7.80"
     ],
     [
+      "omniroute",
+      "3.8.53",
+      "3.8.54"
+    ],
+    [
+      "ossama-hjaji-onefetch",
+      "2.28.1",
+      "3.3.0"
+    ],
+    [
+      "onionshare",
+      "2.6.5",
+      "2.7.2"
+    ],
+    [
+      "open-pencil",
+      "0.15.1",
+      "0.17.0"
+    ],
+    [
+      "openaudible",
+      "5.1",
+      "5.3"
+    ],
+    [
+      "opengl-extension-viewer",
+      "7.4.9",
+      "7.4.12"
+    ],
+    [
+      "electron",
+      "45.1.0",
+      "45.4.1"
+    ],
+    [
+      "openknowledge",
+      "0.88.11",
+      "0.89.14"
+    ],
+    [
+      "openshot-video-editor",
+      "4.0.1",
+      "4.1.1"
+    ],
+    [
+      "openvpn",
+      "2.7.7",
+      "2.7.9"
+    ],
+    [
+      "herotools-openwispr",
+      "1.11.0",
+      "1.12.0"
+    ],
+    [
+      "opera-air-browser",
+      "138.0.6044.69",
+      "140.0.6074.50"
+    ],
+    [
+      "opera",
+      "139.0.6053.22",
+      "140.0.6074.36"
+    ],
+    [
+      "opera-developer",
+      "140.0.6066.0",
+      "141.0.6087.0"
+    ],
+    [
+      "opera-gx",
+      "138.0.6044.65",
+      "140.0.6074.48"
+    ],
+    [
+      "operant-peak-spectroscopy",
+      "4.00.561",
+      "4.00.575"
+    ],
+    [
+      "hellzerg-optimizer",
+      "16.7",
+      "17.0"
+    ],
+    [
+      "orama-interactive-pixelorama",
+      "1.2.3",
+      "1.2.4"
+    ],
+    [
+      "softfever-orca-slicer",
+      "2.5.0",
+      "2.5.2"
+    ],
+    [
+      "ortmann-pixel-art-designer",
+      "7.8.4.777",
+      "8.0.3"
+    ],
+    [
+      "equialitie-ouisync",
+      "0.9.4",
+      "0.9.5"
+    ],
+    [
+      "output-messenger-server",
+      "3.0.10",
+      "3.0.11"
+    ],
+    [
+      "spirokai-ovrley",
+      "2.48.0",
+      "3.1.5"
+    ],
+    [
       "paint-net",
       "5.1.12",
       "5.2"
+    ],
+    [
+      "john-macfarlane-pandoc",
+      "3.13",
+      "3.14"
+    ],
+    [
+      "pano2vr",
+      "8.0.10",
+      "8.0.11"
+    ],
+    [
+      "panopreter",
+      "4.0.1.3",
+      "4.0.1.4"
+    ],
+    [
+      "paprika-recipe-manager",
+      "3.3.2",
+      "4.0.9"
+    ],
+    [
+      "paradox-converter",
+      "4.90",
+      "4.96"
+    ],
+    [
+      "parted-magic",
+      "26.11.1",
+      "26.11.3"
+    ],
+    [
+      "paseo-ai",
+      "0.15.3",
+      "0.17.3"
     ],
     [
       "passfab-4easypartition",
@@ -2835,9 +7470,169 @@
       "4.5.0.7"
     ],
     [
+      "pazu-all-in-one-music-converter",
+      "3.2.2",
+      "3.2.3"
+    ],
+    [
+      "pazu-streamget-all-in-one-video-downloader",
+      "3.2.8",
+      "3.3"
+    ],
+    [
+      "pc-autopilot",
+      "1.0.12",
+      "1.0.13"
+    ],
+    [
+      "pcdj-lyrx",
+      "1.10.3",
+      "1.12.0"
+    ],
+    [
+      "pdfforge-pdf-architect",
+      "10.0.24.24936",
+      "10.0.42.25012"
+    ],
+    [
+      "pdf-conversa-professional",
+      "3.014",
+      "4.001"
+    ],
+    [
+      "pdf-xchange",
+      "11.1.0",
+      "11.1.2"
+    ],
+    [
+      "pdf24-creator",
+      "11.30.1",
+      "11.35.0"
+    ],
+    [
+      "jakub-melka-pdf4qt",
+      "1.7.0.0",
+      "1.7.1.0"
+    ],
+    [
+      "pdffactory",
+      "9.33",
+      "9.36"
+    ],
+    [
+      "pdfsam-pdf-split-and-merge",
+      "6.0.6",
+      "6.0.9"
+    ],
+    [
+      "pdfsam-enhanced",
+      "7.0.82.15224",
+      "7.0.83.15228"
+    ],
+    [
+      "pdfzilla-pdf-slideshow",
+      "1.0",
+      "1.0.1.0"
+    ],
+    [
+      "pelton",
+      "2026.4.6",
+      "2026.4.8"
+    ],
+    [
+      "pepakura-designer",
+      "6.3.6",
+      "6.3.9"
+    ],
+    [
+      "perfectxl-compare",
+      "1.8.1",
+      "1.8.2"
+    ],
+    [
+      "perfectxl-explore",
+      "1.6.4",
+      "1.6.5"
+    ],
+    [
+      "perfectxl-risk-finder",
+      "1.2.12",
+      "1.2.13"
+    ],
+    [
+      "personal-backup",
+      "6.4.14.0",
+      "6.4.15.0"
+    ],
+    [
+      "simon-zolin-phiola",
+      "2.13.1",
+      "2.15"
+    ],
+    [
+      "phoenixpe",
+      "2026.07.25",
+      "2026.10.25"
+    ],
+    [
+      "photoglory",
+      "8.00",
+      "9.00"
+    ],
+    [
+      "bartels-media-phraseexpress",
+      "18.0.81",
+      "18.0.86"
+    ],
+    [
+      "picpick-free",
+      "7.6.2",
+      "7.7"
+    ],
+    [
       "picpick",
       "7.6.2",
       "7.7"
+    ],
+    [
+      "pilotedit",
+      "21.6.0",
+      "21.7.0"
+    ],
+    [
+      "ping-tracer",
+      "2.0.1",
+      "2.1"
+    ],
+    [
+      "pitara",
+      "7.0.9807.2644",
+      "8.0.9816.27472"
+    ],
+    [
+      "pixieditor",
+      "2.1.2.4",
+      "2.1.2.5"
+    ],
+    [
+      "dvdfab-media-player",
+      "7.0.6.2",
+      "7.0.6.7"
+    ],
+    [
+      "podman-desktop",
+      "6.1.3",
+      "6.2.0"
+    ],
+    [
+      "vincent-jousse-pomodorolm",
+      "0.9.1",
+      "0.10.1"
+    ],
+    [
+      "jan-goyvaerts-powergrep",
+      "5.4.1",
+      "5.4.2"
     ],
     [
       "prepros",
@@ -2845,9 +7640,54 @@
       "7.40.6"
     ],
     [
+      "print-artist-gold",
+      "25.1.0.1",
+      "27.0.0.8"
+    ],
+    [
+      "print-artist-platinum",
+      "25.1.0.3",
+      "27.0.0.8"
+    ],
+    [
+      "print-my-fonts",
+      "26.9.13",
+      "26.11.3"
+    ],
+    [
+      "printmaster-gold",
+      "18.0.1.0",
+      "18.0.2.0"
+    ],
+    [
+      "broderbund-printmaster",
+      "18.0.1.0",
+      "18.0.2.0"
+    ],
+    [
+      "process-explorer",
+      "17.14",
+      "17.21"
+    ],
+    [
+      "process-monitor",
+      "4.11",
+      "4.13"
+    ],
+    [
       "proficad",
       "14.1.2",
       "14.1.6"
+    ],
+    [
+      "progdvb",
+      "7.73.4",
+      "7.73.7"
+    ],
+    [
+      "protonvpn",
+      "5.1.5",
+      "5.1.9"
     ],
     [
       "ptc-creo-schematics-0001",
@@ -2860,6 +7700,11 @@
       "1.0.3.1"
     ],
     [
+      "purslane-rustdesk",
+      "1.5.0",
+      "1.5.1"
+    ],
+    [
       "pvs-studio",
       "8.01.111307.2368",
       "8.01.112455.2387"
@@ -2870,9 +7715,39 @@
       "12.85"
     ],
     [
+      "qgis",
+      "3.44.15",
+      "4.2.3.2"
+    ],
+    [
       "qiling-deep-data-recovery",
       "4.8.0.20260626",
       "4.8.2"
+    ],
+    [
+      "qiling-disk-master",
+      "8.8",
+      "8.9"
+    ],
+    [
+      "qiling-fast-cache-standard-server",
+      "3.5.0.20260626",
+      "3.6.0.20261106"
+    ],
+    [
+      "qmmp",
+      "2.4.2",
+      "2.4.3"
+    ],
+    [
+      "patrizio-bekerle-qown-notes",
+      "26.11.6",
+      "26.11.13"
+    ],
+    [
+      "svo-webdesign-qr-code-creator",
+      "7.8.1.1",
+      "7.8.1.3"
     ],
     [
       "quick-access-popup",
@@ -2880,9 +7755,44 @@
       "12.4.3"
     ],
     [
+      "coderbag-quick-cpu-free",
+      "6.7.0",
+      "6.8.0"
+    ],
+    [
+      "quick-cpu-0001",
+      "6.7.0",
+      "6.8.0"
+    ],
+    [
+      "quickmemorytestok",
+      "5.44",
+      "5.61"
+    ],
+    [
+      "quitter-addiction-recovery-tracker",
+      "1.1.84",
+      "1.1.85"
+    ],
+    [
+      "r2modman",
+      "3.2.20",
+      "3.2.21"
+    ],
+    [
+      "radare2",
+      "6.2.2",
+      "6.2.6"
+    ],
+    [
       "rain-cleaner-pro",
       "2.16.0",
       "2.23.0"
+    ],
+    [
+      "rainbow-analyst-add-in-professional",
+      "26.02.2",
+      "26.11"
     ],
     [
       "wintools-ram-saver",
@@ -2890,14 +7800,44 @@
       "26.11.1"
     ],
     [
+      "rancher-desktop",
+      "1.24.0",
+      "1.25.0"
+    ],
+    [
+      "realvnc-server",
+      "7.18.1",
+      "7.19.0"
+    ],
+    [
       "realvnc-vnc-server-enterprise-0001",
       "7.17.0",
       "7.19.0"
     ],
     [
+      "realvnc-vnc-viewer",
+      "8.5.3",
+      "8.6.0"
+    ],
+    [
       "travis-s-realvoice-text-to-speech",
       "5.5.1",
       "5.6.0"
+    ],
+    [
+      "reclaim-time-focusme",
+      "8.1.2.9",
+      "8.2.1.7"
+    ],
+    [
+      "recordfab",
+      "1.0.1.6",
+      "1.0.1.7"
+    ],
+    [
+      "red-cad-app",
+      "3.25.1",
+      "3.25.5"
     ],
     [
       "red-gate-smartassembly",
@@ -2910,9 +7850,29 @@
       "1.8"
     ],
     [
+      "jan-goyvaerts-regexmagic",
+      "2.13.3",
+      "3.0.0"
+    ],
+    [
       "remo-recover",
       "6.1.0.9",
       "6.1.0.15"
+    ],
+    [
+      "remove-bg",
+      "2.5.0",
+      "3.0.2"
+    ],
+    [
+      "reportizer",
+      "6.6.4.1119",
+      "6.6.5.950"
+    ],
+    [
+      "reqable",
+      "3.3.11",
+      "3.3.14"
     ],
     [
       "resolume-arena-0002",
@@ -2920,9 +7880,69 @@
       "7.29.0.33052"
     ],
     [
+      "alexander-neumann-restic",
+      "0.19.1",
+      "0.20.0"
+    ],
+    [
+      "rhinoceros",
+      "9.0.26300.09401",
+      "9.1.26315.13001"
+    ],
+    [
+      "richardson-razorsql",
+      "11.0.3",
+      "11.0.4"
+    ],
+    [
+      "rightclicktools",
+      "2.0.4",
+      "2.0.7"
+    ],
+    [
       "rons-weblynx",
       "2026.10.27.1413",
       "2026.11.21.1213"
+    ],
+    [
+      "room-arranger",
+      "11.3.0.811",
+      "11.4.0.820"
+    ],
+    [
+      "francois-jacquet-rosariosis",
+      "13.0.3",
+      "13.0.4"
+    ],
+    [
+      "roxio-easy-vhs-to-dvd-plus",
+      "4.0.20",
+      "4.0.24"
+    ],
+    [
+      "royal-apps-royal-server",
+      "5.4.50928",
+      "5.4.51118"
+    ],
+    [
+      "ruben-picview",
+      "5.1.4",
+      "5.2.2"
+    ],
+    [
+      "yukihiro-matsumoto-ruby-programming-language",
+      "4.0.9",
+      "4.0.10"
+    ],
+    [
+      "saber-handwritten-notes",
+      "1.37.1",
+      "1.38.0"
+    ],
+    [
+      "samsung-browser",
+      "30.0.1.40",
+      "31.01.38"
     ],
     [
       "sandboxie",
@@ -2935,6 +7955,16 @@
       "1.19.1"
     ],
     [
+      "sandisk-ssd-dashboard",
+      "5.2.2.3",
+      "5.3.2.4"
+    ],
+    [
+      "allan-chain-sane-break",
+      "0.10.6",
+      "0.10.7"
+    ],
+    [
       "sante-dicom-editor",
       "10.5",
       "10.5.1"
@@ -2945,14 +7975,49 @@
       "14.5.1"
     ],
     [
+      "sante-dicom-worklist-server",
+      "2.5.2",
+      "2.5.3"
+    ],
+    [
+      "sante-pacs-server",
+      "4.6",
+      "4.6.2"
+    ],
+    [
       "sante-pacs-server-pg",
       "4.6",
       "4.6.2"
     ],
     [
+      "sapien-versionrecall",
+      "1.8.181",
+      "1.8.182"
+    ],
+    [
+      "sautinsoft-document-net",
+      "2023.4.19",
+      "2026.11.10"
+    ],
+    [
       "schlumberger-flaresim",
       "2023.1.132",
       "2026.3"
+    ],
+    [
+      "sciwand",
+      "0.14.0",
+      "0.15.2"
+    ],
+    [
+      "scooter-beyond-compare",
+      "5.2.7.32913",
+      "5.2.8.33052"
+    ],
+    [
+      "scrapbook-factory-deluxe",
+      "5.0.3.6",
+      "5.0.3.7"
     ],
     [
       "screenpresso",
@@ -2965,9 +8030,64 @@
       "19.0.1.3110"
     ],
     [
+      "kilho-secretdns",
+      "4.0.3",
+      "4.1.3"
+    ],
+    [
+      "seelen-ui",
+      "2.8.6",
+      "2.8.11"
+    ],
+    [
+      "sejda-pdf-desktop",
+      "7.9.10",
+      "7.9.12"
+    ],
+    [
+      "serato-dj",
+      "5.0.0",
+      "5.1.0"
+    ],
+    [
+      "shotcut",
+      "26.9.27",
+      "26.11.15"
+    ],
+    [
+      "signal-messenger-desktop",
+      "8.19.0",
+      "8.36.0"
+    ],
+    [
       "silhouette-america-silhouette-studio",
       "5.0.539",
       "5.0.556"
+    ],
+    [
+      "sketchup-0001",
+      "27.0.267",
+      "27.0.277"
+    ],
+    [
+      "divelements-skydemon",
+      "4.3.2.112",
+      "4.3.4"
+    ],
+    [
+      "slack",
+      "4.53.269",
+      "4.53.287"
+    ],
+    [
+      "slimjet-web-browser",
+      "51.0.1.0",
+      "51.0.3.0"
+    ],
+    [
+      "smart-game-booster-free",
+      "6.0.0.1183",
+      "6.0.1.1231"
     ],
     [
       "smartgit",
@@ -2975,9 +8095,49 @@
       "26.1.059"
     ],
     [
+      "smartus-ai-old-photo-restorer",
+      "1.0.4",
+      "2.0.2"
+    ],
+    [
+      "smith-micro-moho",
+      "14.4 Build 20251110",
+      "14.5.1.20261113"
+    ],
+    [
       "mojosoft-snap-video-translator",
       "1.1.1",
       "1.2.1"
+    ],
+    [
+      "snapdownloader-0001",
+      "1.15.42",
+      "1.15.43"
+    ],
+    [
+      "snapraid",
+      "15.1",
+      "15.2"
+    ],
+    [
+      "snaptube-downloader",
+      "8.4.0",
+      "8.4.6"
+    ],
+    [
+      "xytom-snippai",
+      "0.5.0",
+      "0.7.0"
+    ],
+    [
+      "geoffrey-lecoq-snmplens",
+      "1.6.5",
+      "1.9.3"
+    ],
+    [
+      "socialmediaapps-facebook-video-downloader",
+      "8.5.34",
+      "8.5.39"
     ],
     [
       "soda-pdf",
@@ -2990,6 +8150,11 @@
       "11.0"
     ],
     [
+      "softether-vpn",
+      "5.02.5187",
+      "5.2.5191"
+    ],
+    [
       "software-ideas-modeler-ultimate",
       "15.55",
       "15.60"
@@ -3000,6 +8165,41 @@
       "0.17.1"
     ],
     [
+      "soundswitch",
+      "7.3.1",
+      "7.4.0"
+    ],
+    [
+      "spaqi-consulting-pc-repair-suite",
+      "2.1.2",
+      "2.3.0"
+    ],
+    [
+      "speedyfox",
+      "2.0.30.155",
+      "3.0.2.203"
+    ],
+    [
+      "spicy-sparks-esound-music",
+      "3.0.20",
+      "3.0.24"
+    ],
+    [
+      "spinoza",
+      "2.2.1",
+      "2.2.7"
+    ],
+    [
+      "splunk-enterprise",
+      "10.4.4",
+      "10.6.2.5"
+    ],
+    [
+      "spybot-anti-beacon",
+      "5.4",
+      "6.9"
+    ],
+    [
       "sqlite-expert",
       "6.2.3.737",
       "6.2.16.750"
@@ -3008,6 +8208,11 @@
       "squirrels-reflector",
       "4.1.3",
       "4.1.4"
+    ],
+    [
+      "ssd-booster-net",
+      "19.25",
+      "19.40"
     ],
     [
       "stardock-deskscapes",
@@ -3030,9 +8235,54 @@
       "3.9.29.5431"
     ],
     [
+      "kilho-startcleaner",
+      "2.0.3",
+      "2.0.4"
+    ],
+    [
+      "stedding-browser",
+      "0.4.0",
+      "0.7.0"
+    ],
+    [
+      "steelseries-gg-for-windows",
+      "120.0.0",
+      "124.0.0"
+    ],
+    [
+      "steinberg-cubase",
+      "15.0.40",
+      "16.0.5"
+    ],
+    [
+      "steinberg-dorico",
+      "6.2.30",
+      "6.2.40"
+    ],
+    [
+      "steinberg-halion",
+      "7.5.0",
+      "7.5.10"
+    ],
+    [
+      "steinberg-halion-sonic-se",
+      "7.5.0",
+      "7.5.10"
+    ],
+    [
+      "steinberg-spectralayers",
+      "13.0.30",
+      "13.0.40"
+    ],
+    [
       "steinberg-vst-live-pro",
       "3.0.60",
       "3.0.70"
+    ],
+    [
+      "streaminsstar-hidownload-phoenix",
+      "13.1",
+      "13.4.1"
     ],
     [
       "subtitle-edit",
@@ -3040,9 +8290,69 @@
       "5.4.0"
     ],
     [
+      "blender-market-artell-auto-rig-pro",
+      "3.78.64",
+      "3.79.17"
+    ],
+    [
+      "superhive-market-cveld-shell-fit",
+      "1.3.1",
+      "1.3.4"
+    ],
+    [
+      "blender-market-haughtygrayalien-simplebake",
+      "2.9.11",
+      "2.9.12"
+    ],
+    [
+      "superhive-market-pitiwazou-speedsculpt",
+      "0.3.8",
+      "0.4.0"
+    ],
+    [
+      "superhive-market-squishfx",
+      "3.3.0",
+      "3.49.0"
+    ],
+    [
+      "superhive-market-erasers45-studios-voxelvision-iii",
+      "2.0.1",
+      "4.2.0"
+    ],
+    [
       "supernotes",
       "3.2.2",
       "3.2.4"
+    ],
+    [
+      "surfsense",
+      "2.2.5",
+      "2.3.1"
+    ],
+    [
+      "suwayomi-server",
+      "2.4.2366",
+      "2.4.2373"
+    ],
+    [
+      "sweet-home-3d",
+      "7.6.8.1605",
+      "7.6.8.1607"
+    ],
+    [
+      "sweet-home-3d-free",
+      "7.5",
+      "7.6.1"
+    ],
+    [
+      "sweetscape-010-editor",
+      "17.0",
+      "17.0.1"
+    ],
+    [
+      "symantec-endpoint-protection",
+      "14.4.115.0000",
+      "14.5.172.0000"
     ],
     [
       "sync-breeze",
@@ -3050,9 +8360,74 @@
       "18.4.16"
     ],
     [
+      "sync-for-windows",
+      "5.0.39",
+      "5.0.41"
+    ],
+    [
+      "syncovery",
+      "12.8.8.88",
+      "12.9.8.101"
+    ],
+    [
       "flexense-sysgauge",
       "13.4.12",
       "13.7.14"
+    ],
+    [
+      "sysinternals",
+      "2026.09.10",
+      "2026.11.5"
+    ],
+    [
+      "sysnucleus-webharvy",
+      "7.11.0.248",
+      "8.5.0.258"
+    ],
+    [
+      "system-mechanic-ultimate-defense",
+      "26.5.1.249",
+      "27.1.1.5"
+    ],
+    [
+      "systemrescuecd",
+      "13.02",
+      "13.03"
+    ],
+    [
+      "tableplus",
+      "27.2",
+      "27.4.1"
+    ],
+    [
+      "tabstick",
+      "2.4.0",
+      "2.5.1"
+    ],
+    [
+      "tagspaces-lite",
+      "6.14.0",
+      "6.15.1"
+    ],
+    [
+      "tangible-software-solutions",
+      "10.2026",
+      "11.2026"
+    ],
+    [
+      "obviousidea-tapopanel",
+      "2026.5.29.134",
+      "2026.10.14.162"
+    ],
+    [
+      "taiko2k-tauon-music-box",
+      "12.1.0",
+      "14.0.0"
+    ],
+    [
+      "teamviewer",
+      "15.83.5",
+      "15.83.7"
     ],
     [
       "technia-brigade-plus",
@@ -3060,9 +8435,54 @@
       "2026.3"
     ],
     [
+      "gpu-z",
+      "2.71",
+      "2.72"
+    ],
+    [
+      "techsmith-camtasia-0007",
+      "26.2.4.20997",
+      "27.0.0.21317"
+    ],
+    [
+      "trimble-tekla-structures-0002",
+      "5",
+      "2026 SP6"
+    ],
+    [
+      "teldrive",
+      "2.0.11",
+      "2.0.14"
+    ],
+    [
+      "telegram-desktop",
+      "7.4.1",
+      "7.4.4"
+    ],
+    [
       "text-editor-pro",
       "37.4.0",
       "38.1.0"
+    ],
+    [
+      "the-bat",
+      "12.3.1",
+      "12.4"
+    ],
+    [
+      "thimeo-relay",
+      "11.05",
+      "11.07"
+    ],
+    [
+      "thimeo-st-enterprise",
+      "11.05",
+      "11.07"
+    ],
+    [
+      "thimeo-stereo-tool",
+      "11.05",
+      "11.07"
     ],
     [
       "thisismyfile",
@@ -3075,9 +8495,119 @@
       "8.2.5"
     ],
     [
+      "dhanush-s-tidywindow",
+      "4.7.4",
+      "5.5.5"
+    ],
+    [
+      "tiger-api-client",
+      "0.8.1",
+      "0.9.0"
+    ],
+    [
+      "tikz-editor",
+      "1.0.0",
+      "1.3.0"
+    ],
+    [
+      "winbigfox-timescribe",
+      "1.17.1",
+      "1.18.0"
+    ],
+    [
+      "tinymediamanager",
+      "5.3.4",
+      "5.3.5"
+    ],
+    [
+      "thomas-mann-tixl",
+      "4.2.1",
+      "4.3.0.4"
+    ],
+    [
+      "tomabo-mp4-downloader",
+      "6.4.31",
+      "6.5.1"
+    ],
+    [
+      "tominlab-wonderpen",
+      "3.3.0.8491",
+      "3.4.2.8515"
+    ],
+    [
+      "tonkatsu-box",
+      "0.45.0",
+      "0.46.0"
+    ],
+    [
+      "toontrack-ezkeys",
+      "2.1.5",
+      "2.1.6"
+    ],
+    [
+      "topaz-gigapixel-pro",
+      "1.3.6",
+      "1.5.1"
+    ],
+    [
+      "topaz-photo-pro",
+      "1.7.1",
+      "1.8.2"
+    ],
+    [
+      "topaz-video",
+      "1.7.1",
+      "1.7.2"
+    ],
+    [
+      "topwin-any-mp3-converter",
+      "10.0.3.9",
+      "11.0.0.9"
+    ],
+    [
+      "topwin-windows-video-converter",
+      "10.0.3.9",
+      "11.0.0.8"
+    ],
+    [
+      "tor-browser",
+      "15.0.24",
+      "16.0.1"
+    ],
+    [
+      "total-network-inventory",
+      "6.8.1.7487",
+      "6.9.0.7641"
+    ],
+    [
+      "git-tower",
+      "14.0.583",
+      "15.0.590"
+    ],
+    [
+      "tweakhub",
+      "1.6.1",
+      "1.8.1"
+    ],
+    [
       "tweaknow-winsecret-for-windows-10",
       "10.0.2",
       "10.3"
+    ],
+    [
+      "typewhisper",
+      "1.0.9",
+      "1.2.2"
+    ],
+    [
+      "tuerkay-software-glow",
+      "26.13",
+      "26.15"
+    ],
+    [
+      "ultimaker-cura",
+      "5.13.0",
+      "5.14.0"
     ],
     [
       "ultravnc",
@@ -3085,9 +8615,189 @@
       "1.8.3.2"
     ],
     [
+      "umoupen",
+      "0.9.59",
+      "0.9.63"
+    ],
+    [
+      "ungoogled-chromium",
+      "157.0.8103.38",
+      "158.0.8127.36"
+    ],
+    [
+      "uniclipboard",
+      "1.5.0",
+      "1.6.2"
+    ],
+    [
+      "marti-climent-wingetui",
+      "2026.3.3",
+      "2026.3.4"
+    ],
+    [
+      "uniterm",
+      "1.12.2",
+      "1.12.4"
+    ],
+    [
+      "universal-media-server",
+      "15.8.1",
+      "15.9.0"
+    ],
+    [
+      "uwview",
+      "1.7.3.6.9",
+      "2.0.0"
+    ],
+    [
+      "valentina-server",
+      "18.2.1",
+      "18.4.0"
+    ],
+    [
+      "valentina-studio",
+      "18.2.1",
+      "18.4.2"
+    ],
+    [
+      "giant-pink-robots-varia-download-manager",
+      "2026.8.5-1",
+      "2026.11.16"
+    ],
+    [
+      "vaultsync",
+      "1.8.9",
+      "1.8.10"
+    ],
+    [
+      "vectorstyler",
+      "1.3.031",
+      "1.3.032"
+    ],
+    [
+      "veracrypt",
+      "1.26.30",
+      "1.26.31"
+    ],
+    [
+      "thewh1teagle-vibe-transcribe",
+      "3.2.2",
+      "3.3.8"
+    ],
+    [
+      "viber-for-pc",
+      "29.3.0",
+      "29.5.0"
+    ],
+    [
+      "violens",
+      "0.4.0",
+      "1.0.0"
+    ],
+    [
+      "virtual-dj-studio",
+      "9.0.3",
+      "9.1.5"
+    ],
+    [
+      "vivaldi",
+      "8.3.4191.30",
+      "8.3.4191.47"
+    ],
+    [
+      "r-smith-vmping",
+      "1.3.23",
+      "1.4.0"
+    ],
+    [
+      "vmware-installbuilder",
+      "26.8",
+      "26.11"
+    ],
+    [
+      "vmware-tools",
+      "13.1.5",
+      "13.1.6"
+    ],
+    [
+      "le-tan-vnote",
+      "4.14.1",
+      "4.15.1"
+    ],
+    [
+      "voicebox",
+      "0.5.0",
+      "0.6.0"
+    ],
+    [
       "irzyxa-volume2",
       "1.1.8.465",
       "26.2.0.476"
+    ],
+    [
+      "nexus-mods-vortex",
+      "2.9.1",
+      "2.11.0"
+    ],
+    [
+      "vovsoft-batch-image-resizer",
+      "2.4",
+      "2.5"
+    ],
+    [
+      "vovsoft-download-mailbox-emails",
+      "2.1.0",
+      "2.2"
+    ],
+    [
+      "vovsoft-health-break",
+      "2.6",
+      "2.7"
+    ],
+    [
+      "vovsoft-keep-software-alive",
+      "3.4",
+      "3.5"
+    ],
+    [
+      "vovsoft-qr-code-and-barcode-reader",
+      "1.6",
+      "1.7"
+    ],
+    [
+      "vovsoft-speech-to-text-converter",
+      "5.5",
+      "6.1"
+    ],
+    [
+      "vovsoft-svg-converter",
+      "2.0",
+      "2.1"
+    ],
+    [
+      "vovsoft-tree-notes",
+      "3.5",
+      "3.7"
+    ],
+    [
+      "vuescan",
+      "9.8.59",
+      "9.8.60"
+    ],
+    [
+      "vx-search",
+      "18.3.16",
+      "18.4.16"
+    ],
+    [
+      "wacup",
+      "1.99.55.25130",
+      "1.99.57.25464"
+    ],
+    [
+      "waifu2x-extension-gui",
+      "3.142.01",
+      "3.143.01"
     ],
     [
       "romain-bourdon-wampserver",
@@ -3095,9 +8805,54 @@
       "3.4.3"
     ],
     [
+      "watchdog-anti-malware",
+      "4.4.65",
+      "4.4.86"
+    ],
+    [
+      "watchdog-anti-virus",
+      "1.8.847",
+      "1.9.82"
+    ],
+    [
+      "waterfox",
+      "6.7.7",
+      "6.7.9"
+    ],
+    [
+      "wavemetrics-igor-pro",
+      "10.03.30115",
+      "10.05.30387"
+    ],
+    [
+      "wavesonics-hammer-editor",
+      "3.12.1",
+      "3.12.2"
+    ],
+    [
+      "aziz-fadil-wealthfolio",
+      "3.9.1",
+      "3.13.1"
+    ],
+    [
+      "western-digital-wd-ssd-dashboard",
+      "7.0.2.3",
+      "7.1.2.1"
+    ],
+    [
+      "will-be-done",
+      "0.14.0",
+      "0.15.0"
+    ],
+    [
       "wincatalog",
       "2026.3.1.805",
       "2027.1.0.1119"
+    ],
+    [
+      "windows-and-office-genuine-iso-verifier",
+      "09.2026",
+      "11.2026"
     ],
     [
       "binisoft-windows-firewall-control",
@@ -3110,6 +8865,11 @@
       "11.0.0.9"
     ],
     [
+      "windows-powershell",
+      "7.6.9",
+      "7.7.0"
+    ],
+    [
       "topwin-windows-video-editor",
       "10.0.3.9",
       "11.0.0.9"
@@ -3120,9 +8880,69 @@
       "5.33"
     ],
     [
+      "winds-pro-emulators",
+      "2026.11.06",
+      "2026.11.21"
+    ],
+    [
+      "bill-zissimopoulos-winfsp",
+      "2.1",
+      "2.2.26323"
+    ],
+    [
+      "wing-ftp-server",
+      "8.2.7",
+      "8.2.8"
+    ],
+    [
+      "wingware-wing",
+      "12.0.3",
+      "12.1.2"
+    ],
+    [
+      "winnc",
+      "11.6",
+      "11.7"
+    ],
+    [
+      "winpe-sergei-strelec",
+      "2026.09.08",
+      "2026.11.06"
+    ],
+    [
+      "winscan2pdf",
+      "9.77",
+      "9.82"
+    ],
+    [
+      "winscp",
+      "6.5.7",
+      "6.7.1"
+    ],
+    [
+      "francesco-winscript",
+      "2.26.0",
+      "2.30.0"
+    ],
+    [
       "wintools",
       "26.9.1",
       "26.11.1"
+    ],
+    [
+      "wintoys",
+      "2.6.69.0",
+      "3.0.10.0"
+    ],
+    [
+      "privacyroot-wipe-free",
+      "2026.11",
+      "2026.13"
+    ],
+    [
+      "wireshark",
+      "4.6.9",
+      "4.6.10"
     ],
     [
       "wise-disk-cleaner",
@@ -3135,9 +8955,129 @@
       "2.0.4.219"
     ],
     [
+      "wizflow-flowcharter",
+      "7.57.2227",
+      "7.58.2228"
+    ],
+    [
+      "wiztree",
+      "4.33",
+      "4.34"
+    ],
+    [
+      "wondershare-recoverit-0001",
+      "15.0.0.22",
+      "15.0.4.5"
+    ],
+    [
+      "worksheet-crafter",
+      "2026.2.5.318",
+      "2026.3.5.253"
+    ],
+    [
+      "wox-launcher",
+      "2.4.8",
+      "2.5.0"
+    ],
+    [
+      "writefreely",
+      "0.17.2",
+      "0.17.3"
+    ],
+    [
+      "wscc",
+      "10.0.4.7",
+      "10.0.5.2"
+    ],
+    [
+      "wysiwyg-web-builder",
+      "21.2.3",
+      "21.2.5"
+    ],
+    [
+      "xappex-xl-connector",
+      "3.7.37.0",
+      "3.8.7.0"
+    ],
+    [
+      "xelitan-image-viewer",
+      "1.2",
+      "2.0"
+    ],
+    [
+      "xero-software-taxcycle-enterprise",
+      "16.0.63993",
+      "16.1.16241"
+    ],
+    [
+      "xiaomi-mimo-code",
+      "0.1.16",
+      "0.1.17"
+    ],
+    [
+      "xnview-mp-free",
+      "1.12.1",
+      "1.12.3"
+    ],
+    [
+      "xrecode-3",
+      "1.192",
+      "1.194"
+    ],
+    [
       "xyplorer",
       "28.40.0300",
       "28.50.0100"
+    ],
+    [
+      "mountain-loop-yaak",
+      "2026.8.1",
+      "2026.9.1"
+    ],
+    [
+      "yamicsoft-windows-11-manager",
+      "2.4.1",
+      "2.4.5"
+    ],
+    [
+      "yt-geek-ytdl-pro",
+      "12.5.25",
+      "12.5.30"
+    ],
+    [
+      "yt-video-downloader",
+      "12.6.22",
+      "12.6.28"
+    ],
+    [
+      "yuhan-blu-ray-dvd-creator",
+      "5.0.0",
+      "5.0.1"
+    ],
+    [
+      "yumi-py",
+      "1.0.10",
+      "1.1.13"
+    ],
+    [
+      "zbrainsoft-dose-for-excel",
+      "3.6.8",
+      "3.6.11"
+    ],
+    [
+      "anfragment-zen-ad-blocker",
+      "0.25.1",
+      "0.29.0"
+    ],
+    [
+      "zero-install",
+      "2.29.3",
+      "2.30"
+    ],
+    [
+      "ziggity",
+      "0.59.0",
+      "0.66.0"
     ],
     [
       "zoner-photo-studio",
@@ -3150,5 +9090,166 @@
       "34.25"
     ]
   ],
-  "added": []
+  "added": [
+    "5ire",
+    "abf-systems-auto-body-estimator",
+    "abf-systems-heavy-truck-estimator",
+    "aescripts-aibow-genkou",
+    "aescripts-aibow-grid",
+    "aescripts-aibow-impact-burst",
+    "aescripts-aibow-manga-koma",
+    "aescripts-aibow-manga-toner",
+    "aescripts-bao-mask-gradient",
+    "aescripts-brand-manager",
+    "aescripts-burnaway",
+    "aescripts-c4d2hou",
+    "aescripts-connecto",
+    "aescripts-crucible",
+    "aescripts-cutsync",
+    "aescripts-dataink",
+    "aescripts-deep-clear",
+    "aescripts-demult",
+    "aescripts-denoiseai",
+    "aescripts-ether",
+    "aescripts-falloff",
+    "aescripts-feedback-studio",
+    "aescripts-glasser",
+    "aescripts-gpuresize",
+    "aescripts-gravis",
+    "aescripts-holographic-foil",
+    "aescripts-inkguard-prepress-studio",
+    "aescripts-magicmorphing-0001",
+    "aescripts-marbling",
+    "aescripts-metronome-matte",
+    "aescripts-mini-bread",
+    "aescripts-miryaa",
+    "aescripts-mo3d",
+    "aescripts-morph-studio",
+    "aescripts-physic3d",
+    "aescripts-pinr",
+    "aescripts-pip-layout",
+    "aescripts-presets-direct",
+    "aescripts-proradiance",
+    "aescripts-recursive-mosaic",
+    "aescripts-relay",
+    "aescripts-rs-id-manager",
+    "aescripts-shutter",
+    "aescripts-shutter-drag-for-adobe",
+    "aescripts-smoothops",
+    "aescripts-steereo-3d",
+    "aescripts-stemsplitter",
+    "aescripts-streak-warp",
+    "aescripts-streakmachine",
+    "aescripts-system-monitor-pro-for-cinema-4d",
+    "aescripts-textyle-premiere",
+    "aescripts-versioner",
+    "aescripts-vocal-isolator",
+    "aescripts-vocalsplitter",
+    "aescripts-vortex",
+    "alphaplugins-light-leaker",
+    "alphaplugins-permanent-press",
+    "alphaplugins-retrographer",
+    "alphaplugins-spot-wash-dirt",
+    "alphaplugins-spot-wash-halftone",
+    "askimo",
+    "asoftis-video-converter",
+    "atlaswebx",
+    "superhive-market-adaptive-auto-skinning",
+    "superhive-market-cveld-shell-fit-brush",
+    "superhive-market-ganzofx",
+    "superhive-market-image-to-3d",
+    "superhive-market-kit-ops",
+    "superhive-market-q-three-views",
+    "superhive-market-smooth-weights",
+    "superhive-market-springfx",
+    "blockr",
+    "caprocket",
+    "chatmcp",
+    "chessbase-paramount-chess-database",
+    "codenotch",
+    "codeshellmanager",
+    "codinit-dev",
+    "colibri-for-windows",
+    "sparseal-cozyblanket-pro",
+    "crush-cli",
+    "ddm-dedsec-download-manager",
+    "doppelganger",
+    "dosprn",
+    "dramatis-studio",
+    "drive-letter-utility",
+    "eg-docs-editor",
+    "electronic-corrosion-engineer",
+    "euro-office",
+    "ffmpeg-forge",
+    "filter-gallery",
+    "frameshots",
+    "gilisoft-power-uninstaller",
+    "gimespace-vram-drive",
+    "html-match",
+    "hwinfo64-pro",
+    "ibm-spss-amos",
+    "iwin-movie-maker",
+    "izotope-photon",
+    "jixipix-impresso-studio-pro-for-windows",
+    "kiri-container-runtime",
+    "kmspico",
+    "koboldcpp",
+    "lalal-ai-desktop",
+    "legba",
+    "line-6-helix-stadium-native",
+    "alexsjones-llmfit",
+    "lumi-ai",
+    "materialcraft",
+    "matheass",
+    "mecaface",
+    "memokoe-pc-ai-transcription",
+    "microsoft-activation-script",
+    "mine-stablediffusion",
+    "mister-download-manager",
+    "mornye-desktop",
+    "musike",
+    "nectarlink",
+    "nisse-sec-team-docredactnow",
+    "nisse-sec-team-winransomprotect",
+    "nodetool",
+    "novatel-inertial-explorer",
+    "nullclaw",
+    "off-grid-ai",
+    "officecli",
+    "oh-my-pi",
+    "ondesoft-all-in-one-streaming-music-converter",
+    "open-codesign",
+    "opencadstudio",
+    "opengui",
+    "paintfe",
+    "peerpayload-connect",
+    "pi-agent",
+    "project-n-e-k-o",
+    "quiet-markdown",
+    "ravkit-desktop",
+    "realvoice-pro",
+    "reasonix",
+    "rozdll",
+    "sculpt-toolbar-classic",
+    "seedvr2-studio",
+    "rockinchaos-shiru",
+    "sitereal",
+    "sleuth-sx",
+    "softperfect-virtual-disk-trim",
+    "sparseal-wafer",
+    "spokenly",
+    "spotbye-flacora",
+    "starbooru",
+    "swiftify-player",
+    "t3-code",
+    "takehouse-ai-music-creator",
+    "textgen",
+    "texturecraft",
+    "vantage",
+    "wakr",
+    "web-researcher-mcp",
+    "winpopbit",
+    "zseven-openpencil",
+    "zynex-studio"
+  ]
 }
