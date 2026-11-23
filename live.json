@@ -1,6 +1,6 @@
 {
   "baseline": "2026-09-26",
-  "updated": "2026-11-23T18:44:34Z",
+  "updated": "2026-11-23T20:33:41Z",
   "scan": "23 de novembro de 2026",
   "versions": {
     "4k-software-4k-downloader": "6.6.4",
@@ -552,7 +552,7 @@
     "phoenix-code-editor": "5.5.11",
     "saber-handwritten-notes": "1.38.0",
     "francois-jacquet-rosariosis": "13.0.4",
-    "motrix-download-manager": "2.3.0",
+    "motrix-download-manager": "2.4.5",
     "node-js": "26.13.1",
     "tweakhub": "1.8.1",
     "vscodium": "1.143.17232",
@@ -835,7 +835,7 @@
     "techsmith-camtasia-0007": "27.0.0.21317",
     "able-tonlivesuite": "12.4.16",
     "daemon-tools-lite": "12.6.0.2472",
-    "soundcraft": "0.17.1",
+    "soundcraft": "0.20.1",
     "superhive-market-conform-object": "1.7.2",
     "rain-cleaner-pro": "2.23.0",
     "aescripts-neurenamer": "1.0.2",
@@ -933,7 +933,7 @@
     "kaizen-asset-manager": "4.11.3003",
     "lastpass": "5.4.6.1572",
     "ldplayer": "14.0.36",
-    "lynx-share": "0.1.29",
+    "lynx-share": "0.1.30",
     "macrorit-data-wiper": "8.6.0",
     "magix-acid": "2026.0.0.26",
     "magnet-axiom": "10.1.0.48673",
@@ -948,7 +948,7 @@
     "oo-appbuster": "3.1.1029.1",
     "paint-net": "5.2",
     "passfab-4easypartition": "4.5.0.7",
-    "qiling-deep-data-recovery": "4.8.2",
+    "qiling-deep-data-recovery": "4.8.2.20261106",
     "realvnc-vnc-server-enterprise-0001": "7.19.0",
     "resolume-arena-0002": "7.29.0.33052",
     "romain-bourdon-wampserver": "3.4.3",
@@ -1480,7 +1480,80 @@
     "yuhan-blu-ray-dvd-creator": "5.0.1",
     "zbrainsoft-dose-for-excel": "3.6.11",
     "anfragment-zen-ad-blocker": "0.29.0",
-    "zero-install": "2.30"
+    "zero-install": "2.30",
+    "acronis-snap-deploy": "6.0.4625",
+    "advance-steel-addon-for-autodesk-autocad-0016": "2027.0.1",
+    "aescripts-captioneer-for-premiere": "2.0.0",
+    "aescripts-datamosh-for-after-effects": "2.7.2",
+    "aescripts-flowpath-for-after-effects": "1.6",
+    "aescripts-head-to-line-for-after-effects": "2.1",
+    "aescripts-pixelfan-for-after-effects": "1.3.2",
+    "apple-icloud": "15.11.50",
+    "architecture-addon-for-autodesk-autocad-0001": "2027.0.1",
+    "autodesk-alias-autostudio-0016": "2027",
+    "autodesk-autocad-electrical-0006": "2027",
+    "autodesk-autocad-map-3d-0001": "2027",
+    "autodesk-inventor-oem-0025": "2022",
+    "autodesk-navisworks-simulate-0022": "2024",
+    "robot-structural-analysis-0050": "2027",
+    "boris-continuum": "20.0.2",
+    "boris-fx-sapphire-plugins-for-avid-avx": "2027.0",
+    "aloneguid-browser-tamer": "Latest",
+    "camworks-for-solidworks": "2026 SP4",
+    "camworks-shopfloor": "2026 SP4",
+    "camworks-wireedm-for-solid-works": "2026 SP0",
+    "phoenix-fd-3ds-max": "5.25.02",
+    "vray-for-3ds-max": "7.50.00",
+    "chessbase-mega-database": "2027",
+    "civil-3d-addon-for-autodesk-autocad-0022": "2027.1",
+    "cms-intellicad-premium": "15.0",
+    "dehancer-pro-for-ofx-0003": "7.5.1",
+    "dehancer-for-premiere-pro-after-effects-0003": "7.5.1",
+    "freshideas-doc-converter": "4.0.2",
+    "privacyroot-duplicate-file-finder": "423",
+    "files-community-files": "Latest",
+    "dvdvideosoft-free-youtube-download": "4.5.24.1112",
+    "dvdvideosoft-free-youtube-to-mp3-converter": "4.5.24.1112",
+    "friction-graphics": "1.0.0",
+    "gajim": "Latest",
+    "glean": "0.2.7",
+    "graitec-advance-powerpack-for-autodesk-advance-steel-0003": "2027",
+    "gstarcad": "2027 SP2",
+    "gmic-qt-for-gimp": "4.0.8",
+    "hasleo-backup-suite": "6.0.2",
+    "helium-music-manager": "18.2.882",
+    "intuit-quickbooks": "2024 v24.0 R22",
+    "k-lite-codec-pack-11-mega": "20.2.0",
+    "macrium-reflect-x-winpe": "10.0.8989",
+    "mediahuman-youtube-to-mp3-converter": "3.9.24 (0511)",
+    "microstation-powerdraft": "10.11.00.36",
+    "mythicsoft-filelocator": "3568",
+    "niubi-partition-editor-technician-winpe": "10.3.6",
+    "opencv": "5.1.0",
+    "os-cleaner": "Latest",
+    "pdq-deploy": "20.2.31",
+    "pdq-inventory": "20.2.31",
+    "kaleidos-penpot-desktop": "1.0.1",
+    "plant-3d-addon-for-autodesk-autocad-0017": "2027.1",
+    "privacyroot-prevent-restore-free": "128",
+    "prevent-restore": "128",
+    "ptc-creo-0001": "2027.2.0.0",
+    "hans-christian-ihlen-quickinstaller": "1.2.1",
+    "rtools-rdrive-image": "7.3.7315",
+    "famatech-radmin-vpn": "2.1.4952.2",
+    "privacyroot-secret-disk-free": "329",
+    "privacyroot-secret-disk": "329",
+    "privacyroot-secure-delete-free": "226",
+    "privacyroot-secure-delete": "226",
+    "siemens-simcenter-femap-0001": "2606.0001",
+    "solidworks-full-premium": "2027 SP0.0",
+    "spotiflac": "Latest",
+    "summitsoft-creative-fonts-collection": "2026",
+    "supermium": "150.0.7871.289 R3",
+    "broderbund-the-print-shop-deluxe": "23.1.2",
+    "theopenpresenter": "0.12.6",
+    "tweaknow-qr-code-maker": "Latest",
+    "antibody-wiztree": "4.34"
   },
   "add": [
     [
@@ -4026,6 +4099,630 @@
       "Zynex Studio 1.0.0",
       "video",
       0
+    ],
+    [
+      "360-sfx",
+      "360 SFX",
+      "",
+      "360 SFX",
+      "audio",
+      0
+    ],
+    [
+      "3design",
+      "3Design",
+      "",
+      "3Design",
+      "design",
+      0
+    ],
+    [
+      "adeel-download-manager-adm",
+      "Adeel Download Manager (ADM)",
+      "",
+      "Adeel Download Manager (ADM)",
+      "utilitarios",
+      0
+    ],
+    [
+      "amazon-alexa-for-windows",
+      "Amazon Alexa",
+      "",
+      "Amazon Alexa",
+      "utilitarios",
+      0
+    ],
+    [
+      "bitrecove-ost-to-pdf-wizard",
+      "BitRecove OST to PDF Wizard",
+      "",
+      "BitRecove OST to PDF Wizard",
+      "escritorio",
+      0
+    ],
+    [
+      "bitrecover-aadhaar-card-password-remover",
+      "BitRecover Aadhaar Card Password Remover",
+      "",
+      "BitRecover Aadhaar Card Password Remover",
+      "escritorio",
+      0
+    ],
+    [
+      "bitrecover-dbx-converter-wizard",
+      "BitRecover DBX Converter Wizard",
+      "",
+      "BitRecover DBX Converter Wizard",
+      "recuperacao",
+      0
+    ],
+    [
+      "bitrecover-dxl-converter-wizard",
+      "BitRecover DXL Converter Wizard",
+      "",
+      "BitRecover DXL Converter Wizard",
+      "utilitarios",
+      0
+    ],
+    [
+      "bitrecover-dxl-to-pst-wizard",
+      "BitRecover DXL to PST Wizard",
+      "",
+      "BitRecover DXL to PST Wizard",
+      "utilitarios",
+      0
+    ],
+    [
+      "bitrecover-edb-converter-wizard",
+      "BitRecover EDB Converter Wizard",
+      "",
+      "BitRecover EDB Converter Wizard",
+      "utilitarios",
+      0
+    ],
+    [
+      "bitrecover-email-converter-wizard",
+      "BitRecover Email Converter Wizard",
+      "",
+      "BitRecover Email Converter Wizard",
+      "utilitarios",
+      0
+    ],
+    [
+      "bitrecover-emlx-converter-wizard",
+      "BitRecover EMLX Converter Wizard",
+      "",
+      "BitRecover EMLX Converter Wizard",
+      "utilitarios",
+      0
+    ],
+    [
+      "bitrecover-hermes-mail-converter-wizard",
+      "BitRecover Hermes Mail Converter Wizard",
+      "",
+      "BitRecover Hermes Mail Converter Wizard",
+      "utilitarios",
+      0
+    ],
+    [
+      "bitrecover-mailenable-converter-wizard",
+      "BitRecover MailEnable Converter Wizard",
+      "",
+      "BitRecover MailEnable Converter Wizard",
+      "utilitarios",
+      0
+    ],
+    [
+      "bitrecover-nst-converter-wizard",
+      "BitRecover NST Converter Wizard",
+      "",
+      "BitRecover NST Converter Wizard",
+      "utilitarios",
+      0
+    ],
+    [
+      "bitrecover-office-password-remover-tool",
+      "BitRecover Office Password Remover Tool",
+      "",
+      "BitRecover Office Password Remover Tool",
+      "escritorio",
+      0
+    ],
+    [
+      "bitrecover-olm-converter-wizard",
+      "BitRecover OLM Converter Wizard",
+      "",
+      "BitRecover OLM Converter Wizard",
+      "escritorio",
+      0
+    ],
+    [
+      "bitrecover-pst-unlock-wizard",
+      "BitRecover PST Unlock Wizard",
+      "",
+      "BitRecover PST Unlock Wizard",
+      "escritorio",
+      0
+    ],
+    [
+      "bitrecover-xml-converter-wizard",
+      "BitRecover XML Converter Wizard",
+      "",
+      "BitRecover XML Converter Wizard",
+      "utilitarios",
+      0
+    ],
+    [
+      "codejock",
+      "Codejock",
+      "",
+      "Codejock",
+      "desenvolvimento",
+      0
+    ],
+    [
+      "ddrescue-gui",
+      "DDRescue-GUI",
+      "",
+      "DDRescue-GUI",
+      "recuperacao",
+      0
+    ],
+    [
+      "dia-browser",
+      "Dia Browser",
+      "",
+      "Dia Browser",
+      "navegadores",
+      0
+    ],
+    [
+      "dimocap-agi",
+      "DiMocap AGI",
+      "",
+      "DiMocap AGI",
+      "utilitarios",
+      0
+    ],
+    [
+      "dockable",
+      "Dockable",
+      "",
+      "Dockable",
+      "desktop",
+      0
+    ],
+    [
+      "dolby-atmos-renderer",
+      "Dolby Atmos Renderer",
+      "",
+      "Dolby Atmos Renderer",
+      "audio",
+      0
+    ],
+    [
+      "exactflat",
+      "ExactFlat",
+      "",
+      "ExactFlat",
+      "design",
+      0
+    ],
+    [
+      "fastflowlm",
+      "FastFlowLM",
+      "",
+      "FastFlowLM",
+      "desenvolvimento",
+      0
+    ],
+    [
+      "filenurse",
+      "FileNurse",
+      "",
+      "FileNurse",
+      "backup",
+      0
+    ],
+    [
+      "fireplexity",
+      "Fireplexity",
+      "",
+      "Fireplexity",
+      "internet",
+      0
+    ],
+    [
+      "flixo",
+      "Flixo",
+      "",
+      "Flixo",
+      "engenharia",
+      0
+    ],
+    [
+      "fontself",
+      "Fontself",
+      "",
+      "Fontself",
+      "design",
+      0
+    ],
+    [
+      "gardenbox-3d",
+      "GardenBox 3D",
+      "",
+      "GardenBox 3D",
+      "design",
+      0
+    ],
+    [
+      "gerbtool",
+      "Gerbtool",
+      "",
+      "Gerbtool",
+      "engenharia",
+      0
+    ],
+    [
+      "hiddendir",
+      "HiddenDIR",
+      "",
+      "HiddenDIR",
+      "utilitarios",
+      0
+    ],
+    [
+      "hitgroove",
+      "HitGroove",
+      "",
+      "HitGroove",
+      "audio",
+      0
+    ],
+    [
+      "ip-mac-scanner",
+      "IP-Mac Scanner",
+      "",
+      "IP-Mac Scanner",
+      "rede",
+      0
+    ],
+    [
+      "maptek-blastlogic",
+      "Maptek BlastLogic",
+      "",
+      "Maptek BlastLogic",
+      "engenharia",
+      0
+    ],
+    [
+      "maptek-domainmcf",
+      "Maptek DomainMCF",
+      "",
+      "Maptek DomainMCF",
+      "engenharia",
+      0
+    ],
+    [
+      "maptek-evolution",
+      "Maptek Evolution",
+      "",
+      "Maptek Evolution",
+      "engenharia",
+      0
+    ],
+    [
+      "maptek-geologycore",
+      "Maptek GeologyCore",
+      "",
+      "Maptek GeologyCore",
+      "engenharia",
+      0
+    ],
+    [
+      "maptek-geospatial-manager",
+      "Maptek GeoSpatial Manager",
+      "",
+      "Maptek GeoSpatial Manager",
+      "engenharia",
+      0
+    ],
+    [
+      "maptek-laser-scanners",
+      "Maptek Laser Scanners",
+      "",
+      "Maptek Laser Scanners",
+      "engenharia",
+      0
+    ],
+    [
+      "maptek-pointmodeller",
+      "Maptek PointModeller",
+      "",
+      "Maptek PointModeller",
+      "engenharia",
+      0
+    ],
+    [
+      "maptek-pointstudio",
+      "Maptek PointStudio",
+      "",
+      "Maptek PointStudio",
+      "engenharia",
+      0
+    ],
+    [
+      "maptek-resource-tracking",
+      "Maptek Resource Tracking",
+      "",
+      "Maptek Resource Tracking",
+      "engenharia",
+      0
+    ],
+    [
+      "maptek-sentry",
+      "Maptek Sentry",
+      "",
+      "Maptek Sentry",
+      "engenharia",
+      0
+    ],
+    [
+      "maptek-vestrex",
+      "Maptek Vestrex",
+      "",
+      "Maptek Vestrex",
+      "engenharia",
+      0
+    ],
+    [
+      "maptek-visionv2x",
+      "Maptek VisionV2X",
+      "",
+      "Maptek VisionV2X",
+      "engenharia",
+      0
+    ],
+    [
+      "mp3-covertag",
+      "MP3 CoverTag",
+      "",
+      "MP3 CoverTag",
+      "audio",
+      0
+    ],
+    [
+      "nailer-ofx",
+      "Nailer OFX",
+      "",
+      "Nailer OFX",
+      "design",
+      0
+    ],
+    [
+      "noterious",
+      "Noterious",
+      "",
+      "Noterious",
+      "desenvolvimento",
+      0
+    ],
+    [
+      "onlywords-wordclock",
+      "OnlyWords - WordClock",
+      "",
+      "OnlyWords - WordClock",
+      "desktop",
+      0
+    ],
+    [
+      "optima-opty-way",
+      "Optima Opty Way",
+      "",
+      "Optima Opty Way",
+      "engenharia",
+      0
+    ],
+    [
+      "overtone-captions",
+      "Overtone Captions",
+      "",
+      "Overtone Captions",
+      "utilitarios",
+      0
+    ],
+    [
+      "pc-total-info",
+      "PC Total Info",
+      "",
+      "PC Total Info",
+      "utilitarios",
+      0
+    ],
+    [
+      "physcad",
+      "PhysCAD",
+      "",
+      "PhysCAD",
+      "engenharia",
+      0
+    ],
+    [
+      "picoclaw",
+      "PicoClaw",
+      "",
+      "PicoClaw",
+      "utilitarios",
+      0
+    ],
+    [
+      "qg-suite",
+      "QG Suite",
+      "",
+      "QG Suite",
+      "video",
+      0
+    ],
+    [
+      "quad-remesher",
+      "Quad Remesher",
+      "",
+      "Quad Remesher",
+      "design",
+      0
+    ],
+    [
+      "qwix",
+      "Qwix",
+      "",
+      "Qwix",
+      "design",
+      0
+    ],
+    [
+      "recora-unlimited-screen-recording",
+      "Recora (Unlimited Screen Recording)",
+      "",
+      "Recora (Unlimited Screen Recording)",
+      "utilitarios",
+      0
+    ],
+    [
+      "screenapp",
+      "ScreenApp",
+      "",
+      "ScreenApp",
+      "utilitarios",
+      0
+    ],
+    [
+      "spyweb",
+      "SpyWeb",
+      "",
+      "SpyWeb",
+      "rede",
+      0
+    ],
+    [
+      "tajima-dg",
+      "Tajima DG",
+      "",
+      "Tajima DG",
+      "design",
+      0
+    ],
+    [
+      "the-lazy-motion-library",
+      "The Lazy motion library",
+      "",
+      "The Lazy motion library",
+      "design",
+      0
+    ],
+    [
+      "tomen",
+      "Tomen",
+      "",
+      "Tomen",
+      "escritorio",
+      0
+    ],
+    [
+      "torrentmax",
+      "TorrentMax",
+      "",
+      "TorrentMax",
+      "downloads",
+      0
+    ],
+    [
+      "typerelay",
+      "Typerelay",
+      "",
+      "Typerelay",
+      "utilitarios",
+      0
+    ],
+    [
+      "uninstaller-pro",
+      "Uninstaller PRO",
+      "",
+      "Uninstaller PRO",
+      "utilitarios",
+      0
+    ],
+    [
+      "usb-toolkit",
+      "USB ToolKit",
+      "",
+      "USB ToolKit",
+      "utilitarios",
+      0
+    ],
+    [
+      "vault-pro",
+      "Vault Pro",
+      "",
+      "Vault Pro",
+      "video",
+      0
+    ],
+    [
+      "vayli",
+      "Vayli",
+      "",
+      "Vayli",
+      "utilitarios",
+      0
+    ],
+    [
+      "visualaf-scripts",
+      "Visual.af Scripts",
+      "",
+      "Visual.af Scripts",
+      "design",
+      0
+    ],
+    [
+      "voidllm",
+      "VoidLLM",
+      "",
+      "VoidLLM",
+      "desenvolvimento",
+      0
+    ],
+    [
+      "win-key-view",
+      "Win Key View",
+      "",
+      "Win Key View",
+      "utilitarios",
+      0
+    ],
+    [
+      "winmemory",
+      "WinMemory",
+      "",
+      "WinMemory",
+      "utilitarios",
+      0
+    ],
+    [
+      "wrapstyler",
+      "Wrapstyler",
+      "",
+      "Wrapstyler",
+      "design",
+      0
+    ],
+    [
+      "yogurt",
+      "Yogurt",
+      "",
+      "Yogurt",
+      "utilitarios",
+      0
     ]
   ],
   "bumps": [
@@ -4118,6 +4815,11 @@
       "jan-goyvaerts-acetext",
       "4.4.1",
       "4.4.2"
+    ],
+    [
+      "acronis-snap-deploy",
+      "",
+      "6.0.4625"
     ],
     [
       "active-killdisk",
@@ -4235,6 +4937,11 @@
       "3.1.7.8"
     ],
     [
+      "advance-steel-addon-for-autodesk-autocad-0016",
+      "",
+      "2027.0.1"
+    ],
+    [
       "advanced-installer-architect",
       "24.0",
       "24.2.1"
@@ -4258,6 +4965,11 @@
       "aescripts-ai-depth-of-field",
       "1.1",
       "1.3.6"
+    ],
+    [
+      "aescripts-captioneer-for-premiere",
+      "",
+      "2.0.0"
     ],
     [
       "aescripts-color-shift",
@@ -4330,6 +5042,11 @@
       "1.2.0"
     ],
     [
+      "aescripts-datamosh-for-after-effects",
+      "",
+      "2.7.2"
+    ],
+    [
       "aescripts-dreamglare",
       "1.1.0",
       "1.1.1"
@@ -4343,6 +5060,11 @@
       "aescripts-face-3d",
       "1.3.1",
       "2 v2.0.1"
+    ],
+    [
+      "aescripts-flowpath-for-after-effects",
+      "",
+      "1.6"
     ],
     [
       "aescripts-flowr",
@@ -4368,6 +5090,11 @@
       "aescripts-gpudog-deep",
       "1.5.0",
       "1.5.2"
+    ],
+    [
+      "aescripts-head-to-line-for-after-effects",
+      "",
+      "2.1"
     ],
     [
       "aescripts-icondock",
@@ -4423,6 +5150,11 @@
       "aescripts-nano-banana-generative-fill-for-photoshop",
       "2.3.0",
       "2.4.0"
+    ],
+    [
+      "aescripts-pixelfan-for-after-effects",
+      "",
+      "1.3.2"
     ],
     [
       "aescripts-pluck",
@@ -4675,6 +5407,11 @@
       "3.1.6"
     ],
     [
+      "apple-icloud",
+      "",
+      "15.11.50"
+    ],
+    [
       "aquasoft-slideshow-premium",
       "17.2.08",
       "17.3.01"
@@ -4693,6 +5430,11 @@
       "archimate-modelling-tool",
       "5.10.0",
       "5.11.0"
+    ],
+    [
+      "architecture-addon-for-autodesk-autocad-0001",
+      "",
+      "2027.0.1"
     ],
     [
       "arduino-ide-for-windows",
@@ -4780,14 +5522,44 @@
       "1.1.11"
     ],
     [
+      "autodesk-alias-autostudio-0016",
+      "",
+      "2027"
+    ],
+    [
+      "autodesk-autocad-electrical-0006",
+      "",
+      "2027"
+    ],
+    [
+      "autodesk-autocad-map-3d-0001",
+      "",
+      "2027"
+    ],
+    [
+      "autodesk-inventor-oem-0025",
+      "",
+      "2022"
+    ],
+    [
       "autodesk-inventor-0035",
       "2027.1",
       "2027.2"
     ],
     [
+      "autodesk-navisworks-simulate-0022",
+      "",
+      "2024"
+    ],
+    [
       "autodesk-revit-0041",
       "2027.3",
       "2027.4"
+    ],
+    [
+      "robot-structural-analysis-0050",
+      "",
+      "2027"
     ],
     [
       "autohotkey",
@@ -4995,8 +5767,18 @@
       "2026.0.0.26"
     ],
     [
+      "boris-continuum",
+      "",
+      "20.0.2"
+    ],
+    [
       "borisfx-sapphire-0002",
       "2026.52",
+      "2027.0"
+    ],
+    [
+      "boris-fx-sapphire-plugins-for-avid-avx",
+      "",
       "2027.0"
     ],
     [
@@ -5033,6 +5815,11 @@
       "broadgun-pdfmachine",
       "20.69",
       "20.71"
+    ],
+    [
+      "aloneguid-browser-tamer",
+      "3.7.3",
+      "Latest"
     ],
     [
       "bulk-image-downloader",
@@ -5073,6 +5860,21 @@
       "calibre",
       "9.15.0",
       "9.19.0"
+    ],
+    [
+      "camworks-for-solidworks",
+      "",
+      "2026 SP4"
+    ],
+    [
+      "camworks-shopfloor",
+      "",
+      "2026 SP4"
+    ],
+    [
+      "camworks-wireedm-for-solid-works",
+      "",
+      "2026 SP0"
     ],
     [
       "capcut",
@@ -5125,6 +5927,16 @@
       "1.8.1"
     ],
     [
+      "phoenix-fd-3ds-max",
+      "",
+      "5.25.02"
+    ],
+    [
+      "vray-for-3ds-max",
+      "",
+      "7.50.00"
+    ],
+    [
       "chaos-vantage",
       "3.3.1",
       "3.4.1"
@@ -5160,6 +5972,11 @@
       "27 v12.00.0"
     ],
     [
+      "chessbase-mega-database",
+      "",
+      "2027"
+    ],
+    [
       "chrispc-videotube-downloader",
       "15.26.1030",
       "15.26.1114"
@@ -5173,6 +5990,11 @@
       "video-converter-by-cisdem",
       "6.1.0.6100",
       "7.0.0.7000"
+    ],
+    [
+      "civil-3d-addon-for-autodesk-autocad-0022",
+      "",
+      "2027.1"
     ],
     [
       "ck-image-and-pdf-reducer",
@@ -5198,6 +6020,11 @@
       "close-all-windows",
       "6.1",
       "6.2"
+    ],
+    [
+      "cms-intellicad-premium",
+      "",
+      "15.0"
     ],
     [
       "coaa-planeplotter",
@@ -5405,6 +6232,16 @@
       "2.15"
     ],
     [
+      "dehancer-pro-for-ofx-0003",
+      "",
+      "7.5.1"
+    ],
+    [
+      "dehancer-for-premiere-pro-after-effects-0003",
+      "",
+      "7.5.1"
+    ],
+    [
       "dehancer-pro-vegas-ofx",
       "7.4.2",
       "7.5.1"
@@ -5510,6 +6347,11 @@
       "2.1.21"
     ],
     [
+      "freshideas-doc-converter",
+      "",
+      "4.0.2"
+    ],
+    [
       "double-commander",
       "1.2.9",
       "1.2.11"
@@ -5563,6 +6405,11 @@
       "acrosync-duplicacy",
       "3.3.0",
       "3.3.1"
+    ],
+    [
+      "privacyroot-duplicate-file-finder",
+      "",
+      "423"
     ],
     [
       "spaqi-eagle-pdf-editor",
@@ -5745,6 +6592,11 @@
       "7.0.1.20"
     ],
     [
+      "files-community-files",
+      "4.2.9.0",
+      "Latest"
+    ],
+    [
       "files-fm-sync",
       "3.16.22",
       "3.16.39"
@@ -5865,6 +6717,16 @@
       "8.30.00.9631"
     ],
     [
+      "dvdvideosoft-free-youtube-download",
+      "",
+      "4.5.24.1112"
+    ],
+    [
+      "dvdvideosoft-free-youtube-to-mp3-converter",
+      "",
+      "4.5.24.1112"
+    ],
+    [
       "freecommander-xe",
       "2026.953",
       "2026.956"
@@ -5880,6 +6742,11 @@
       "0.26.0"
     ],
     [
+      "friction-graphics",
+      "",
+      "1.0.0"
+    ],
+    [
       "frostwire",
       "7.1.3",
       "7.1.5"
@@ -5893,6 +6760,11 @@
       "furmark2",
       "2.10.2",
       "2.11.0.4"
+    ],
+    [
+      "gajim",
+      "1.9.5",
+      "Latest"
     ],
     [
       "mikf-gallery-dl",
@@ -6005,6 +6877,11 @@
       "3.11.1164"
     ],
     [
+      "glean",
+      "",
+      "0.2.7"
+    ],
+    [
       "gogs",
       "0.14.3",
       "0.14.4"
@@ -6060,6 +6937,11 @@
       "5.1.2"
     ],
     [
+      "graitec-advance-powerpack-for-autodesk-advance-steel-0003",
+      "",
+      "2027"
+    ],
+    [
       "gram-code-editor",
       "3.4.1",
       "3.5.2"
@@ -6080,6 +6962,16 @@
       "3.0.5.4"
     ],
     [
+      "gstarcad",
+      "",
+      "2027 SP2"
+    ],
+    [
+      "gmic-qt-for-gimp",
+      "",
+      "4.0.8"
+    ],
+    [
       "hallmark-card-studio",
       "27.0.0.10",
       "27.0.0.11"
@@ -6088,6 +6980,11 @@
       "hard-disk-sentinel",
       "6.40.4",
       "6.40.6"
+    ],
+    [
+      "hasleo-backup-suite",
+      "",
+      "6.0.2"
     ],
     [
       "hasleo-backup-suite-free",
@@ -6108,6 +7005,11 @@
       "imput-helium-browser",
       "0.20.2.1",
       "0.22.2.1"
+    ],
+    [
+      "helium-music-manager",
+      "",
+      "18.2.882"
     ],
     [
       "help-and-manual",
@@ -6263,6 +7165,11 @@
       "internet-download-manager",
       "6.43.11",
       "6.43.18"
+    ],
+    [
+      "intuit-quickbooks",
+      "",
+      "2024 v24.0 R22"
     ],
     [
       "iobit-driver-booster-free",
@@ -6455,6 +7362,11 @@
       "1.12.1.0"
     ],
     [
+      "k-lite-codec-pack-11-mega",
+      "",
+      "20.2.0"
+    ],
+    [
       "kaizen-home-manager",
       "4.10.1002",
       "4.11.1002"
@@ -6627,11 +7539,16 @@
     [
       "lynx-share",
       "0.1.25",
-      "0.1.29"
+      "0.1.30"
     ],
     [
       "macrium-reflect-x",
       "10.0.8843",
+      "10.0.8989"
+    ],
+    [
+      "macrium-reflect-x-winpe",
+      "",
       "10.0.8989"
     ],
     [
@@ -6750,6 +7667,11 @@
       "1.9.3"
     ],
     [
+      "mediahuman-youtube-to-mp3-converter",
+      "",
+      "3.9.24 (0511)"
+    ],
+    [
       "zackriya-solutions-meetily",
       "0.4.1",
       "0.5.0"
@@ -6818,6 +7740,11 @@
       "microsoft-windows-terminal",
       "1.25.2733.0",
       "1.25.3131.0"
+    ],
+    [
+      "microstation-powerdraft",
+      "",
+      "10.11.00.36"
     ],
     [
       "mikrotik-routeros",
@@ -6922,7 +7849,7 @@
     [
       "motrix-download-manager",
       "2.1.0",
-      "2.3.0"
+      "2.4.5"
     ],
     [
       "mountain-duck",
@@ -6988,6 +7915,11 @@
       "my-tube-software-tubedownload-pro",
       "7.5.32",
       "7.5.38"
+    ],
+    [
+      "mythicsoft-filelocator",
+      "",
+      "3568"
     ],
     [
       "mythicsoft-filelocator-pro",
@@ -7142,6 +8074,11 @@
     [
       "niubi-tech-partition-editor",
       "10.3.2",
+      "10.3.6"
+    ],
+    [
+      "niubi-partition-editor-technician-winpe",
+      "",
       "10.3.6"
     ],
     [
@@ -7335,6 +8272,11 @@
       "5.3"
     ],
     [
+      "opencv",
+      "",
+      "5.1.0"
+    ],
+    [
       "opengl-extension-viewer",
       "7.4.9",
       "7.4.12"
@@ -7408,6 +8350,11 @@
       "ortmann-pixel-art-designer",
       "7.8.4.777",
       "8.0.3"
+    ],
+    [
+      "os-cleaner",
+      "2.0",
+      "Latest"
     ],
     [
       "equialitie-ouisync",
@@ -7535,9 +8482,24 @@
       "1.0.1.0"
     ],
     [
+      "pdq-deploy",
+      "",
+      "20.2.31"
+    ],
+    [
+      "pdq-inventory",
+      "",
+      "20.2.31"
+    ],
+    [
       "pelton",
       "2026.4.6",
       "2026.4.8"
+    ],
+    [
+      "kaleidos-penpot-desktop",
+      "",
+      "1.0.1"
     ],
     [
       "pepakura-designer",
@@ -7615,6 +8577,11 @@
       "2.1.2.5"
     ],
     [
+      "plant-3d-addon-for-autodesk-autocad-0017",
+      "",
+      "2027.1"
+    ],
+    [
       "dvdfab-media-player",
       "7.0.6.2",
       "7.0.6.7"
@@ -7638,6 +8605,16 @@
       "prepros",
       "7.40.4",
       "7.40.6"
+    ],
+    [
+      "privacyroot-prevent-restore-free",
+      "",
+      "128"
+    ],
+    [
+      "prevent-restore",
+      "",
+      "128"
     ],
     [
       "print-artist-gold",
@@ -7690,6 +8667,11 @@
       "5.1.9"
     ],
     [
+      "ptc-creo-0001",
+      "",
+      "2027.2.0.0"
+    ],
+    [
       "ptc-creo-schematics-0001",
       "13.0.0",
       "2027.0.0.0"
@@ -7722,7 +8704,7 @@
     [
       "qiling-deep-data-recovery",
       "4.8.0.20260626",
-      "4.8.2"
+      "4.8.2.20261106"
     ],
     [
       "qiling-disk-master",
@@ -7765,6 +8747,11 @@
       "6.8.0"
     ],
     [
+      "hans-christian-ihlen-quickinstaller",
+      "",
+      "1.2.1"
+    ],
+    [
       "quickmemorytestok",
       "5.44",
       "5.61"
@@ -7775,6 +8762,11 @@
       "1.1.85"
     ],
     [
+      "rtools-rdrive-image",
+      "",
+      "7.3.7315"
+    ],
+    [
       "r2modman",
       "3.2.20",
       "3.2.21"
@@ -7783,6 +8775,11 @@
       "radare2",
       "6.2.2",
       "6.2.6"
+    ],
+    [
+      "famatech-radmin-vpn",
+      "",
+      "2.1.4952.2"
     ],
     [
       "rain-cleaner-pro",
@@ -8030,9 +9027,29 @@
       "19.0.1.3110"
     ],
     [
+      "privacyroot-secret-disk-free",
+      "",
+      "329"
+    ],
+    [
+      "privacyroot-secret-disk",
+      "",
+      "329"
+    ],
+    [
       "kilho-secretdns",
       "4.0.3",
       "4.1.3"
+    ],
+    [
+      "privacyroot-secure-delete-free",
+      "",
+      "226"
+    ],
+    [
+      "privacyroot-secure-delete",
+      "",
+      "226"
     ],
     [
       "seelen-ui",
@@ -8053,6 +9070,11 @@
       "shotcut",
       "26.9.27",
       "26.11.15"
+    ],
+    [
+      "siemens-simcenter-femap-0001",
+      "",
+      "2606.0001"
     ],
     [
       "signal-messenger-desktop",
@@ -8160,9 +9182,14 @@
       "15.60"
     ],
     [
+      "solidworks-full-premium",
+      "",
+      "2027 SP0.0"
+    ],
+    [
       "soundcraft",
       "0.14.0",
-      "0.17.1"
+      "0.20.1"
     ],
     [
       "soundswitch",
@@ -8193,6 +9220,11 @@
       "splunk-enterprise",
       "10.4.4",
       "10.6.2.5"
+    ],
+    [
+      "spotiflac",
+      "7.2.2",
+      "Latest"
     ],
     [
       "spybot-anti-beacon",
@@ -8290,6 +9322,11 @@
       "5.4.0"
     ],
     [
+      "summitsoft-creative-fonts-collection",
+      "",
+      "2026"
+    ],
+    [
       "blender-market-artell-auto-rig-pro",
       "3.78.64",
       "3.79.17"
@@ -8318,6 +9355,11 @@
       "superhive-market-erasers45-studios-voxelvision-iii",
       "2.0.1",
       "4.2.0"
+    ],
+    [
+      "supermium",
+      "",
+      "150.0.7871.289 R3"
     ],
     [
       "supernotes",
@@ -8470,6 +9512,16 @@
       "12.4"
     ],
     [
+      "broderbund-the-print-shop-deluxe",
+      "",
+      "23.1.2"
+    ],
+    [
+      "theopenpresenter",
+      "",
+      "0.12.6"
+    ],
+    [
       "thimeo-relay",
       "11.05",
       "11.07"
@@ -8588,6 +9640,11 @@
       "tweakhub",
       "1.6.1",
       "1.8.1"
+    ],
+    [
+      "tweaknow-qr-code-maker",
+      "4.3.0",
+      "Latest"
     ],
     [
       "tweaknow-winsecret-for-windows-10",
@@ -8965,6 +10022,11 @@
       "4.34"
     ],
     [
+      "antibody-wiztree",
+      "",
+      "4.34"
+    ],
+    [
       "wondershare-recoverit-0001",
       "15.0.0.22",
       "15.0.4.5"
@@ -9091,9 +10153,12 @@
     ]
   ],
   "added": [
+    "360-sfx",
+    "3design",
     "5ire",
     "abf-systems-auto-body-estimator",
     "abf-systems-heavy-truck-estimator",
+    "adeel-download-manager-adm",
     "aescripts-aibow-genkou",
     "aescripts-aibow-grid",
     "aescripts-aibow-impact-burst",
@@ -9151,9 +10216,25 @@
     "alphaplugins-retrographer",
     "alphaplugins-spot-wash-dirt",
     "alphaplugins-spot-wash-halftone",
+    "amazon-alexa-for-windows",
     "askimo",
     "asoftis-video-converter",
     "atlaswebx",
+    "bitrecove-ost-to-pdf-wizard",
+    "bitrecover-aadhaar-card-password-remover",
+    "bitrecover-dbx-converter-wizard",
+    "bitrecover-dxl-converter-wizard",
+    "bitrecover-dxl-to-pst-wizard",
+    "bitrecover-edb-converter-wizard",
+    "bitrecover-email-converter-wizard",
+    "bitrecover-emlx-converter-wizard",
+    "bitrecover-hermes-mail-converter-wizard",
+    "bitrecover-mailenable-converter-wizard",
+    "bitrecover-nst-converter-wizard",
+    "bitrecover-office-password-remover-tool",
+    "bitrecover-olm-converter-wizard",
+    "bitrecover-pst-unlock-wizard",
+    "bitrecover-xml-converter-wizard",
     "superhive-market-adaptive-auto-skinning",
     "superhive-market-cveld-shell-fit-brush",
     "superhive-market-ganzofx",
@@ -9166,6 +10247,7 @@
     "caprocket",
     "chatmcp",
     "chessbase-paramount-chess-database",
+    "codejock",
     "codenotch",
     "codeshellmanager",
     "codinit-dev",
@@ -9173,6 +10255,11 @@
     "sparseal-cozyblanket-pro",
     "crush-cli",
     "ddm-dedsec-download-manager",
+    "ddrescue-gui",
+    "dia-browser",
+    "dimocap-agi",
+    "dockable",
+    "dolby-atmos-renderer",
     "doppelganger",
     "dosprn",
     "dramatis-studio",
@@ -9180,14 +10267,25 @@
     "eg-docs-editor",
     "electronic-corrosion-engineer",
     "euro-office",
+    "exactflat",
+    "fastflowlm",
     "ffmpeg-forge",
+    "filenurse",
     "filter-gallery",
+    "fireplexity",
+    "flixo",
+    "fontself",
     "frameshots",
+    "gardenbox-3d",
+    "gerbtool",
     "gilisoft-power-uninstaller",
     "gimespace-vram-drive",
+    "hiddendir",
+    "hitgroove",
     "html-match",
     "hwinfo64-pro",
     "ibm-spss-amos",
+    "ip-mac-scanner",
     "iwin-movie-maker",
     "izotope-photon",
     "jixipix-impresso-studio-pro-for-windows",
@@ -9199,6 +10297,18 @@
     "line-6-helix-stadium-native",
     "alexsjones-llmfit",
     "lumi-ai",
+    "maptek-blastlogic",
+    "maptek-domainmcf",
+    "maptek-evolution",
+    "maptek-geologycore",
+    "maptek-geospatial-manager",
+    "maptek-laser-scanners",
+    "maptek-pointmodeller",
+    "maptek-pointstudio",
+    "maptek-resource-tracking",
+    "maptek-sentry",
+    "maptek-vestrex",
+    "maptek-visionv2x",
     "materialcraft",
     "matheass",
     "mecaface",
@@ -9207,29 +10317,43 @@
     "mine-stablediffusion",
     "mister-download-manager",
     "mornye-desktop",
+    "mp3-covertag",
     "musike",
+    "nailer-ofx",
     "nectarlink",
     "nisse-sec-team-docredactnow",
     "nisse-sec-team-winransomprotect",
     "nodetool",
+    "noterious",
     "novatel-inertial-explorer",
     "nullclaw",
     "off-grid-ai",
     "officecli",
     "oh-my-pi",
     "ondesoft-all-in-one-streaming-music-converter",
+    "onlywords-wordclock",
     "open-codesign",
     "opencadstudio",
     "opengui",
+    "optima-opty-way",
+    "overtone-captions",
     "paintfe",
+    "pc-total-info",
     "peerpayload-connect",
+    "physcad",
     "pi-agent",
+    "picoclaw",
     "project-n-e-k-o",
+    "qg-suite",
+    "quad-remesher",
     "quiet-markdown",
+    "qwix",
     "ravkit-desktop",
     "realvoice-pro",
     "reasonix",
+    "recora-unlimited-screen-recording",
     "rozdll",
+    "screenapp",
     "sculpt-toolbar-classic",
     "seedvr2-studio",
     "rockinchaos-shiru",
@@ -9239,16 +10363,32 @@
     "sparseal-wafer",
     "spokenly",
     "spotbye-flacora",
+    "spyweb",
     "starbooru",
     "swiftify-player",
     "t3-code",
+    "tajima-dg",
     "takehouse-ai-music-creator",
     "textgen",
     "texturecraft",
+    "the-lazy-motion-library",
+    "tomen",
+    "torrentmax",
+    "typerelay",
+    "uninstaller-pro",
+    "usb-toolkit",
     "vantage",
+    "vault-pro",
+    "vayli",
+    "visualaf-scripts",
+    "voidllm",
     "wakr",
     "web-researcher-mcp",
+    "win-key-view",
+    "winmemory",
     "winpopbit",
+    "wrapstyler",
+    "yogurt",
     "zseven-openpencil",
     "zynex-studio"
   ]
