@@ -1,6 +1,6 @@
 {
   "scan": "23 de novembro de 2026",
-  "updated": "2026-11-23T12:34:00Z",
+  "updated": "2026-11-23T12:53:00Z",
   "ciclo": 10,
   "estado": "INCOMPLETO",
   "janela": {
@@ -8,6 +8,11 @@
     "ate": "2026-11-23"
   },
   "bumps": [
+    [
+      "dot-net-checker",
+      "1.7",
+      "1.8"
+    ],
     [
       "3delite-duplicate-picture-finder",
       "1.0.115.125",
@@ -34,6 +39,11 @@
       "8.02.78162"
     ],
     [
+      "access-agility-wifi-scanner",
+      "2026.2.35143.0",
+      "2026.2.35152.0"
+    ],
+    [
       "active-killdisk",
       "26.0.15",
       "26.0.28"
@@ -54,7 +64,7 @@
       "4.29.0"
     ],
     [
-      "aqua-slideshow-ultimate",
+      "aquasoft-slideshow-premium",
       "17.2.08",
       "17.3.01"
     ],
@@ -64,19 +74,24 @@
       "17.3.01"
     ],
     [
-      "aquasoft-slideshow-premium",
+      "aqua-slideshow-ultimate",
       "17.2.08",
       "17.3.01"
+    ],
+    [
+      "ashampoo-snap-pro-26",
+      "26.0.6",
+      "26.0.8"
+    ],
+    [
+      "kaizen-asset-manager",
+      "4.10.3002",
+      "4.11.3003"
     ],
     [
       "astute-graphics-plug-ins-elite-bundle",
       "4.5.2",
       "4.6.0"
-    ],
-    [
-      "avanquest-olympia-logo-creation",
-      "1.7.7.64",
-      "1.7.7.80"
     ],
     [
       "avs-image-converter",
@@ -109,11 +124,6 @@
       "2.84.01"
     ],
     [
-      "bigilsoft-windowtop",
-      "5.32.6",
-      "5.33"
-    ],
-    [
       "bluebeam-revu",
       "21.8.0",
       "21.10"
@@ -127,6 +137,16 @@
       "blumentals-webuilder",
       "18.9.0.279",
       "18.10.0.280"
+    ],
+    [
+      "magix-acid",
+      "2026.0.0.22",
+      "2026.0.0.26"
+    ],
+    [
+      "magix-vegas-0001",
+      "2026.0.3.189",
+      "2027.0.1.56"
     ],
     [
       "burp-suite",
@@ -154,24 +174,24 @@
       "3.4.1"
     ],
     [
-      "chemtable-soft-organizer",
-      "10.50",
-      "11.0"
-    ],
-    [
-      "conceptworld-corporation-filezo",
-      "6.0.19",
-      "6.0.21"
-    ],
-    [
       "coolmuster-android-assistant",
       "6.4.22",
       "6.4.90"
     ],
     [
+      "coolutils-pdf-combine",
+      "4.2.0.210",
+      "4.2.0.220"
+    ],
+    [
       "coolutils-total-audio-converter",
       "6.1.0.324",
       "6.1.0.333"
+    ],
+    [
+      "total-doc-converter",
+      "5.1.0.439",
+      "5.1.0.448"
     ],
     [
       "coolutils-total-image-converter",
@@ -209,6 +229,11 @@
       "25.0.1104.0"
     ],
     [
+      "windowmanager",
+      "10.27.4",
+      "10.27.5"
+    ],
+    [
       "diffchecker",
       "7.3.3",
       "7.3.5"
@@ -216,6 +241,11 @@
     [
       "disk-pulse",
       "18.4.12",
+      "18.4.16"
+    ],
+    [
+      "disk-savvy",
+      "18.3.14",
       "18.4.16"
     ],
     [
@@ -237,6 +267,11 @@
       "eduiq-network-lookout-administrator-pro",
       "5.6.3",
       "5.6.4"
+    ],
+    [
+      "install4j",
+      "12.0.4",
+      "13.1.3"
     ],
     [
       "em-client",
@@ -269,9 +304,19 @@
       "10.6.2.0"
     ],
     [
+      "xj-fast-video-cutter-joiner",
+      "7.2.6",
+      "7.3"
+    ],
+    [
       "file-viewer-plus",
       "6.2.2.120",
       "7.0.1.20"
+    ],
+    [
+      "conceptworld-corporation-filezo",
+      "6.0.19",
+      "6.0.21"
     ],
     [
       "fineprint",
@@ -279,9 +324,14 @@
       "12.36"
     ],
     [
-      "flexense-sysgauge",
-      "13.4.12",
-      "13.7.14"
+      "salty-brine-folderclone-professional-edition",
+      "4.0.1",
+      "4.0.2"
+    ],
+    [
+      "salty-brine-foldermatch",
+      "5.2.3.0",
+      "5.2.6.0"
     ],
     [
       "fontviewok",
@@ -307,6 +357,11 @@
       "geomagic-design",
       "2024.3.3",
       "2026.1.0.03272"
+    ],
+    [
+      "gibbscam-0001",
+      "27.0.42.0",
+      "27.0.44.0"
     ],
     [
       "gilisoft-copy-protect",
@@ -354,9 +409,14 @@
       "8.60.6120"
     ],
     [
-      "install4j",
-      "12.0.4",
-      "13.1.3"
+      "photo-supreme",
+      "2026.4.3.9723",
+      "2026.4.3.9743"
+    ],
+    [
+      "no-faff-installerclean",
+      "3.5.0",
+      "3.6.0"
     ],
     [
       "intel-extreme-tuning-utility",
@@ -374,14 +434,19 @@
       "14.1.0.572"
     ],
     [
+      "iobit-malware-fighter",
+      "13.5.0.1684",
+      "14.0.0.1766"
+    ],
+    [
+      "iobit-smart-defrag",
+      "12.0.0.536",
+      "12.1.0.619"
+    ],
+    [
       "iobit-uninstaller",
       "16.0.0.34",
       "16.1.0.4"
-    ],
-    [
-      "irzyxa-volume2",
-      "1.1.8.465",
-      "26.2.0.476"
     ],
     [
       "ismyhdok",
@@ -392,11 +457,6 @@
       "jalbum",
       "39.10",
       "42.0.8"
-    ],
-    [
-      "kaizen-asset-manager",
-      "4.10.3002",
-      "4.11.3003"
     ],
     [
       "kls-backup",
@@ -434,11 +494,6 @@
       "8.6.0"
     ],
     [
-      "magix-acid",
-      "2026.0.0.22",
-      "2026.0.0.26"
-    ],
-    [
       "magnet-axiom",
       "5.4.0.26185",
       "10.1.0.48673"
@@ -469,14 +524,14 @@
       "14.0.0.2593"
     ],
     [
-      "mojosoft-snap-video-translator",
-      "1.1.1",
-      "1.2.1"
-    ],
-    [
       "motrix-download-manager",
       "2.1.0",
       "2.3.0"
+    ],
+    [
+      "multi-commander",
+      "16.5.0.3221",
+      "16.6.0.3240"
     ],
     [
       "musconv-ultimate",
@@ -494,11 +549,6 @@
       "8.0.0024"
     ],
     [
-      "no-faff-installerclean",
-      "3.5.0",
-      "3.6.0"
-    ],
-    [
       "notepad-plus-plus",
       "8.9.8.1",
       "8.9.9.1"
@@ -509,14 +559,24 @@
       "6.4.3"
     ],
     [
+      "oo-appbuster",
+      "1.3.1343",
+      "3.1.1029.1"
+    ],
+    [
+      "oando-shutup10-premium",
+      "3.6.1135",
+      "3.7.1143"
+    ],
+    [
       "ocbase-occt",
       "17.1.5",
       "17.2.3"
     ],
     [
-      "oo-appbuster",
-      "1.3.1343",
-      "3.1.1029.1"
+      "avanquest-olympia-logo-creation",
+      "1.7.7.64",
+      "1.7.7.80"
     ],
     [
       "paint-net",
@@ -529,9 +589,9 @@
       "4.5.0.7"
     ],
     [
-      "photo-supreme",
-      "2026.4.3.9723",
-      "2026.4.3.9743"
+      "picpick",
+      "7.6.2",
+      "7.7"
     ],
     [
       "prepros",
@@ -542,6 +602,16 @@
       "proficad",
       "14.1.2",
       "14.1.6"
+    ],
+    [
+      "ptc-creo-schematics-0001",
+      "13.0.0",
+      "2027.0.0.0"
+    ],
+    [
+      "wnsoft-pte-video-optimiser",
+      "1.0.2.5",
+      "1.0.3.1"
     ],
     [
       "pvs-studio",
@@ -569,9 +639,29 @@
       "2.23.0"
     ],
     [
+      "wintools-ram-saver",
+      "26.8.1",
+      "26.11.1"
+    ],
+    [
       "realvnc-vnc-server-enterprise-0001",
       "7.17.0",
       "7.19.0"
+    ],
+    [
+      "travis-s-realvoice-text-to-speech",
+      "5.5.1",
+      "5.6.0"
+    ],
+    [
+      "red-gate-smartassembly",
+      "8.4.12.7302",
+      "8.5.2.7513"
+    ],
+    [
+      "sordum-reduce-memory",
+      "1.7",
+      "1.8"
     ],
     [
       "remo-recover",
@@ -584,24 +674,29 @@
       "7.29.0.33052"
     ],
     [
-      "romain-bourdon-wampserver",
-      "3.2.7.5",
-      "3.4.3"
-    ],
-    [
       "rons-weblynx",
       "2026.10.27.1413",
       "2026.11.21.1213"
     ],
     [
-      "salty-brine-folderclone-professional-edition",
-      "4.0.1",
-      "4.0.2"
+      "sandboxie",
+      "5.73.5",
+      "5.74.1"
     ],
     [
-      "salty-brine-foldermatch",
-      "5.2.3.0",
-      "5.2.6.0"
+      "sandboxie-plus",
+      "1.18.5",
+      "1.19.1"
+    ],
+    [
+      "sante-dicom-editor",
+      "10.5",
+      "10.5.1"
+    ],
+    [
+      "sante-dicom-viewer-pro",
+      "14.5",
+      "14.5.1"
     ],
     [
       "sante-pacs-server-pg",
@@ -634,19 +729,24 @@
       "26.1.059"
     ],
     [
+      "mojosoft-snap-video-translator",
+      "1.1.1",
+      "1.2.1"
+    ],
+    [
       "soda-pdf",
       "15.0.22.24937",
       "15.0.30.25012"
     ],
     [
+      "chemtable-soft-organizer",
+      "10.50",
+      "11.0"
+    ],
+    [
       "software-ideas-modeler-ultimate",
       "15.55",
       "15.60"
-    ],
-    [
-      "sordum-reduce-memory",
-      "1.7",
-      "1.8"
     ],
     [
       "soundcraft",
@@ -704,6 +804,11 @@
       "18.4.16"
     ],
     [
+      "flexense-sysgauge",
+      "13.4.12",
+      "13.7.14"
+    ],
+    [
       "technia-brigade-plus",
       "2026.2",
       "2026.3"
@@ -724,26 +829,6 @@
       "8.2.5"
     ],
     [
-      "topwin-windows-movie-maker",
-      "10.0.3.9",
-      "11.0.0.9"
-    ],
-    [
-      "topwin-windows-video-editor",
-      "10.0.3.9",
-      "11.0.0.9"
-    ],
-    [
-      "total-doc-converter",
-      "5.1.0.439",
-      "5.1.0.448"
-    ],
-    [
-      "travis-s-realvoice-text-to-speech",
-      "5.5.1",
-      "5.6.0"
-    ],
-    [
       "tweaknow-winsecret-for-windows-10",
       "10.0.2",
       "10.3"
@@ -754,18 +839,43 @@
       "1.8.3.2"
     ],
     [
+      "irzyxa-volume2",
+      "1.1.8.465",
+      "26.2.0.476"
+    ],
+    [
+      "romain-bourdon-wampserver",
+      "3.2.7.5",
+      "3.4.3"
+    ],
+    [
       "wincatalog",
       "2026.3.1.805",
       "2027.1.0.1119"
     ],
     [
-      "wintools",
-      "26.9.1",
-      "26.11.1"
+      "binisoft-windows-firewall-control",
+      "6.38",
+      "6.41"
     ],
     [
-      "wintools-ram-saver",
-      "26.8.1",
+      "topwin-windows-movie-maker",
+      "10.0.3.9",
+      "11.0.0.9"
+    ],
+    [
+      "topwin-windows-video-editor",
+      "10.0.3.9",
+      "11.0.0.9"
+    ],
+    [
+      "bigilsoft-windowtop",
+      "5.32.6",
+      "5.33"
+    ],
+    [
+      "wintools",
+      "26.9.1",
       "26.11.1"
     ],
     [
@@ -777,16 +887,6 @@
       "wise-reminder",
       "1.3.7.92",
       "2.0.4.219"
-    ],
-    [
-      "wnsoft-pte-video-optimiser",
-      "1.0.2.5",
-      "1.0.3.1"
-    ],
-    [
-      "xj-fast-video-cutter-joiner",
-      "7.2.6",
-      "7.3"
     ],
     [
       "xyplorer",
@@ -815,29 +915,29 @@
       "metodo": "coletor de referência (update_at/published_at, cursor c) na box e no PC (PC Controle Total)",
       "paginas": 0,
       "itens": 0,
-      "detalhe": "Box: redirecionamento 302 para /pw-verify (verificação), __NEXT_DATA__ ausente nas duas ordens. PC: 62 páginas de listagem (60 update_at + 2 published_at) e 722 candidatos, mas páginas de produto sem nome/data (verificação) e retomada da listagem sem __NEXT_DATA__; nenhum limite anterior a 2026-11-02 comprovado. Sem captcha contornado. Nenhum item verificado; itens=0 não é ausência de novidades.",
-      "evidencias": "box:/workspace/softeca_run/out/filecr.json; PC: %TEMP%\\softeca_c10\\filecr.json"
+      "detalhe": "Origem exige verificação \"Bot Detection\" (BunkerWeb, prova de trabalho em JavaScript) em todas as páginas, na box e no PC (redirecionamento para /pw-verify). Coletor corrigido em 23/11: trata /pw-verify e \"Bot Detection\" como bloqueio imediato (1 requisição, para, checkpoint salvo) e descarta do checkpoint as 722 páginas de verificação gravadas antes como se fossem produtos. Re-execução no PC às 09:50: bloqueio na 1ª requisição; 722 candidatos da listagem (60+2 páginas acumuladas, cursor update_at em 09/11) ficam pendentes e retomáveis. Nenhum item verificado; itens=0 não é ausência de novidades. Verificação não contornada.",
+      "evidencias": "PC: %TEMP%\\softeca_c10\\filecr_v2.json; checkpoint %LOCALAPPDATA%\\JPA\\SOFTECA\\checkpoints\\filecr.json"
     },
     "getintopc": {
-      "status": "parcial",
-      "cobertura_completa": false,
+      "status": "ok",
+      "cobertura_completa": true,
       "desde": "2026-11-02",
       "ate": "2026-11-23",
       "metodo": "RSS paginado (feed/?paged=N), versão pelo nome do arquivo anunciado no RSS; executado na box e no PC",
       "paginas": 20,
       "itens": 111,
-      "detalhe": "RSS: 20 páginas, 111 itens, limite anterior a 2026-11-02 alcançado (cobertura temporal do RSS comprovada). Páginas individuais bloqueadas por verificação (box e PC); 13 itens sem versão comprovada ficam pendentes; sem bump inventado.",
+      "detalhe": "RSS: 20 páginas, 111 itens, limite anterior a 2026-11-02 alcançado. As 13 publicações sem versão no RSS foram conferidas nas páginas individuais (box, 23/11 09:47): 5 são artigos/reviews, 1 é pacote de amostras de áudio e 7 só trazem o ano e arquivo nomeado por data (Wakr, RightClickTools, Blockr, ALLPlayer, MiniTool Video Converter, AVS Image Converter, DesktopOK); a origem não publica versão técnica, sem bump inventado. 40 bumps.",
       "evidencias": "box:/workspace/softeca_run/out/getintopc.json"
     },
     "soft98": {
-      "status": "parcial",
-      "cobertura_completa": false,
+      "status": "ok",
+      "cobertura_completa": true,
       "desde": "2026-11-02",
       "ate": "2026-11-23",
       "metodo": "curl 8.14.1 padrão, HTML público /page/N/, calendário Jalali convertido",
       "paginas": 59,
       "itens": 347,
-      "detalhe": "59 páginas, 347 itens, limite anterior a 2026-11-02 alcançado (cobertura temporal comprovada). Marcado parcial porque 10 itens não têm versão comprovada no título; sem bump inventado.",
+      "detalhe": "59 páginas, 347 itens, limite anterior a 2026-11-02 alcançado. As 10 publicações sem versão no título foram conferidas nas páginas individuais (curl padrão, 4 s, sem 429): PTC Creo Schematics traz \"ورژن 2027.0.0.0\" e NET Checker \"1.8.\" (bumps); as outras 8 só trazem ano/SP (Summitsoft 2026, Solidworks 2027 SP0, Silhouette 2027, CAMWorks 2026 SP4, ShopFloor 2026 SP4, WireEDM 2026 SP0, Corona 16) ou não têm ficha comparável. 139 bumps.",
       "evidencias": "box:/workspace/softeca_run/out/soft98.json"
     },
     "malagis": {
@@ -855,10 +955,23 @@
   "entrega": {
     "arquivo": "10 SOFTECA - 23-11-2026.xlsx",
     "status": "ok",
-    "caminho": "OneDrive: Área de Trabalho/JPA Consultoria/APLICAÇÕES E FERRAMENTAS/SOFTECA/10 SOFTECA - 23-11-2026.xlsx",
-    "tamanho": 11772,
-    "sha256": "c89fabddb602eb85043ec9b704b40d01dfff8c430576cf07808e105e710e2728",
-    "verificado_em": "2026-11-23T09:32:20-03:00",
-    "detalhe": "Gravado pelo conector OneDrive; re-lido (download) com nome, tamanho 11772 e SHA-256 idênticos; 2 abas, 159 linhas em Versões atualizadas, Novos no índice vazia."
+    "caminho": "OneDrive: Área de Trabalho/JPA Consultoria/APLICAÇÕES E FERRAMENTAS/SOFTECA/10 SOFTECA - 23-11-2026.xlsx (mesmo item do ciclo 10)",
+    "tamanho": 12460,
+    "sha256": "84c98e70fcc7532f80168c5372731a3ba43a0a58866584ab9e9b384ceeb89fa3",
+    "verificado_em": "2026-11-23T09:52:39-03:00",
+    "detalhe": "Item existente substituído pelo conector OneDrive (o cliente do PC ainda não tinha baixado a versão das 09:32; gravar no caminho local criaria cópia de conflito). Re-lido por download: nome, tamanho 12460 e SHA-256 idênticos; 2 abas, 179 linhas em Versões atualizadas, Novos no índice vazia."
+  },
+  "revisao": {
+    "em": "2026-11-23T09:53:00-03:00",
+    "incluidos_ambiguos": 18,
+    "incluidos_paginas": 2,
+    "excluidos": {
+      "microsoft-net-desktop-runtime": "Soft98 \"11.0.0.50000\" datado de 02/11, antes do lançamento oficial do .NET 11.0.0 (10/11); versão de arquivo/pré-lançamento não comprovada",
+      "ghostbuster": "Soft98 \"Ghost Buster Pro 7.1.1\" é outro produto (limpeza para macOS), não o GhostBuster da ficha",
+      "wipe-pro": "2026.13 igual à ficha",
+      "coolutils-pdf-splitter": "5.2.0.11951 (nome de arquivo no RSS) em formato de build incompatível com 5.2.0.112; não comprovado"
+    },
+    "sem_cadastro": 246,
+    "ficha_com_ano_ou_vazia": 15
   }
 }
